@@ -9,48 +9,48 @@ sidebar:
 
 ### [[Day1] Python 1~2강 & 필수과제 1, 2, 3](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/README/)
 
-- [Basic computer class for newbies](https://raki-1203.github.io/boostcamp_ai_tech/01.-Basic-computer-class-for-newbies/)
-- [파이썬 개요](https://raki-1203.github.io/boostcamp_ai_tech/02.-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EC%9A%94/)
-- [파이썬 코딩 환경](https://raki-1203.github.io/boostcamp_ai_tech/03.-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%ED%99%98%EA%B2%BD/)
-- [Variables](https://raki-1203.github.io/boostcamp_ai_tech/04.-Variables/)
-- [Function and Console I/O](https://raki-1203.github.io/boostcamp_ai_tech/05.-Function-and-Console-IO/)
-- [Conditionals and Loops](https://raki-1203.github.io/boostcamp_ai_tech/06.-Conditionals-and-Loops/)
-- [String and advanced function concept](https://raki-1203.github.io/boostcamp_ai_tech/07.-String-and-advanced-function-concept/)
-- [[필수과제 1] Basic Math](https://raki-1203.github.io/boostcamp_ai_tech/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C-1-Basic-Math/)
-- [[필수과제 2] Text Processing 1](https://raki-1203.github.io/boostcamp_ai_tech/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C-2-Text-Processing-1/)
-- [[필수과제 3] Text processing 2](https://raki-1203.github.io/boostcamp_ai_tech/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C-3-Text-Processing-2/)
+- [Basic computer class for newbies](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/01.-Basic-computer-class-for-newbies/)
+- [파이썬 개요](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/02.-python-summary/)
+- [파이썬 코딩 환경](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/03.-python-coding-environment/)
+- [Variables](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/04.-Variables/)
+- [Function and Console I/O](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/05.-Function-and-Console-IO/)
+- [Conditionals and Loops](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/06.-Conditionals-and-Loops/)
+- [String and advanced function concept](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/07.-String-and-advanced-function-concept/)
+- [[필수과제 1] Basic Math](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/README/)
+- [[필수과제 2] Text Processing 1](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/Assignment-1-Basic-Math/)
+- [[필수과제 3] Text processing 2](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/Assignment-1-Basic-Math/)
 
 ### [[Day2] 파이썬 3 ~ 5강 & 필수과제 4, 5](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/README/)
 
-- [Python Data Structure](https://raki-1203.github.io/boostcamp_ai_tech/01.-Python-Data-Structure/)
-- [Pythonic code]()
-- [Python Object Oriented Programming]()
-- [Module and Project]()
-- [File, Exception, Log Handling]()
-- [Python data handling]()
-- [[필수과제 4] Baseball]()
-- [[필수과제 5] Morsecode]()
+- [Python Data Structure](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/01.-Python-Data-Structure/)
+- [Pythonic code](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/02.-Pythonic-code/)
+- [Python Object Oriented Programming](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/03.-Python-Object-Oriented-Programming/)
+- [Module and Project](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/04.-Module-and-Project/)
+- [File, Exception, Log Handling](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/05.-File_Exception_Log-Handling/)
+- [Python data handling](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/06.-Python-data-handling/)
+- [[필수과제 4] Baseball](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/Assignment-4-Baseball/)
+- [[필수과제 5] Morsecode](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/Assignment-5-Morsecode/)
 
 ### [[Day3] 파이썬 6 ~ 7강 & AI math 1 ~ 4강 & 선택과제 1](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/README/)
 
-- numpy
-- pandas I
-- pandas II
-- 벡터가 뭐예요?
-- 행렬이 뭐예요?
-- 경사하강법 - 순한맛
-- 경사하강법 - 매운맛
-- [선택과제 1] Gradient Descent
+- [numpy](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/01.-numpy/)
+- [pandas I](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/02.-pandas-I/)
+- [pandas II](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/03.-pandas-II/)
+- [벡터가 뭐예요?](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/04.-What-is-vector/)
+- [행렬이 뭐예요?](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/05.-What-is-matrix/)
+- [경사하강법 - 순한맛](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/06.-gradient-descent-mild/)
+- [경사하강법 - 매운맛](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/06.-gradient-descent-mild/)
+- [[선택과제 1] Gradient Descent](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/Choice-Assignment-1-Gradient-Descent/)
 
 ### [[Day4] AI math 5 ~ 8강 & 선택과제 3](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/README/)
 
-- 딥러닝 학습방법 이해하기
-- 확률론 맛보기
-- 통계학 맛보기
-- 베이즈 통계학 맛보기
-- [마스터클래스] 임성빈 교수님
-- [멘토] 김준태멘토님
-- [선택과제 3] Maximum Likelihood Estimation
+- [딥러닝 학습방법 이해하기](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/01.-Understanding-Deep-Learning-Train-Methods/)
+- [확률론 맛보기](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/02.-A-tase-of-probability-theory/)
+- [통계학 맛보기](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/03.-A-taste-of-statistics/)
+- [베이즈 통계학 맛보기](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/README/)
+- [[마스터클래스] 임성빈 교수님](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/MasterClass-Professor-LimSungbin/)
+- [[멘토] 김준태멘토님](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/Mentoring-KimJunTae/)
+- [[선택과제 3] Maximum Likelihood Estimation](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/Choice-Assignment-3-Maximum-Likelihood-Estimation-(MLE)/)
 
 ### [[Day5] AI math 9 ~ 10강 & 선택과제 2](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_5/README/)
 
