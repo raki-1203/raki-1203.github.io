@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Category"
-    url: /categories/
-  - title: "Tag"
-    url: /tags/
-  - title: "Boostcamp"
-    url: /Boostcamp_AI_Tech/
+#  - title: "Category"
+#    url: /categories/
+#  - title: "Tag"
+#    url: /tags/
+#  - title: "Boostcamp"
+#    url: /Boostcamp_AI_Tech/
 
 
 docs:
