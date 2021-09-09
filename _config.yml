@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "raki-1203-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "늘 공부하는 딥린이"
-  avatar           : "/assets/images/logo.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"/assets/images/logo.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "더 잘하기 위해 **늘 공부하는 딥린이**"
   location         : "South Korea"
   email            :
@@ -284,7 +284,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
       related: true
 
