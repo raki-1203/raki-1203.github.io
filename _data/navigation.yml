@@ -15,8 +15,8 @@ docs:
     url: /Boostcamp_AI_Tech/
     children:
       - title: "Week_1"
-        url: {{site.url}}/boostcamp_ai_tech/Week_1-README/
-      - title: "Structure"
+        url: https://raki-1203.github.io/boostcamp_ai_tech/Week_1-README/
+      - title: "Week_2"
         url: /docs/structure/
       - title: "Installation"
         url: /docs/installation/

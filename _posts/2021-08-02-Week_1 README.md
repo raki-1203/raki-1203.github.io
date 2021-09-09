@@ -6,6 +6,9 @@ categories:
 tags:
   - Python
   - AI Math
+author_profile: true
+sidebar:
+    var: "docs"
 ---
 
 # [Week1] Python Basics For AI - 최성철 교수님 & AI Math - 임성빈 교수님
