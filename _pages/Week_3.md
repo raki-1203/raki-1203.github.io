@@ -9,20 +9,20 @@ sidebar:
 
 # [Week3] PyTorch 기본 - 최성철 교수님 & [Special] Data Viz - 안수빈 강사
 
-### [[Day11] PyTorch 기본 1 ~ 3강 & 필수과제 Custom Model 개발하기](https://github.com/raki-1203/boostcamp_note/tree/main/Week_3/Day_11)
+### [[Day11] PyTorch 기본 1 ~ 3강 & 필수과제 Custom Model 개발하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_11/README/)
 
 - Introduction to PyTorch
 - PyTorch Basics
 - PyTorch 프로젝트 구조 이해하기
 - [필수과제] Custom Model 개발하기
 
-### [[Day12] PyTorch 기본 4 ~ 5강 & 필수과제 Custom Dataset 과제](https://github.com/raki-1203/boostcamp_note/tree/main/Week_3/Day_12)
+### [[Day12] PyTorch 기본 4 ~ 5강 & 필수과제 Custom Dataset 과제](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_12/README/)
 
 - AutoGrad & Optimizer
 - Dataset & Dataloader
 - [필수과제] Custom Dataset 과제
 
-### [[Day13] PyTorch 기본 6 ~ 7강 & 시각화 3-1 ~ 3-2강 & 선택과제 Transfer Learning + Parameter Tuning](https://github.com/raki-1203/boostcamp_note/tree/main/Week_3/Day_13)
+### [[Day13] PyTorch 기본 6 ~ 7강 & 시각화 3-1 ~ 3-2강 & 선택과제 Transfer Learning + Parameter Tuning](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_13/README/)
 
 - 모델 불러오기
 - Monitoring tools for PyTorch
@@ -30,7 +30,7 @@ sidebar:
 - Color 사용하기
 - [선택과제] Transfer Learning + Parameter Tuning
 
-### [[Day14] PyTorch 기본 8 ~ 10강 & 시각화 3-3 ~ 3-4강](https://github.com/raki-1203/boostcamp_note/tree/main/Week_3/Day_14)
+### [[Day14] PyTorch 기본 8 ~ 10강 & 시각화 3-3 ~ 3-4강](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_14/README/)
 
 - Multi-GPU 학습
 - Hyperparameter Tuning

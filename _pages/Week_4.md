@@ -9,30 +9,30 @@ sidebar:
 
 # [Week4] 이미지 분류 - 김태진 강사 & [Special] Data Viz - 안수빈 강사
 
-### [[Day15] 이미지 분류 1 ~ 2강 & 시각화 4-1 ~ 4-2강](https://github.com/raki-1203/boostcamp_note/tree/main/Week_4/Day_15)
+### [[Day15] 이미지 분류 1 ~ 2강 & 시각화 4-1 ~ 4-2강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/day_15/README/)
 
 - Competition with AI Stages!
 - Image Classification & EDA
 - Seaborn 소개
 - Seaborn 기초
 
-### [[Day16] 이미지 분류 3 ~ 4강 & 시각화 4-3강](https://github.com/raki-1203/boostcamp_note/tree/main/Week_4/Day_16)
+### [[Day16] 이미지 분류 3 ~ 4강 & 시각화 4-3강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/day_16/README/)
 
 - Dataset
 - Data Generation
 - Seaborn 심화
 
-### [[Day17] 이미지 분류 5 ~ 6강](https://github.com/raki-1203/boostcamp_note/tree/main/Week_4/Day_17)
+### [[Day17] 이미지 분류 5 ~ 6강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/day_17/README/)
 
 - Model 1
 - Model 2
 
-### [[Day18] 이미지 분류 7 ~ 8강](https://github.com/raki-1203/boostcamp_note/tree/main/Week_4/Day_18)
+### [[Day18] 이미지 분류 7 ~ 8강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/day_18/README/)
 
 - Training & Inference 1
 - Training & Inference 2
 
-### [[Day19] 이미지 분류 9 ~ 10강](https://github.com/raki-1203/boostcamp_note/tree/main/Week_4/Day_19)
+### [[Day19] 이미지 분류 9 ~ 10강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/day_19/README/)
 
 - Ensemble
 - Experiment Toolkits & Tips
