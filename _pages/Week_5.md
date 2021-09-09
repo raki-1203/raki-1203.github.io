@@ -1,6 +1,6 @@
 ---
 title: "[Week5] 이미지 분류 - 김태진 강사"
-permalink: /Boostcamp_AI_Tech/Week_5
+permalink: /Boostcamp_AI_Tech/Week_5/
 layout: category
 author_profile: true
 sidebar:

@@ -1,6 +1,6 @@
 ---
 title: "[Week2] DL Basic - 최성준 교수님 & [Special] Data Viz - 안수빈 강사"
-permalink: /Boostcamp_AI_Tech/Week_2
+permalink: /Boostcamp_AI_Tech/Week_2/
 layout: category
 author_profile: true
 sidebar:

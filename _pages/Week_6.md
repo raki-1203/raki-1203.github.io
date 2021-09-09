@@ -1,6 +1,6 @@
 ---
 title: "[Week6] NLP - 주재걸 교수님 & [Special] Data Viz - 안수빈 강사"
-permalink: /Boostcamp_AI_Tech/Week_6
+permalink: /Boostcamp_AI_Tech/Week_6/
 layout: category
 author_profile: true
 sidebar:
