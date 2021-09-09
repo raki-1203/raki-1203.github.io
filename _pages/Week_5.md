@@ -1,10 +1,10 @@
 ---
 title: "[Week5] 이미지 분류 - 김태진 강사"
-
-categories:
-  - Boostcamp_AI_Tech
-tags:
-  - P-Stage level1
+permalink: /Boostcamp_AI_Tech/Week_5
+layout: category
+author_profile: true
+sidebar:
+    nav: "docs"
 ---
 
 # [Week5] 이미지 분류 - 김태진 강사

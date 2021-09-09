@@ -15,43 +15,19 @@ docs:
     url: /Boostcamp_AI_Tech/
     children:
       - title: "Week_1"
-        url: https://raki-1203.github.io/boostcamp_ai_tech/Week_1-README/
+        url: /Boostcamp_AI_Tech/Week_1/
       - title: "Week_2"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+        url: /Boostcamp_AI_Tech/Week_2/
+      - title: "Week_3"
+        url: /Boostcamp_AI_Tech/Week_3/
+      - title: "Week_4"
+        url: /Boostcamp_AI_Tech/Week_4/
+      - title: "Week_5"
+        url: /Boostcamp_AI_Tech/Week_5/
+      - title: "Week_6"
+        url: /Boostcamp_AI_Tech/Week_6/
 
-  - title: Customization
+  - title: 개발이야기
     children:
-      - title: "Configuration"
+      - title: "Linux"
         url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/

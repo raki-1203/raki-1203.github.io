@@ -1,11 +1,10 @@
 ---
 title: "[Week4] 이미지 분류 - 김태진 강사 & [Special] Data Viz - 안수빈 강사"
-
-categories:
-  - Boostcamp_AI_Tech
-tags:
-  - P-Stage level1
-  - Visualization
+permalink: /Boostcamp_AI_Tech/Week_4
+layout: category
+author_profile: true
+sidebar:
+    nav: "docs"
 ---
 
 # [Week4] 이미지 분류 - 김태진 강사 & [Special] Data Viz - 안수빈 강사

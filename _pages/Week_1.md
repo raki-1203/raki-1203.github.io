@@ -1,17 +1,11 @@
 ---
 title: "[Week1] Python Basics For AI - 최성철 교수님 & AI Math - 임성빈 교수님"
-  
-categories:
-  - Boostcamp_AI_Tech
-tags:
-  - Python
-  - AI Math
+permalink: /Boostcamp_AI_Tech/Week_1
+layout: category
 author_profile: true
 sidebar:
-    var: "docs"
+    nav: "docs"
 ---
-
-# [Week1] Python Basics For AI - 최성철 교수님 & AI Math - 임성빈 교수님
 
 ### [[Day1] Python 1~2강 & 필수과제 1, 2, 3](https://github.com/raki-1203/boostcamp_note/tree/main/Week_1/Day_1)
 

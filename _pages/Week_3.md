@@ -1,11 +1,10 @@
 ---
 title: "[Week3] PyTorch 기본 - 최성철 교수님 & [Special] Data Viz - 안수빈 강사"
-
-categories:
-  - Boostcamp_AI_Tech
-tags:
-  - PyTorch
-  - Visualization
+permalink: /Boostcamp_AI_Tech/Week_3
+layout: category
+author_profile: true
+sidebar:
+    nav: "docs"
 ---
 
 # [Week3] PyTorch 기본 - 최성철 교수님 & [Special] Data Viz - 안수빈 강사
