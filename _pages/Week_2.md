@@ -9,41 +9,41 @@ sidebar:
 
 ### [[Day6] DL Basic 1 ~ 2강 & 시각화 1-1 ~ 1-3강 & 필수과제 MLP_Assignment](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_6/README/)
 
-- 딥러닝 기본 용어 설명 - Historical Review
-- 뉴럴 네트워크 - MLP (Multi-Layer Perceptron)
-- Welcome to Visualization (OT)
-- 시각화의 요소
-- Python과 Matplotlib
+- [딥러닝 기본 용어 설명 - Historical Review](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_6/01.-Deep-Learning-Basic-Terms-Explained-Historical-Review/)
+- [뉴럴 네트워크 - MLP (Multi-Layer Perceptron)](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_6/02.-Neural-Network-MLP-(Multi-Layer-Perceptron)/)
+- [Welcome to Visualization (OT)](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_6/03.-Welcome-to-Visualization-(OT)/)
+- [시각화의 요소](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_6/04.-Elements-of-visualization/)
+- [Python과 Matplotlib](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_6/05.-Python-and-Matplotlib/)
 - [필수과제] MLP Assignment
 
 ### [[Day7] DL Basic 3강 & 시각화 2-1강 & 필수과제 Optimization_Assignment](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_7/README/)
 
-- Optimization
-- Bar Plot 사용하기
-- [도메인특강 CV, NLP] - 서대원, 박선규
-- [마스터클래스] - 안수빈 강사
+- [Optimization](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_7/01.-Optimization/)
+- [Bar Plot 사용하기](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_7/02.-Bar-Plot/)
+- [[도메인특강 CV, NLP] - 서대원, 박선규](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_7/Domain-Special-Lecuture/)
+- [[마스터클래스] - 안수빈 강사](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_7/MasterClass-AnSooBin/)
 
 ### [[Day8] DL Basic 4~6강 & 시각화 2-2강 & 필수과제 CNN Assignment](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_8/README/)
 
-- Convolution은 무엇인가?
-- Modern CNN - 1x1 convolution의 중요성
-- Computer Vision Application
-- Line Plot 사용하기
-- [github 특강1] - 이고잉 강사
+- [Convolution은 무엇인가?](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_8/01.-What-is-Convolution/)
+- [Modern CNN - 1x1 convolution의 중요성](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_8/02.-Modern-CNN-1x1-convolution/)
+- [Computer Vision Application](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_8/03.-Computer-Vision-Applications/)
+- [Line Plot 사용하기](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_8/04.-Line-Plot/)
+- [[github 특강1] - 이고잉 강사](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_8/github-1-egoing/)
 
 ### [[Day9] DL Basic 7~8강 & 필수과제 LSTM Assignment & Multi-headed Attention](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_9/README/)
 
-- Sequential Models - RNN
-- Sequential Models - Transformer
-- [github 특강2] - 이고잉 강사
-- [오피스아워(선택과제해설)] - 이주용, 이하경, 류영표 멘토
+- [Sequential Models - RNN](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_9/01.-Sequential-Models-RNN/)
+- [Sequential Models - Transformer](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_9/02.-Sequential-Models-Transformer/)
+- [[github 특강2] - 이고잉 강사](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_9/github-2-egoing/)
+- [[오피스아워(선택과제해설)] - 이주용, 이하경, 류영표 멘토](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_9/OfficeHour/)
 
 ### [[Day10] DL Basic 9~10강 & 시각화 2-3강](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_10/README/)
 
-- Generative Models 1
-- Generative Models 2
-- Scatter Plot 사용하기
-- [마스터클래스] - 최성준 교수님
+- [Generative Models 1](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_10/01.-Generative-Models-1/)
+- [Generative Models 2](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_10/02.-Generative-Models-2/)
+- [Scatter Plot 사용하기](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_10/03.-Scatter-Plot/)
+- [[마스터클래스] - 최성준 교수님](https://raki-1203.github.io/boostcamp_ai_tech/week_2/day_10/MasterClass-ChoiSungJun-Professor/)
 
 ### [Week2 피어세션 정리](https://github.com/raki-1203/Boostcamp_2st_Hot6/tree/main/Meetup-log/week2)
 

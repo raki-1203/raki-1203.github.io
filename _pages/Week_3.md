@@ -9,32 +9,32 @@ sidebar:
 
 ### [[Day11] PyTorch 기본 1 ~ 3강 & 필수과제 Custom Model 개발하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_11/README/)
 
-- Introduction to PyTorch
-- PyTorch Basics
-- PyTorch 프로젝트 구조 이해하기
+- [Introduction to PyTorch](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_11/01.-Introduction-to-PyTorch/)
+- [PyTorch Basics](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_11/02.-PyTorch-Basics/)
+- [PyTorch 프로젝트 구조 이해하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_11/03.-PyTorch-Project-Structure/)
 - [필수과제] Custom Model 개발하기
 
 ### [[Day12] PyTorch 기본 4 ~ 5강 & 필수과제 Custom Dataset 과제](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_12/README/)
 
-- AutoGrad & Optimizer
-- Dataset & Dataloader
+- [AutoGrad & Optimizer](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_12/01.-AutoGrad-&-Optimizer/)
+- [Dataset & Dataloader](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_12/02.-Dataset-&-Dataloader/)
 - [필수과제] Custom Dataset 과제
 
 ### [[Day13] PyTorch 기본 6 ~ 7강 & 시각화 3-1 ~ 3-2강 & 선택과제 Transfer Learning + Parameter Tuning](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_13/README/)
 
-- 모델 불러오기
-- Monitoring tools for PyTorch
-- Text 사용하기
-- Color 사용하기
+- [모델 불러오기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_13/01.-Load-Model/)
+- [Monitoring tools for PyTorch](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_13/02.-Monitoroing-tools-for-PyTorch/)
+- [Text 사용하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_13/03.-Text/)
+- [Color 사용하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_13/04.-Color/)
 - [선택과제] Transfer Learning + Parameter Tuning
 
 ### [[Day14] PyTorch 기본 8 ~ 10강 & 시각화 3-3 ~ 3-4강](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_14/README/)
 
-- Multi-GPU 학습
-- Hyperparameter Tuning
-- Pytorch Troubleshooting
-- Facet 사용하기
-- More Tips
+- [Multi-GPU 학습](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_14/01.-Multi-GPU/)
+- [Hyperparameter Tuning](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_14/02.-Hyperparameter-Tuning/)
+- [Pytorch Troubleshooting](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_14/03.-PyTorch-Troubleshooting/)
+- [Facet 사용하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_14/04.-Facet/)
+- [More Tips](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_14/05.-More-Tips/)
 
 ### [Week3 피어세션 정리](https://github.com/raki-1203/Boostcamp_2st_Hot6/tree/main/Meetup-log/week3)
 

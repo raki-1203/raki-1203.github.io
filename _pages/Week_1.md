@@ -52,11 +52,10 @@ sidebar:
 - [[멘토] 김준태멘토님](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/Mentoring-KimJunTae/)
 - [[선택과제 3] Maximum Likelihood Estimation](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/Choice-Assignment-3-Maximum-Likelihood-Estimation-(MLE)/)
 
-### [[Day5] AI math 9 ~ 10강 & 선택과제 2](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_5/README/)
+### [[Day5] AI math 9 ~ 10강](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_5/README/)
 
-- CNN 첫걸음
-- RNN 첫걸음
-- [선택과제 2] Backpropagation
+- [CNN 첫걸음](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_5/01.-CNN-first-step/)
+- [RNN 첫걸음](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_5/02.-RNN-first-step/)
 
 ### [Week1 피어세션 정리](https://github.com/raki-1203/Boostcamp_2st_Hot6/tree/main/Meetup-log/week1)
 
