@@ -5,6 +5,7 @@ categories:
   - Boostcamp_AI_Tech
 tags:
   - AI Math
+use_math: true
 ---
 
 # [선택과제 3] Maximum Likelihood Estimation (MLE)
