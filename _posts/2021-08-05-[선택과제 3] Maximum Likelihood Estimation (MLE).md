@@ -19,7 +19,7 @@ $$= \sum_{i=1}^{n}\left(\log\frac{1}{\sigma\sqrt{2\pi}} + \log\exp\left(-\frac{(
 
 $$= \sum_{i=1}^{n}\left(\log\frac{1}{\sqrt{2\pi\sigma^2}} -\frac{(x_i-\mu)^2}{2\sigma^2}\right)$$
 
-$$= n\log{{2\pi\sigma^2}}^{-\frac{1}{2}} -\sum_{i=1}^{n}\frac{(x_i-\mu)^2}{2\sigma^2}$$
+$$= n\log{2\pi\sigma^2}^{-\frac{1}{2}} -\sum_{i=1}^{n}\frac{(x_i-\mu)^2}{2\sigma^2}$$
 
 $$= -\frac{n}{2}\log{2\pi\sigma^2} -\sum_{i=1}^{n}\frac{(x_i-\mu)^2}{2\sigma^2}$$
 
