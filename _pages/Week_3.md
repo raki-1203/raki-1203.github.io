@@ -7,8 +7,6 @@ sidebar:
     nav: "docs"
 ---
 
-# [Week3] PyTorch 기본 - 최성철 교수님 & [Special] Data Viz - 안수빈 강사
-
 ### [[Day11] PyTorch 기본 1 ~ 3강 & 필수과제 Custom Model 개발하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/day_11/README/)
 
 - Introduction to PyTorch

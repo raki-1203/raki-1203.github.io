@@ -7,8 +7,6 @@ sidebar:
     nav: "docs"
 ---
 
-# [Week5] 이미지 분류 - 김태진 강사
-
 ### [[Day21] 8/25일자 Special Mission](https://github.com/raki-1203/boostcamp_note/tree/main/Week_5/Day_21)
 
 - Darknet-53 모델 PyTorch 로 구현하기

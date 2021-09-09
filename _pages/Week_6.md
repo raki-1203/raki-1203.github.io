@@ -7,8 +7,6 @@ sidebar:
     nav: "docs"
 ---
 
-# [Week6] NLP - 주재걸 교수님 & [Special] Data Viz - 안수빈 강사
-
 ### [[Day25] NLP 1 ~ 2강 & 시각화 5-1 ~ 5-2강](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_25/README/)
 
 - Intro to NLP, Bag-of-Words

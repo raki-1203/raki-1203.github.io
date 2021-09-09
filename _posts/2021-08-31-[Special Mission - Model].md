@@ -2,7 +2,7 @@
 title: "Day_21 Mission"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Boostcamp_AI_Tech/Week_5/Day_21
 tags:
   - P-Stage level1
 ---

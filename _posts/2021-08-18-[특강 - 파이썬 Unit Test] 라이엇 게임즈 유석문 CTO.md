@@ -2,7 +2,7 @@
 title: "Day_12 [특강 - 파이썬 Unit Test] 라이엇 게임즈 유석문 CTO"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Boostcamp_AI_Tech/Week_3/Day_12
 tags:
   - 특강
 ---

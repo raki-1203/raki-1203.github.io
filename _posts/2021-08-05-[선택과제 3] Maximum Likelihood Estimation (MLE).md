@@ -2,7 +2,7 @@
 title: "Day_4 [선택과제 3] Maximum Likelihood Estimation (MLE)"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Boostcamp_AI_Tech/Week_1/Day_4
 tags:
   - AI Math
 ---

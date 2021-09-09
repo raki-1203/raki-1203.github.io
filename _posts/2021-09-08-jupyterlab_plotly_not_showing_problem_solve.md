@@ -2,9 +2,10 @@
 title: "jupyterlab_plotly_not_showing_problem_solve"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Install
 tags:
   - jupyter
+  - plotly
 ---
 
 # jupyterlab_plotly_not_showing_problem_solve

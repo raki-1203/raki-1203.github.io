@@ -2,7 +2,7 @@
 title: "Day_24 [P-Stage level 1] Mask Image Classification 개인 회고"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Boostcamp_AI_Tech/Week_5/Day_24
 tags:
   - P-Stage level1
 ---

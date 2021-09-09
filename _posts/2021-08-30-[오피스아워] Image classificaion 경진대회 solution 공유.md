@@ -2,7 +2,7 @@
 title: "Day_20 [오피스아워] Image classificaion 경진대회 solution 공유"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Boostcamp_AI_Tech/Week_5/Day_20
 tags:
   - 오피스아워
 ---

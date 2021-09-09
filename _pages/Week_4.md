@@ -7,8 +7,6 @@ sidebar:
     nav: "docs"
 ---
 
-# [Week4] 이미지 분류 - 김태진 강사 & [Special] Data Viz - 안수빈 강사
-
 ### [[Day15] 이미지 분류 1 ~ 2강 & 시각화 4-1 ~ 4-2강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/day_15/README/)
 
 - Competition with AI Stages!

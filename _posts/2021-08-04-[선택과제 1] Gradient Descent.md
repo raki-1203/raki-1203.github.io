@@ -2,7 +2,7 @@
 title: "Day_3 [선택 과제 1] Gradient Descent"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Boostcamp_AI_Tech/Week_1/Day_3
 tags:
   - AI Math
 ---

@@ -2,7 +2,7 @@
 title: "Day_1 [필수과제 2] Text Processing 1"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Boostcamp_AI_Tech/Week_1/Day_1
 tags:
   - Python
 ---

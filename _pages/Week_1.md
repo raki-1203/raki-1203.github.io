@@ -9,27 +9,27 @@ sidebar:
 
 ### [[Day1] Python 1~2강 & 필수과제 1, 2, 3](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/README/)
 
-- Basic computer class for newbies
-- 파이썬 개요
-- 파이썬 코딩 환경
-- Variables
-- Function and Console I/O
-- Conditionals and Loops
-- String and advanced function concept
-- [필수과제 1] Basic Math
-- [필수과제 2] Text Processing 1
-- [필수과제 3] Text processing 2
+- [Basic computer class for newbies](https://raki-1203.github.io/boostcamp_ai_tech/01.-Basic-computer-class-for-newbies/)
+- [파이썬 개요](https://raki-1203.github.io/boostcamp_ai_tech/02.-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EC%9A%94/)
+- [파이썬 코딩 환경](https://raki-1203.github.io/boostcamp_ai_tech/03.-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%ED%99%98%EA%B2%BD/)
+- [Variables](https://raki-1203.github.io/boostcamp_ai_tech/04.-Variables/)
+- [Function and Console I/O](https://raki-1203.github.io/boostcamp_ai_tech/05.-Function-and-Console-IO/)
+- [Conditionals and Loops](https://raki-1203.github.io/boostcamp_ai_tech/06.-Conditionals-and-Loops/)
+- [String and advanced function concept](https://raki-1203.github.io/boostcamp_ai_tech/07.-String-and-advanced-function-concept/)
+- [[필수과제 1] Basic Math](https://raki-1203.github.io/boostcamp_ai_tech/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C-1-Basic-Math/)
+- [[필수과제 2] Text Processing 1](https://raki-1203.github.io/boostcamp_ai_tech/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C-2-Text-Processing-1/)
+- [[필수과제 3] Text processing 2](https://raki-1203.github.io/boostcamp_ai_tech/%ED%95%84%EC%88%98%EA%B3%BC%EC%A0%9C-3-Text-Processing-2/)
 
 ### [[Day2] 파이썬 3 ~ 5강 & 필수과제 4, 5](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/README/)
 
-- Python Data Structure
-- Pythonic code
-- Python Object Oriented Programming
-- Module and Project
-- File, Exception, Log Handling
-- Python data handling
-- [필수과제 4] Baseball
-- [필수과제 5] Morsecode
+- [Python Data Structure](https://raki-1203.github.io/boostcamp_ai_tech/01.-Python-Data-Structure/)
+- [Pythonic code]()
+- [Python Object Oriented Programming]()
+- [Module and Project]()
+- [File, Exception, Log Handling]()
+- [Python data handling]()
+- [[필수과제 4] Baseball]()
+- [[필수과제 5] Morsecode]()
 
 ### [[Day3] 파이썬 6 ~ 7강 & AI math 1 ~ 4강 & 선택과제 1](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/README/)
 
