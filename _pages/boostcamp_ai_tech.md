@@ -3,6 +3,8 @@ title: "Boostcamp AI Tech"
 permalink: /Boostcamp_AI_Tech/
 layout: category
 author_profile: true
+sidebar:
+    nav: "docs"
 taxonomy: 부스트캠프 AI Tech
 ---
 
