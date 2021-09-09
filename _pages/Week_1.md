@@ -7,7 +7,7 @@ sidebar:
     nav: "docs"
 ---
 
-### [[Day1] Python 1~2강 & 필수과제 1, 2, 3](https://github.com/raki-1203/boostcamp_note/tree/main/Week_1/Day_1)
+### [[Day1] Python 1~2강 & 필수과제 1, 2, 3](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_1/README/)
 
 - Basic computer class for newbies
 - 파이썬 개요
@@ -20,7 +20,7 @@ sidebar:
 - [필수과제 2] Text Processing 1
 - [필수과제 3] Text processing 2
 
-### [[Day2] 파이썬 3 ~ 5강 & 필수과제 4, 5](https://github.com/raki-1203/boostcamp_note/tree/main/Week_1/Day_2)
+### [[Day2] 파이썬 3 ~ 5강 & 필수과제 4, 5](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_2/README/)
 
 - Python Data Structure
 - Pythonic code
@@ -31,7 +31,7 @@ sidebar:
 - [필수과제 4] Baseball
 - [필수과제 5] Morsecode
 
-### [[Day3] 파이썬 6 ~ 7강 & AI math 1 ~ 4강 & 선택과제 1](https://github.com/raki-1203/boostcamp_note/tree/main/Week_1/Day_3)
+### [[Day3] 파이썬 6 ~ 7강 & AI math 1 ~ 4강 & 선택과제 1](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_3/README/)
 
 - numpy
 - pandas I
@@ -42,7 +42,7 @@ sidebar:
 - 경사하강법 - 매운맛
 - [선택과제 1] Gradient Descent
 
-### [[Day4] AI math 5 ~ 8강 & 선택과제 3](https://github.com/raki-1203/boostcamp_note/tree/main/Week_1/Day_4)
+### [[Day4] AI math 5 ~ 8강 & 선택과제 3](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_4/README/)
 
 - 딥러닝 학습방법 이해하기
 - 확률론 맛보기
@@ -52,7 +52,7 @@ sidebar:
 - [멘토] 김준태멘토님
 - [선택과제 3] Maximum Likelihood Estimation
 
-### [[Day5] AI math 9 ~ 10강 & 선택과제 2](https://github.com/raki-1203/boostcamp_note/tree/main/Week_1/Day_5)
+### [[Day5] AI math 9 ~ 10강 & 선택과제 2](https://raki-1203.github.io/boostcamp_ai_tech/week_1/day_5/README/)
 
 - CNN 첫걸음
 - RNN 첫걸음
