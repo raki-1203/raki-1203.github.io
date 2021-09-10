@@ -13,7 +13,7 @@ sidebar:
 - [Word Embedding](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_25/02.-Word-Embedding/)
 - [Polar Coordinate](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_25/03.-Polar-Coordinate/)
 - [Pie Charts](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_25/04.-Pie-Charts/)
-- [MeetUp <부캠에서 살아남기>](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_25/MeetUP/)
+- [MeetUp 부캠에서 살아남기](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_25/MeetUP/)
 
 ### [[Day26] NLP 3 ~ 4강 & 시각화 5-3 ~ 6-1강](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_26/README/)
 
