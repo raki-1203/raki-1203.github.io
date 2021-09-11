@@ -32,7 +32,7 @@ sidebar:
 
 - [[마스터클래스 주재걸 교수님]](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_28/MasterClass-JooJaeGul-Professor/)
 
-### [Day29 시각화 7-1 ~ 7-2강]
+### [Day29] 시각화 7-1 ~ 7-2강
 
 - [Custom Matplotlib Theme](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_29/01.-Custom-Matplotlib-Theme/)
 - [Image & Text Visualization Techniques](https://raki-1203.github.io/boostcamp_ai_tech/week_6/day_29/02.-Image-and-Text-Visualization-Techniques/)

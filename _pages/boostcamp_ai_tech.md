@@ -23,7 +23,7 @@ taxonomy: 부스트캠프 AI Tech
 ## U Stage
 - 1~3주차 강의
 
-### [[Week1] Python Basics For AI - 최성철 교수님 & AI Math - 임성빈 교수님](https://github.com/raki-1203/boostcamp_note/tree/main/Week_1)
+### [[Week1] Python Basics For AI - 최성철 교수님 & AI Math - 임성빈 교수님](/Boostcamp_AI_Tech/Week_1/)
 
 - [Day1] Python 1~2강 & 필수과제 1, 2, 3
 - [Day2] 파이썬 3 ~ 5강 & 필수과제 4, 5
@@ -31,7 +31,7 @@ taxonomy: 부스트캠프 AI Tech
 - [Day4] AI math 5 ~ 8강 & 선택과제 3
 - [Day5] AI math 9 ~ 10강 & 선택과제 2
 
-### [[Week2] DL Basic - 최성준 교수님 & [Special] Data Viz - 안수빈 강사](https://github.com/raki-1203/boostcamp_note/tree/main/Week_2)
+### [[Week2] DL Basic - 최성준 교수님 & [Special] Data Viz - 안수빈 강사](/Boostcamp_AI_Tech/Week_2)
 
 - [Day6] DL Basic 1 ~ 2강 & 시각화 1-1 ~ 1-3강 & 필수과제 MLP_Assignment
 - [Day7] DL Basic 3강 & 시각화 2-1강 & 필수과제 Optimization_Assignment
@@ -39,7 +39,7 @@ taxonomy: 부스트캠프 AI Tech
 - [Day9] DL Basic 7~8강 & 필수과제 LSTM Assignment & Multi-headed Attention
 - [Day10] DL Basic 9~10강 & 시각화 2-3강
 
-### [[Week3] PyTorch 기본 - 최성철 교수님 & [Special] Data Viz - 안수빈 강사](https://github.com/raki-1203/boostcamp_note/tree/main/Week_3)
+### [[Week3] PyTorch 기본 - 최성철 교수님 & [Special] Data Viz - 안수빈 강사](/Boostcamp_AI_Tech/Week_3)
 
 - [Day11] PyTorch 기본 1 ~ 3강 & 필수과제 Custom Model 개발하기
 - [Day12] PyTorch 기본 4 ~ 5강 & 필수과제 Custom Dataset 과제
@@ -50,7 +50,7 @@ taxonomy: 부스트캠프 AI Tech
 ## P Stage
 - 4~5주차 강의 & 대회
 
-### [[Week4] 이미지 분류 - 김태진 강사 & [Special] Data Viz - 안수빈 강사](https://github.com/raki-1203/boostcamp_note/tree/main/Week_4)
+### [[Week4] 이미지 분류 - 김태진 강사 & [Special] Data Viz - 안수빈 강사](/Boostcamp_AI_Tech/Week_4)
 
 - [Day15] 이미지 분류 1 ~ 2강 & 시각화 4-1 ~ 4-2강
 - [Day16] 이미지 분류 3 ~ 4강 & 시각화 4-3강
@@ -58,7 +58,7 @@ taxonomy: 부스트캠프 AI Tech
 - [Day18] 이미지 분류 7 ~ 8강
 - [Day19] 이미지 분류 9 ~ 10강
 
-### [[Week5] 이미지 분류 - 김태진 강사](https://github.com/raki-1203/boostcamp_note/tree/main/Week_5)
+### [[Week5] 이미지 분류 - 김태진 강사](/Boostcamp_AI_Tech/Week_5)
 
 - [Day20] 이미지 분류 대회
 - [Day21] 이미지 분류 대회
@@ -69,7 +69,10 @@ taxonomy: 부스트캠프 AI Tech
 ## U Stage
 - 6~8주차 강의
 
-### [[Week6] NLP - 주재걸 교수님 & [Special] Data Viz - 안수빈 강사](https://github.com/raki-1203/boostcamp_note/tree/main/Week_6)
+### [[Week6] NLP - 주재걸 교수님 & [Special] Data Viz - 안수빈 강사](/Boostcamp_AI_Tech/Week_6)
 
 - [Day25] NLP 1 ~ 2강 & 시각화 5-1 ~ 5-2강
-- 
+- [Day26] NLP 3 ~ 4강 & 시각화 5-3 ~ 6-1강
+- [Day27] NLP 5 ~ 6강 & 시각화 6-2강
+- [Day28]
+- [Day29] 시각화 7-1 ~ 7-2강
