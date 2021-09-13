@@ -76,3 +76,8 @@ taxonomy: 부스트캠프 AI Tech
 - [Day27] NLP 5 ~ 6강 & 시각화 6-2강
 - [Day28]
 - [Day29] 시각화 7-1 ~ 7-2강
+
+### [[Week7] NLP - 주재걸 교수님](/Boostcamp_AI_Tech/Week_7)
+
+- [Day30] NLP 7 ~ 8강
+

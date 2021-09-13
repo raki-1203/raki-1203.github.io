@@ -26,6 +26,8 @@ docs:
         url: /Boostcamp_AI_Tech/Week_5/
       - title: "Week_6"
         url: /Boostcamp_AI_Tech/Week_6/
+      - title: "Week_7"
+        url: /Boostcamp_AI_Tech/Week_7/
 
   - title: 개발이야기
     children:
