@@ -80,4 +80,5 @@ taxonomy: 부스트캠프 AI Tech
 ### [[Week7] NLP - 주재걸 교수님](/Boostcamp_AI_Tech/Week_7)
 
 - [Day30] NLP 7 ~ 8강
+- [Day31] NLP 9 ~ 10강
 

@@ -12,6 +12,10 @@ sidebar:
 - [Transformer (1)]({{site.url}}/boostcamp_ai_tech/week_7/day_30/01.-Transformer-(1)/)
 - [Transformer (2)]({{site.url}}/boostcamp_ai_tech/week_7/day_30/02.-Transformer-(2)/)
 
+### [Day31] NLP 9 ~ 10강
+
+- [Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/day_31/01.-Self-supervised-Pre-training-Models/)
+
 ### [Week7 피어세션 정리]()
 
 ---
