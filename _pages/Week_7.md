@@ -15,7 +15,7 @@ sidebar:
 ### [Day31] NLP 9 ~ 10강
 
 - [Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/day_31/01.-Self-supervised-Pre-training-Models/)
-- [Advanced Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/day_31/01.-Advanced-Self-supervised-Pre-training-Models/)
+- [Advanced Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/day_31/02.-Advanced-Self-supervised-Pre-training-Models/)
 
 ### [Week7 피어세션 정리]()
 
