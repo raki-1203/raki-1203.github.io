@@ -19,7 +19,7 @@ sidebar:
 
 ### [Day32] Transformer 논문 Review
 
-- [Attention Is All You Need Review (1)]({{site.url}}/boostcamp_ai_tech/week_7/day_32/01.-Attention-is-All-You-Need-paper-review/)
+- [Attention Is All You Need Review (1)]({{site.url}}/boostcamp_ai_tech/week_/day_32/01.-Attention-Is-All-You-Need-paper-reveiw-(1)/)
 
 ### [Week7 피어세션 정리]()
 
