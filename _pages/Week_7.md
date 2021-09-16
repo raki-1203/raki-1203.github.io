@@ -17,6 +17,10 @@ sidebar:
 - [Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/day_31/01.-Self-supervised-Pre-training-Models/)
 - [Advanced Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/day_31/02.-Advanced-Self-supervised-Pre-training-Models/)
 
+### [Day32] Transformer 논문 Review
+
+- [Attention Is All You Need Review (1)]({{site.url}}/boostcamp_ai_tech/week_7/day_32/01.-Attention-is-All-You-Need-paper-review/)
+
 ### [Week7 피어세션 정리]()
 
 ---
