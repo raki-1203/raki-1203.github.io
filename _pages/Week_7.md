@@ -30,7 +30,7 @@ sidebar:
 
 - [Attention Is All You Need Review (3)]({{site.url}}/boostcamp_ai_tech/week_/day_34/01.-Attention-Is-All-You-Need-paper-reveiw-(3)/)
 
-### [Week7 피어세션 정리]()
+### [Week7 피어세션 정리](https://www.notion.so/7-586d644c8af1401db30d193f3525acf1)
 
 ---
 ### 학습회고
