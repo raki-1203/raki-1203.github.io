@@ -29,6 +29,7 @@ sidebar:
 ### [Day34] Transformer 논문 Review
 
 - [Attention Is All You Need Review (3)]({{site.url}}/boostcamp_ai_tech/week_/day_34/01.-Attention-Is-All-You-Need-paper-reveiw-(3)/)
+- [마스터클래스 - 주재걸교수님]({{site.url}}/boostcamp_ai_tech/week_7/day_34/MasterClass-JooJaeGul-Professor-(2)/)
 
 ### [Week7 피어세션 정리](https://www.notion.so/7-586d644c8af1401db30d193f3525acf1)
 
