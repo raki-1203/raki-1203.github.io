@@ -2,7 +2,7 @@
 title: "Day_35 [특강] 서비스 향 AI 모델 개발하기 - 이활석"
 
 categories:
-  - Boostcamp_AI_Tech/Week_/Day_35
+  - Boostcamp_AI_Tech/Week_8/Day_35
 tags:
   - 특강
 ---

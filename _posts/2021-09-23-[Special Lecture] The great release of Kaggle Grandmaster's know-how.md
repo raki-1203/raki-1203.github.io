@@ -2,7 +2,7 @@
 title: "Day_35 [특강] 캐글 그랜드마스터의 노하우 대방출 - 김상훈"
 
 categories:
-  - Boostcamp_AI_Tech/Week_/Day_35
+  - Boostcamp_AI_Tech/Week_8/Day_35
 tags:
   - 특강
 ---

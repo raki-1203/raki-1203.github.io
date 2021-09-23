@@ -19,16 +19,16 @@ sidebar:
 
 ### [Day32] Transformer 논문 Review
 
-- [Attention Is All You Need Review (1)]({{site.url}}/boostcamp_ai_tech/week_/day_32/01.-Attention-Is-All-You-Need-paper-reveiw-(1)/)
+- [Attention Is All You Need Review (1)]({{site.url}}/boostcamp_ai_tech/week_7/day_32/01.-Attention-Is-All-You-Need-paper-reveiw-(1)/)
 
 ### [Day33] Transformer 논문 Review
 
-- [Attention Is All You Need Review (2)]({{site.url}}/boostcamp_ai_tech/week_/day_33/01.-Attention-Is-All-You-Need-paper-reveiw-(2)/)
+- [Attention Is All You Need Review (2)]({{site.url}}/boostcamp_ai_tech/week_7/day_33/01.-Attention-Is-All-You-Need-paper-reveiw-(2)/)
 - [오피스아워 - 과제해설]({{site.url}}/boostcamp_ai_tech/week_7/day_33/OfficeHour-Assignment-Solution/)
 
 ### [Day34] Transformer 논문 Review
 
-- [Attention Is All You Need Review (3)]({{site.url}}/boostcamp_ai_tech/week_/day_34/01.-Attention-Is-All-You-Need-paper-reveiw-(3)/)
+- [Attention Is All You Need Review (3)]({{site.url}}/boostcamp_ai_tech/week_7/day_34/01.-Attention-Is-All-You-Need-paper-reveiw-(3)/)
 - [마스터클래스 - 주재걸교수님]({{site.url}}/boostcamp_ai_tech/week_7/day_34/MasterClass-JooJaeGul-Professor-(2)/)
 
 ### [Week7 피어세션 정리](https://www.notion.so/7-586d644c8af1401db30d193f3525acf1)

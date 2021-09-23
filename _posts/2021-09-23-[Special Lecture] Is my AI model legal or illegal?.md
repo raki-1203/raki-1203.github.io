@@ -2,7 +2,7 @@
 title: "Day_35 [특강] 내가 만든 AI 모델은 합법일까, 불법일까? - 문지형"
 
 categories:
-  - Boostcamp_AI_Tech/Week_/Day_35
+  - Boostcamp_AI_Tech/Week_8/Day_35
 tags:
   - 특강
 ---

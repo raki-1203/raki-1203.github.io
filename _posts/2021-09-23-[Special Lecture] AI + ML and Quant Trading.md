@@ -2,7 +2,7 @@
 title: "Day_35 [특강] AI + ML 과 Quant Trading - 구종만"
 
 categories:
-  - Boostcamp_AI_Tech/Week_/Day_35
+  - Boostcamp_AI_Tech/Week_8/Day_35
 tags:
   - 특강
 ---
