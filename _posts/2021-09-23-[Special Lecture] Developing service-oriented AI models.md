@@ -1,5 +1,5 @@
 ---
-title: "Day_35 [특강 서비스 향 AI 모델 개발하기] 이활석"
+title: "Day_35 [특강] 서비스 향 AI 모델 개발하기 - 이활석"
 
 categories:
   - Boostcamp_AI_Tech/Week_/Day_35
@@ -7,7 +7,7 @@ tags:
   - 특강
 ---
   
-# [특강 서비스 향 AI 모델 개발하기] 이활석
+# [특강] 서비스 향 AI 모델 개발하기
 
 # 서비스 향 AI 모델 개발하기
 
