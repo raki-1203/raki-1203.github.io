@@ -20,6 +20,7 @@ sidebar:
 - [[특강] Full Stack ML Engineer]({{site.url}}/boostcamp_ai_tech/week_8/day_36/Special-Lecture-Full-Stack-ML-Engineer/)
 - [[특강] 자연어 처리를 위한 언어 모델의 학습과 평가]({{site.url}}/boostcamp_ai_tech/week_8/day_36/Special-Lecture-Learning-and-Evaluation-of-Language-Models-for-Natural-Language-Processing/)
 - [[특강] AI Ethics]({{site.url}}/boostcamp_ai_tech/week_8/day_36/Special-Lecture-AI-Ethics/)
+- [[오피스아워] 시각화]({{site.url}}/boostcamp_ai_tech/week_8/day_36/OfficeHour-Visualization/)
 
 ### [Week8 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%200)
 
