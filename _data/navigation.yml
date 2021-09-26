@@ -30,8 +30,10 @@ docs:
         url: /Boostcamp_AI_Tech/Week_7/
       - title: "Week_8"
         url: /Boostcamp_AI_Tech/Week_8/
+      - title: "Week_9"
+        url: /Boostcamp_AI_Tech/Week_9/
 
-  - title: 개발이야기
+  - title: INFORMATION
     children:
-      - title: "Linux"
+      - title: "Python"
         url: /docs/configuration/
