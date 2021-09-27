@@ -2,9 +2,9 @@
 title: "Python - List, Set, Dict 자료형에 따른 시간 복잡도"
 
 categories:
-  - Python
+  - Algorithm
 tags:
-  - 
+  - Python
 ---
   
 [백준 1920번 수 찾기](https://www.acmicpc.net/problem/1920) 문제를 풀면서 list 안에서 특정 값을 찾을 땐 시간 초과....  
