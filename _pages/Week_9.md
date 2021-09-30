@@ -24,6 +24,10 @@ sidebar:
 - [01. BERT 기반 두 문장 관계 분류 모델 학습]({{site.url}}/boostcamp_ai_tech/week_9/day_39/01.-BERT-based-two-sentence-relationship-classification-model-training/)
 - [02. BERT 언어모델 기반의 문장 토큰 분류]({{site.url}}/boostcamp_ai_tech/week_9/day_39/02.-Classification-of-sentence-tokens-based-on-the-BERT-language-model/)
 
+### [Day40] KLUE RE task 대회
+
+- [[오피스아워] Relation Extraction]({{site.url}}/boostcamp_ai_tech/week_9/day_40/OfficeHour-Relation-Extraction/)
+
 ### [Week9 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%200)
 
 ---
@@ -91,4 +95,28 @@ per 에도 마찬가지로 시각화를 하면
 이런 식의 분포를 띄고 있었고 확신할 순 없지만 시도해 볼 만한 가치가 있다고 생각한다.
 
 이제 이 EDA 를 통해서 이런 아이디어를 발견했으니 baseline 코드를 수정해서 적용해봐야겠다.
+
+> Day 40
+
+Baseline 코드를 내 입맛에 맞게 다 뜯어고쳤다.
+
+하루의 시간을 사용했지만 huggingface 에 대해서 이렇게 저렇게 내가 쓰고 싶은 기능을 추가해가면서 해보니 재밌었다.
+
+저번 image classifcation 대회에서는 사용을 잘 해보지 못했던 wandb 를 Trainer 에서 사용하는 방법을 적용했다.
+
+wandb 에서 train 이 도는 동안 자동으로 기록들을 관리해줘서 편할거라고 생각한다.
+
+앞으로 내가 해볼 실험들과 결과들이 자동으로 저장될테니 아무 걱정없이 사용하려한다.
+
+오늘은 강의를 미리 다 듣고서 실습문제도 풀어보려했는데 baseline 코드에 시간을 너무 많이 사용해서 원하는 실험으로
+학습을 실행해놓고 실습코드도 다시 한번 훑어봐야겠다.
+
+다들 왜저리 잘하는지 궁금하다.
+
+얼른 쫓아가고 싶고 나만의 방법으로 좋은 성능이 나는 결과를 맡보고 싶다. ㅎㅎ
+
+나의 가설이 맞기를!! 기대해본다.
+
+
+
 
