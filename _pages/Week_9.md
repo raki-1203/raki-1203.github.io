@@ -28,6 +28,10 @@ sidebar:
 
 - [[오피스아워] Relation Extraction]({{site.url}}/boostcamp_ai_tech/week_9/day_40/OfficeHour-Relation-Extraction/)
 
+### [Day41] KLUE RE task 대 
+
+- [01. Huggingface hub 에 모델 공유하기]({{site.url}}/boostcamp_ai_tech/week_9/day_41/01.-Share-Model-on-Huggingface-hub/)
+
 ### [Week9 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%200)
 
 ---
@@ -117,6 +121,31 @@ wandb 에서 train 이 도는 동안 자동으로 기록들을 관리해줘서 �
 
 나의 가설이 맞기를!! 기대해본다.
 
+> Day 41
 
+가설이 틀려버렸다. 
 
+정말 점수가 형편없었다. 그렇게 효과적인 방법이 아니었나보다.
+
+시간 많이 투자해서 구현했는데 아쉽다.
+
+그리고 label 은 예측할 수 있었지만 30개 label 의 확률을 예측하는게 쉽지 않아서
+
+random 값으로 대체할 수 밖에 없었다.
+
+뭐 그래도 내가 생각해낸 아이디어를 구현해보고 결과까지 봐서 아쉽지만 이걸로 만족해야겠다.
+
+다음은 AEDA 적용하고 데이터 불균형 문제를 좀 해결해서 결과를 내야겠다.
+
+해야할 일들이 많은 것 같다.
+
+다 적용할 수 있을지 모르겠는데 Trainer 클래스의 hyperparameter_search 를 사용해보고
+
+좋은 결과가 나올 수 있길 기대해본다.
+
+다들 70점이 넘어가고 있는데 어떻게 하는지 알고싶다.
+
+어딜 어떻게 공부해야하는걸까...... 아이디어가 좀 처럼 나지않는다.
+
+그래도 남은 기간동안 빡세게 진행해야겠다.
 
