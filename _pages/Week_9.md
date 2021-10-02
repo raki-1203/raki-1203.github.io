@@ -28,7 +28,7 @@ sidebar:
 
 - [[오피스아워] Relation Extraction]({{site.url}}/boostcamp_ai_tech/week_9/day_40/OfficeHour-Relation-Extraction/)
 
-### [Day41] KLUE RE task 대 
+### [Day41] KLUE RE task 대회
 
 - [01. Huggingface hub 에 모델 공유하기]({{site.url}}/boostcamp_ai_tech/week_9/day_41/01.-Share-Model-on-Huggingface-hub/)
 
