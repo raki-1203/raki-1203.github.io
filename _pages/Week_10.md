@@ -9,9 +9,8 @@ sidebar:
 
 ### [Day42] KLUE 8 ~ 9강
 
-- [01. 인공지능과 자연어 처리]({{site.url}}/boostcamp_ai_tech/week_9/day_37/01.-AI-and-NLP/)
-- [02. 자연어의 전처리]({{site.url}}/boostcamp_ai_tech/week_9/day_37/02.-Preprocessing-of-Natural-Language/)
-- [오피스아워 AI 신약 개발]({{site.url}}/boostcamp_ai_tech/week_9/day_37/OfficeHour-AI-drug-development/)
+- [01. GPT 언어 모델]({{site.url}}/boostcamp_ai_tech/week_9/day_37/01.-AI-and-NLP/)
+- [02. GPT 언어모델 기반의 자연어 생성]({{site.url}}/boostcamp_ai_tech/week_9/day_37/02.-Preprocessing-of-Natural-Language/)
 
 
 ### [Week9 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%200)
