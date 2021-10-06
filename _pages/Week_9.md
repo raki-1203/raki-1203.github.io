@@ -32,7 +32,7 @@ sidebar:
 
 - [01. Huggingface hub 에 모델 공유하기]({{site.url}}/boostcamp_ai_tech/week_9/day_41/01.-Share-Model-on-Huggingface-hub/)
 
-### [Week9 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%200)
+### [Week9 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%201)
 
 ---
 ### 학습회고
