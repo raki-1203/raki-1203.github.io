@@ -14,7 +14,7 @@ sidebar:
 
 ### [Day43] KLUE 10강
 
-- [01. GPT 언어 모델]({{site.url}}/boostcamp_ai_tech/week_10/day_42/01.-GPT-Language-Model/)
+- [01. 최신 자연어처리 연구]({{site.url}}/boostcamp_ai_tech/week_10/day_43/01.-Recent-NLP-Study/)
 
 ### [Week10 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%202)
 
