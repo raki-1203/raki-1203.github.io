@@ -15,6 +15,7 @@ sidebar:
 ### [Day43] KLUE 10강
 
 - [01. 최신 자연어처리 연구]({{site.url}}/boostcamp_ai_tech/week_10/day_43/01.-Recent-NLP-Study/)
+- [오피스아워 Chatbot with NLP]({{site.url}}/boostcamp_ai_tech/week_10/day_43/OfficeHour-Chatbot-With-NLP/)
 
 ### [Week10 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%202)
 
