@@ -19,6 +19,12 @@ sidebar:
 
 ### [Week10 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%202)
 
+### [Day44] KLUE RE 대회
+
+### [Day45] KLUE RE 대회 마무리
+
+- [마스터클래스]({{site.url}}/)
+ 
 ---
 ### 학습회고
 
@@ -41,6 +47,6 @@ typed entity marker (punct) 방법을 사용하고 cross validation 까지 적�
 
 실험해서 성능 올리는 사람들이 대단하다고 생각되는 시간이다
 
-> Day 43
+
 
 
