@@ -24,6 +24,7 @@ sidebar:
 ### [Day45] KLUE RE 대회 마무리
 
 - [마스터클래스]({{site.url}}/boostcamp_ai_tech/week_10/day_45/MasterClass-KimSunghyun-Master/)
+- [KLUE RE 대회 개인 회고]({{site.url}}/boostcamp_ai_tech/week_10/day_45/P-Stage-level-2-KLUE-Relation-Extraction/)
  
 ---
 ### 학습회고
