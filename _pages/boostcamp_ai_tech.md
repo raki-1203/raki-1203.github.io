@@ -97,3 +97,10 @@ taxonomy: 부스트캠프 AI Tech
 - [Day39] KLUE 6 ~ 7강
 - [Day40] KLUE RE task 대회
 - [Day41] KLUE RE task 대회
+
+### [[Week10] 한국어 언어 모델 학습 및 다중 과제 튜닝](/Boostcamp_AI_Tech/Week_10/)
+
+- [Day42] KLUE 8 ~ 9강
+- [Day43] KLUE 10강
+- [Day44] KLUE RE task 대회
+- [Day45] KLUE RE task 대회
