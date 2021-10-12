@@ -9,10 +9,12 @@ sidebar:
 
 ### [Day42] KLUE 8 ~ 9강
 
-- [01. MRC Intro & Python Bascis]({{site.url}}/)
-- [02. GPT 언어모델 기반의 자연어 생성]({{site.url}}/)
+- [01. MRC Intro & Python Bascis]({{site.url}}/boostcamp_ai_tech/week_11/day_46/01.-MRC-Intro-&-Python-Basics/)
+- [02. Extraction-based MRC]({{site.url}}/boostcamp_ai_tech/week_11/day_46/02.-Extraction-based-MRC/)
+- [03. Generation-based MRC]({{site.url}}/boostcamp_ai_tech/week_11/day_46/03.-Generation-based-MRC/)
 
- 
+### [Week11 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%203)
+
 ---
 ### 학습회고
 
