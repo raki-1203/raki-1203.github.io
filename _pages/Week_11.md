@@ -20,7 +20,7 @@ sidebar:
 
 ### [Day48] MRC 5 ~ 6강
 
-- 
+- [01. Passage Retrieval - Dense Embedding]({{site.url}}/boostcamp_ai_tech/week_11/day_48/01.-Passage-Retrieval-Dense-Embedding/)
 
 ### [Week11 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%203)
 
