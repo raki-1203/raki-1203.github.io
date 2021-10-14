@@ -21,6 +21,8 @@ sidebar:
 ### [Day48] MRC 5 ~ 6강
 
 - [01. Passage Retrieval - Dense Embedding]({{site.url}}/boostcamp_ai_tech/week_11/day_48/01.-Passage-Retrieval-Dense-Embedding/)
+- [02. Scaling up with FAISS]({{site.url}}/boostcamp_ai_tech/week_11/day_48/02.-Scaling-up-with-FAISS/)
+- [오피스아워 - 강의 설계 의도 및 AMA(Ask Me Anything) 조대현 멘토]({{site.url}}/boostcamp_ai_tech/week_11/day_48/OfficeHour-AMA(Ask-Me-Anything)/)
 
 ### [Week11 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%203)
 
