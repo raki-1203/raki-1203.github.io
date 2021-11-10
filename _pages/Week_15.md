@@ -23,6 +23,10 @@ sidebar:
 - [관계 추출 관련 논문 읽기]({{site.url}}/boostcamp_ai_tech/week_15/day_66/03.-Read-papers-on-relationship-extraction/)
 - [관계 추출 데이터 구축 실습]({{site.url}}/boostcamp_ai_tech/week_15/day_66/04.-Relation-Extraction-Data-Building-Practice/)
 
+### [Day67] 오피스아워
+
+- [오피스아워 데이터 제작 Behind: 퀄리티 있는 RE 데이터 제작을 위한 데이터를 제작하는 방법 - 전종섭, 조원익 멘토]({{site.url}}/boostcamp_ai_tech/week_15/day_67/OfficeHour-data-making-behind/)
+
 ### [Week15 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week7)
 
 
