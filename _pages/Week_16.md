@@ -14,7 +14,7 @@ sidebar:
 
 ### [Day74]
 
-- 
+- [마스터클래스 한지윤 마스터]({{site.url}}/boostcamp_ai_tech/week_16/day_74/MasterClass-HanJiYoon-Master/)
 
 ### [Week16 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%208)
 
