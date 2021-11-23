@@ -15,5 +15,9 @@ sidebar:
 - [작은 모델, 좋은 파라미터 찾기: AutoML 실습]({{site.url}}/boostcamp_ai_tech/week_17/day_75/04.-Small-Models,-Finding-Good-Parameters-AutoML-Exercises/)
 - [[오피스아워] Baseline 코드에 모듈 작성하기 - 신종선 멘토]({{site.url}}/boostcamp_ai_tech/week_17/day_75/OfficeHour-Writing-Modules-in-Baseline-Code/)
 
+### [Day76] 5강
+
+
+
 ### [Week17 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%209)
 
