@@ -17,7 +17,7 @@ sidebar:
 
 ### [Day76] 5강
 
-
+- [작은 모델, 좋은 파라미터 찾기: Data Augmentation & AutoML 결과 분석]({{site.url}}/boostcamp_ai_tech/week_17/day_76/01.-Small-Models,-Finding-Good-Parameters-Data-Augmentation-&-AutoML-Results-Analysis/)
 
 ### [Week17 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%209)
 
