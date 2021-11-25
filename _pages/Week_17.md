@@ -19,5 +19,13 @@ sidebar:
 
 - [작은 모델, 좋은 파라미터 찾기: Data Augmentation & AutoML 결과 분석]({{site.url}}/boostcamp_ai_tech/week_17/day_76/01.-Small-Models,-Finding-Good-Parameters-Data-Augmentation-&-AutoML-Results-Analysis/)
 
+### [Day77]
+
+- [[특강] ART Lab Culture - Terry]({{site.url}}/boostcamp_ai_tech/week_17/day_77/Special-Lecture-ART-Lab-Terry/)
+
+### [Day78] 경량화기법 1강
+
+- [모델 경량화 기법 101 - NLP Part 1]({{site.url}}/boostcamp_ai_tech/week_17/day_77/01.-Model-Lightweight-Technique-101-NLP-Part-1/)
+
 ### [Week17 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%209)
 
