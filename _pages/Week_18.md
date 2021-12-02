@@ -17,10 +17,15 @@ sidebar:
 - [찾은 모델 잘게 찢기: Tensor Decomposition 이론]({{site.url}}/boostcamp_ai_tech/week_18/day_81/01.-Shred-the-Found-Model-Tensor-Decomposition-Theory/)
 - [찾은 모델 잘게 찢기: Tensor Decomposition 실습]({{site.url}}/boostcamp_ai_tech/week_18/day_81/02.-Shred-the-Found-Model-Tensor-Decomposition-Exercises/)
 
-### [Day82] 모델최적화 7~8강
+### [Day82] 모델최적화 8~9강
 
 - [찢은 모델 꾸겨 넣기: Quantization 이론]({{site.url}}/boostcamp_ai_tech/week_18/day_82/01.-Packing-Ripped-Models-The-Quantization-Theory/)
-- 
+- [찢은 모델 꾸겨 넣기: Quantization 실습]({{site.url}}/boostcamp_ai_tech/week_18/day_82/02.-Packing-Ripped-Models-The-Quantization-Exercises/)
+- [[마스터클래스] 클라이언트 사이드 ML - 김정훈 마스터]({{site.url}}/boostcamp_ai_tech/week_18/day_82/MasterClass-Kim-Joung-Hoon-Master/)
+
+### [Day83] 모델최적화 10강
+
+- [학습 파이프라인 최적화 및 마무리]({{site.url}}/boostcamp_ai_tech/week_18/day_83/01.-Optimizing-and-finalizing-the-learning-pipeline/)
 
 
 ### [Week17 피어세션 정리]()
