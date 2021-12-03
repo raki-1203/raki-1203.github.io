@@ -4,7 +4,8 @@ title: "Mecab 과 Khaiii 를 설치해서 한국어 전처리 실습 환경 만�
 categories:
   - Setting
 tags:
-  - Mecab, Khaiii
+  - Mecab
+  - Khaiii
 ---
   
 # Mecab 과 Khaiii 를 설치해서 한국어 전처리 실습 환경 만들기 on linux
