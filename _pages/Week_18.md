@@ -32,5 +32,5 @@ sidebar:
 - [[마스터클래스] 모델최적화대회 - 김정훈 마스터]({{site.url}}/boostcamp_ai_tech/week_18/day_84/MasterClass-Kim-Joung-Hoon-Master/)
 
 
-### [Week17 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week10)
+### [Week18 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week10)
 
