@@ -14,5 +14,5 @@ sidebar:
 
 
 
-### [Week19 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week10)
+### [Week19 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week11)
 
