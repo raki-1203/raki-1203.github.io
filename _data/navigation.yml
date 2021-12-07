@@ -15,9 +15,9 @@ docs:
     url: /Boostcamp_AI_Tech/
     children:
       - title: "Week_1"
-          url: /Boostcamp_AI_Tech/Week_1/
+        url: /Boostcamp_AI_Tech/Week_1/
       - title: "Week_2"
-          url: /Boostcamp_AI_Tech/Week_2/
+        url: /Boostcamp_AI_Tech/Week_2/
       - title: "Week_3"
         url: /Boostcamp_AI_Tech/Week_3/
       - title: "Week_4"
