@@ -14,50 +14,44 @@ docs:
   - title: Boostcamp AI Tech
     url: /Boostcamp_AI_Tech/
     children:
-      - title: "Level1"
-        children:
-          - title: "Week_1"
-              url: /Boostcamp_AI_Tech/Week_1/
-          - title: "Week_2"
-              url: /Boostcamp_AI_Tech/Week_2/
-          - title: "Week_3"
-            url: /Boostcamp_AI_Tech/Week_3/
-          - title: "Week_4"
-            url: /Boostcamp_AI_Tech/Week_4/
-          - title: "Week_5"
-            url: /Boostcamp_AI_Tech/Week_5/
-      - title: "Level2"
-        children:
-          - title: "Week_6"
-            url: /Boostcamp_AI_Tech/Week_6/
-          - title: "Week_7"
-            url: /Boostcamp_AI_Tech/Week_7/
-          - title: "Week_8"
-            url: /Boostcamp_AI_Tech/Week_8/
-          - title: "Week_9"
-            url: /Boostcamp_AI_Tech/Week_9/
-          - title: "Week_10"
-            url: /Boostcamp_AI_Tech/Week_10/
-          - title: "Week_11"
-            url: /Boostcamp_AI_Tech/Week_11/
-          - title: "Week_12"
-            url: /Boostcamp_AI_Tech/Week_12/
-          - title: "Week_13"
-            url: /Boostcamp_AI_Tech/Week_13/
-          - title: "Week_14"
-            url: /Boostcamp_AI_Tech/Week_14/
-      - title: "Level3"
-        children:
-          - title: "Week_15"
-            url: /Boostcamp_AI_Tech/Week_15/
-          - title: "Week_16"
-            url: /Boostcamp_AI_Tech/Week_16/
-          - title: "Week_17"
-            url: /Boostcamp_AI_Tech/Week_17/
-          - title: "Week_18"
-            url: /Boostcamp_AI_Tech/Week_18/
-          - title: "Week_19"
-            url: /Boostcamp_AI_Tech/Week_19/
+      - title: "Week_1"
+          url: /Boostcamp_AI_Tech/Week_1/
+      - title: "Week_2"
+          url: /Boostcamp_AI_Tech/Week_2/
+      - title: "Week_3"
+        url: /Boostcamp_AI_Tech/Week_3/
+      - title: "Week_4"
+        url: /Boostcamp_AI_Tech/Week_4/
+      - title: "Week_5"
+        url: /Boostcamp_AI_Tech/Week_5/
+      - title: "Week_6"
+        url: /Boostcamp_AI_Tech/Week_6/
+      - title: "Week_7"
+        url: /Boostcamp_AI_Tech/Week_7/
+      - title: "Week_8"
+        url: /Boostcamp_AI_Tech/Week_8/
+      - title: "Week_9"
+        url: /Boostcamp_AI_Tech/Week_9/
+      - title: "Week_10"
+        url: /Boostcamp_AI_Tech/Week_10/
+      - title: "Week_11"
+        url: /Boostcamp_AI_Tech/Week_11/
+      - title: "Week_12"
+        url: /Boostcamp_AI_Tech/Week_12/
+      - title: "Week_13"
+        url: /Boostcamp_AI_Tech/Week_13/
+      - title: "Week_14"
+        url: /Boostcamp_AI_Tech/Week_14/
+      - title: "Week_15"
+        url: /Boostcamp_AI_Tech/Week_15/
+      - title: "Week_16"
+        url: /Boostcamp_AI_Tech/Week_16/
+      - title: "Week_17"
+        url: /Boostcamp_AI_Tech/Week_17/
+      - title: "Week_18"
+        url: /Boostcamp_AI_Tech/Week_18/
+      - title: "Week_19"
+        url: /Boostcamp_AI_Tech/Week_19/
 
   - title: INFORMATION
     children:
