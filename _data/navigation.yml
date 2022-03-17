@@ -56,4 +56,6 @@ docs:
   - title: INFORMATION
     children:
       - title: "Python"
-        url: /docs/configuration/
+        url: /Python/
+      - title: "PyTorch"
+        url: /PyTorch/
