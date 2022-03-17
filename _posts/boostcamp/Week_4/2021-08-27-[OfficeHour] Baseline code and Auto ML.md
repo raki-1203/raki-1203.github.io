@@ -2,7 +2,7 @@
 title: "Day_19 [오피스아워] Baseline code 및 Auto ML 실습 세션"
 
 categories:
-  - Boostcamp_AI_Tech/Week_4/Day_19
+  - Boostcamp_AI_Tech/Week_4
 tags:
   - 오피스아워
 ---
