@@ -104,3 +104,55 @@ taxonomy: 부스트캠프 AI Tech
 - [Day43] KLUE 10강
 - [Day44] KLUE RE task 대회
 - [Day45] KLUE RE task 대회
+
+### [[Week11] Machine Reading Comprehension](/Boostcamp_AI_Tech/Week_11/)
+
+- [Day46] MRC 1 ~ 3강
+- [Day47] MRC 4강
+- [Day48] MRC 5 ~ 6강
+- [Day49] MRC 7강
+
+### [[Week12] Machine Reading Comprehension](/Boostcamp_AI_Tech/Week_12/)
+
+- [Day50] MRC 8 ~ 10강
+- [Day51] 
+
+### [[Week13] Machine Reading Comprehension](/Boostcamp_AI_Tech/Week_13/)
+
+- [Day59] MRC
+
+### [[Week14] Machine Reading Comprehension](/Boostcamp_AI_Tech/Week_14/)
+
+- [Day64] MRC
+
+### [[Week15] 데이터제작](/Boostcamp_AI_Tech/Week_15/)
+
+- [Day65] 데이터제작 1 ~ 6강
+- [Day66] 데이터제작 7 ~ 10강
+
+### [[Week16] 데이터제작](/Boostcamp_AI_Tech/Week_16/)
+
+- [Day72]
+- [Day74]
+
+### [[Week17] 모델최적화](/Boostcamp_AI_Tech/Week_17/)
+
+- [Day75] 1 ~ 4강
+- [Day76] 5강
+- [Day77]
+- [Day78] 경량화기법 1강
+
+### [[Week18] 모델최적화](/Boostcamp_AI_Tech/Week_18/)
+
+- [Day80] 경량화기법 2강 & 오피스아워
+- [Day81] 모델최적화 6~7강
+- [Day82] 모델최적화 8~9강 & 마스터클래스
+- [Day83] 모델최적화 10강
+- [Day84] 마스터클래스
+
+### [[Week19] Product Serving](/Boostcamp_AI_Tech/Week_19/)
+
+- [Day85] Product Serving 1.2 ~ 1.3강
+- [Day86] Product Serving 1.4 ~ 2.1강
+- [Day87] Product Serving 2.2강
+- [Day88] Product Serving 2.3 ~ 2.5강
