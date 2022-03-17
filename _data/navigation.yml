@@ -1,18 +1,28 @@
 # main links
-main:
-  - title: "About"
-    url: /about/
+#main:
+#  - title: "About"
+#    url: /about/
 #  - title: "Category"
 #    url: /categories/
-  - title: "Tag"
-    url: /tags/
+#  - title: "Tag"
+#    url: /tags/
 #  - title: "Boostcamp"
 #    url: /Boostcamp_AI_Tech/
 
+#맨위에 네비게이션바
+# main links
+main:
+  - title: "About"
+    url: "/about/"
+  - title: "Category"
+    url: "/categories/"
+  - title: "Tag"
+    url: "/tags/"
 
-docs:
-  - title: Boostcamp AI Tech
-    url: /Boostcamp_AI_Tech/
+
+#docs:
+#  - title: Boostcamp AI Tech
+#    url: /Boostcamp_AI_Tech/
 #    children:
 #      - title: "Week_1"
 #        url: /Boostcamp_AI_Tech/Week_1/
@@ -53,9 +63,9 @@ docs:
 #      - title: "Week_19"
 #        url: /Boostcamp_AI_Tech/Week_19/
 
-  - title: INFORMATION
-    children:
-      - title: "Python"
-        url: /Python/
-      - title: "PyTorch"
-        url: /PyTorch/
+#  - title: INFORMATION
+#    children:
+#      - title: "Python"
+#        url: /Python/
+#      - title: "PyTorch"
+#        url: /PyTorch/
