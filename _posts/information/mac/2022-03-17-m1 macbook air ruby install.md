@@ -24,4 +24,24 @@ tags:
 ## 2. 현재 rbenv 제거하기
 
 ### 순서
+1. iterm2 rosetta 에서 ```$rm -rf `rbenv root` ``` 실행
+2. `brew uninstall rbenv`
 
+## 3. ARM version Homebrew 삭제
+
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"```
+
+## 4. x86_64 version Homebrew 설치
+
+```arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
+
+## 5. `brew install rbenv` 실행
+
+만약 "Error: Cannot install in Homebrew on ARM processor in Intel default prefix (/usr/local)!" 이 뜬다면
+`arch -x86_64 brew install rbenv` 실행
+
+## 6. 마지막으로 `arch -x86_64 rbenv install x.x.x`
+
+이때, x.x.x 는 버전 ex) 3.0.3
+
+## 설치 완료!
