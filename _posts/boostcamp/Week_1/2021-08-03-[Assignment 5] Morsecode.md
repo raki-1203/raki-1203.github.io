@@ -1,0 +1,16 @@
+---
+title: "Day_2 [필수과제 5] Morsecode"
+
+categories:
+  - Boostcamp_AI_Tech/Week_1
+tags:
+  - Python
+---
+
+# [필수과제 5] Morsecode
+
+정규식을 굉장히 많이 이용해서 문제를 해결
+
+라이브러리 re 에 대한 사용법 다시 숙지하게 됨
+
+그다지 큰 문제는 없었고 띄어쓰기 관련해서 좀 헷갈렸으나 해결
