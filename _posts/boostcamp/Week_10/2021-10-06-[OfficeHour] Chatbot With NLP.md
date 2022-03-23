@@ -13,103 +13,103 @@ tags:
 
 ### 1.1.1 NLP, Natural Language Processing
 
-![]({{site.url}}/assets/images/f9b0f6e1.png)
+![]({{site.url}}/assets/images/boostcamp/f9b0f6e1.png)
 
 - NLP(자연어 처리)는 컴퓨터가 인간의 자연어를
 
-![]({{site.url}}/assets/images/90dbf6b3.png)
+![]({{site.url}}/assets/images/boostcamp/90dbf6b3.png)
 
 ### 1.1.2 NLU, Natural Language Understanding
 
-![]({{site.url}}/assets/images/49cd5cb8.png)
+![]({{site.url}}/assets/images/boostcamp/49cd5cb8.png)
 
 ### 1.1.3 NLG, Natural Language Generation
 
-![]({{site.url}}/assets/images/ea73f41a.png)
+![]({{site.url}}/assets/images/boostcamp/ea73f41a.png)
 
 ### 1.1.4 NLP = NLU + NLG + ... = Chatbot
 
 ## 2. What's Chatbot?
 
-![]({{site.url}}/assets/images/da53582c.png)
+![]({{site.url}}/assets/images/boostcamp/da53582c.png)
 
-![]({{site.url}}/assets/images/fe1f0707.png)
+![]({{site.url}}/assets/images/boostcamp/fe1f0707.png)
 
 ## 3. Types of Chatbots
 
-![]({{site.url}}/assets/images/76f12c3f.png)
+![]({{site.url}}/assets/images/boostcamp/76f12c3f.png)
 
 ### 3.1.2 Rule-based chatbots: The Old School
 
-![]({{site.url}}/assets/images/a6675a33.png)
+![]({{site.url}}/assets/images/boostcamp/a6675a33.png)
 
-![]({{site.url}}/assets/images/903560ce.png)
+![]({{site.url}}/assets/images/boostcamp/903560ce.png)
 
-![]({{site.url}}/assets/images/d1e90639.png)
+![]({{site.url}}/assets/images/boostcamp/d1e90639.png)
 
-![]({{site.url}}/assets/images/f8be7a2d.png)
+![]({{site.url}}/assets/images/boostcamp/f8be7a2d.png)
 
-![]({{site.url}}/assets/images/993cd088.png)
+![]({{site.url}}/assets/images/boostcamp/993cd088.png)
 
-![]({{site.url}}/assets/images/0377c476.png)
+![]({{site.url}}/assets/images/boostcamp/0377c476.png)
 
 ### 3.1.3 NLP powered chatbots: The Next Generation
 
-![]({{site.url}}/assets/images/e67ed884.png)
+![]({{site.url}}/assets/images/boostcamp/e67ed884.png)
 
-![]({{site.url}}/assets/images/5b2839fa.png)
+![]({{site.url}}/assets/images/boostcamp/5b2839fa.png)
 
 ## 4. NLP Powered Chatbot Implementation
 
-![]({{site.url}}/assets/images/f662bc09.png)
+![]({{site.url}}/assets/images/boostcamp/f662bc09.png)
 
-![]({{site.url}}/assets/images/d33ad927.png)
+![]({{site.url}}/assets/images/boostcamp/d33ad927.png)
 
-![]({{site.url}}/assets/images/d7dd0b45.png)
+![]({{site.url}}/assets/images/boostcamp/d7dd0b45.png)
 
-![]({{site.url}}/assets/images/86cc8dd3.png)
+![]({{site.url}}/assets/images/boostcamp/86cc8dd3.png)
 
-![]({{site.url}}/assets/images/b88586bf.png)
+![]({{site.url}}/assets/images/boostcamp/b88586bf.png)
 
-![]({{site.url}}/assets/images/4ea63a33.png)
+![]({{site.url}}/assets/images/boostcamp/4ea63a33.png)
 
-![]({{site.url}}/assets/images/b66583f2.png)
+![]({{site.url}}/assets/images/boostcamp/b66583f2.png)
 
-![]({{site.url}}/assets/images/01bfd56f.png)
+![]({{site.url}}/assets/images/boostcamp/01bfd56f.png)
 
-![]({{site.url}}/assets/images/102e300a.png)
+![]({{site.url}}/assets/images/boostcamp/102e300a.png)
 
-![]({{site.url}}/assets/images/d3e3f767.png)
+![]({{site.url}}/assets/images/boostcamp/d3e3f767.png)
 
-![]({{site.url}}/assets/images/04f1c807.png)
+![]({{site.url}}/assets/images/boostcamp/04f1c807.png)
 
-![]({{site.url}}/assets/images/96b22bc8.png)
+![]({{site.url}}/assets/images/boostcamp/96b22bc8.png)
 
-![]({{site.url}}/assets/images/ed4b1915.png)
+![]({{site.url}}/assets/images/boostcamp/ed4b1915.png)
 
-![]({{site.url}}/assets/images/16fb9cef.png)
+![]({{site.url}}/assets/images/boostcamp/16fb9cef.png)
 
-![]({{site.url}}/assets/images/cfc65094.png)
+![]({{site.url}}/assets/images/boostcamp/cfc65094.png)
 
 ## 5. Further Works
 
-![]({{site.url}}/assets/images/fe5b550c.png)
+![]({{site.url}}/assets/images/boostcamp/fe5b550c.png)
 
-![]({{site.url}}/assets/images/02f532a3.png)
+![]({{site.url}}/assets/images/boostcamp/02f532a3.png)
 
-![]({{site.url}}/assets/images/c2c47464.png)
+![]({{site.url}}/assets/images/boostcamp/c2c47464.png)
 
-![]({{site.url}}/assets/images/f8412501.png)
+![]({{site.url}}/assets/images/boostcamp/f8412501.png)
 
-![]({{site.url}}/assets/images/ca00b91c.png)
+![]({{site.url}}/assets/images/boostcamp/ca00b91c.png)
 
-![]({{site.url}}/assets/images/de3aebbc.png)
+![]({{site.url}}/assets/images/boostcamp/de3aebbc.png)
 
 ---
 
 # 사전 질문
 
-![]({{site.url}}/assets/images/514c25a5.png)
+![]({{site.url}}/assets/images/boostcamp/514c25a5.png)
 
 > 아까 GPT 같은 LM경우는 진정한 의미의 언어 학습이 아니라는 말이 많은데 진정한 의미로써의 언어 학습을 하는 연구는 어떤게 있을까요?
 
@@ -207,7 +207,7 @@ MRC 도 본문에 대한 지식을 넣었을 때 지식을 찾아내는 것이�
 
 김성현 멘토님
 
-![]({{site.url}}/assets/images/0d661f36.png)
+![]({{site.url}}/assets/images/boostcamp/0d661f36.png)
 
 인공지능 가람이라고 만든게 있는데 실제로 실험해보니 이런 결과가 나왔음 챗봇 분야의 한계점이나 편향 되는거 나왔는데 편향이 되지 않은 데이터만
 사용하면 해결이되느냐? 그것이 해결방법이 아니다

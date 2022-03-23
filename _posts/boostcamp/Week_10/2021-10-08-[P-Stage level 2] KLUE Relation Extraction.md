@@ -20,20 +20,20 @@ tags:
 
 EDA 를 하면서 가장 처음에 발견한 것은 class 의 imbalance 였다.
 
-![]({{site.url}}/assets/images/50195ca5.png)
+![]({{site.url}}/assets/images/boostcamp/50195ca5.png)
 
 이런 imbalance 를 잡아 볼 방법으로 저번 이미지대회에서 마지막에 사용했었던 mask, age, gender 를 모두 따로따로 구분해서 
 예측하는 모델을 만들었던 것처럼 계층적으로 분류하는 모델을 만들어보자 생각했다.
 
-![]({{site.url}}/assets/images/ff281796.png)
+![]({{site.url}}/assets/images/boostcamp/ff281796.png)
 
 label 에서 no_relation vs org vs per 을 가지는 3개의 큰 분류가 보였다.
 
 먼저 이렇게 분류하고 나면 org 로 분류된 애들 중에 org 의 세세한 분류를 할 수 있을거라고 생각했고 per 도 마찬가지라고 생각했다.
 
-![]({{site.url}}/assets/images/456f2773.png)
+![]({{site.url}}/assets/images/boostcamp/456f2773.png)
 
-![]({{site.url}}/assets/images/bfb92422.png)
+![]({{site.url}}/assets/images/boostcamp/bfb92422.png)
 
 `가설` : no_relation vs org vs per 의 분류는 imbalance 가 많이 줄어들었기 때문에 성능이 괜찮을 것이고 org 로 분류된 애들 중에서
 또 분류를 진행하고 per 로 분류된 애들 중에서 분류를 진행해서 최종 예측을 만들면 성능이 오를것이다.
@@ -53,7 +53,7 @@ label 에서 no_relation vs org vs per 을 가지는 3개의 큰 분류가 보�
 `An Improved Baseline for Sentence-level Relation Extraction` 에서 소개된 방법으로 RE task 에서 RoBERTa-large 모델에서
 큰 성능향상을 가져온 방법이다.
 
-![]({{site.url}}/assets/images/421cd23c.png)
+![]({{site.url}}/assets/images/boostcamp/421cd23c.png)
 
 `가설` : 이 논문을 구현한 코드에서는 `@`, `#` 이 두개의 output vector 만 사용했지만 RBERT 의 방법도 접목해서 `@` 사이의 모든 
 output vector 와 `#` 사이의 모든 output vector 를 사용하면 성능이 오를 것이다.

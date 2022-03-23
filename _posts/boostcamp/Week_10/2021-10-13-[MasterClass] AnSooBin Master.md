@@ -21,11 +21,11 @@ tags:
 
 ## 시각화란?
 
-![]({{site.url}}/assets/images/0b205477.png)
+![]({{site.url}}/assets/images/boostcamp/0b205477.png)
 
 ## $M^2$Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis
 
-![]({{site.url}}/assets/images/d904ffa3.png)
+![]({{site.url}}/assets/images/boostcamp/d904ffa3.png)
 
 기존 AI 논문은 모델을 만들고 모델의 결과가 다른 모델보다 좋다는 것을 table 로 만들어 비교분석한다면 
 Vis 논문은 이 시각화가 왜 필요한지를 기술함
@@ -91,7 +91,7 @@ the design requirements**
 
 Requirements 를 어떤 식으로 만족시켰는가?
 
-![]({{site.url}}/assets/images/8d5a5455.png)
+![]({{site.url}}/assets/images/boostcamp/8d5a5455.png)
 
 시각화 시스템은 interactive 를 제공해야하고 항상 좌측에 있는 메뉴바나 상단에 있는 메뉴바를 사용해서 사용자가
 선택할 수 있게 만들어둠
@@ -100,17 +100,17 @@ Requirements 를 어떤 식으로 만족시켰는가?
 
 ## System (2)
 
-![]({{site.url}}/assets/images/6ca410de.png)
+![]({{site.url}}/assets/images/boostcamp/6ca410de.png)
 
 ## System (3)
 
-![]({{site.url}}/assets/images/92a0f4f6.png)
+![]({{site.url}}/assets/images/boostcamp/92a0f4f6.png)
 
 ## System (4)
 
-![]({{site.url}}/assets/images/cfc33072.png)
+![]({{site.url}}/assets/images/boostcamp/cfc33072.png)
 
-![]({{site.url}}/assets/images/d60c0c43.png)
+![]({{site.url}}/assets/images/boostcamp/d60c0c43.png)
 
 T-SNE 로 시각화함
 
@@ -134,7 +134,7 @@ T-SNE 로 시각화함
 
 System workflow / Visual designs and interactions / Improvement
 
-![]({{site.url}}/assets/images/e2ad084a.png)
+![]({{site.url}}/assets/images/boostcamp/e2ad084a.png)
 
 ## 시각화(HCI) 논문의 즐거움!
 
@@ -152,7 +152,7 @@ User-centered Research!
 
 # Q&A
 
-![]({{site.url}}/assets/images/043fac04.png)
+![]({{site.url}}/assets/images/boostcamp/043fac04.png)
 
 배운 것이 소용없어질 일은 전혀 없을 거다라고 생각하고 시각화와 AI 쪽을 연결하는일이 굉장히 어렵다고 생각함  
 실제로 EDA 를 하는것과 모델링을 하는거는 전혀 다름  
@@ -162,14 +162,14 @@ top-down 시각화 강의는 어려운 것이 너무 대회나 데이터에따�
 질문을 잘하는 방법은 kaggle 이나 Dacon 에서 feature engineering 을 잘 하는 solution 을 많이 봐야한다고 생각함  
 솔루션을 봤는데 구현할 수 없으면 안되니까 bottom-up 도 잘 알아야하고 항상 우수 solultion 을 많이 봐야한다고 생각함
 
-![]({{site.url}}/assets/images/eb9aba8e.png)
+![]({{site.url}}/assets/images/boostcamp/eb9aba8e.png)
 
 1) https://www.kaggle.com/subinium/awesome-visualization-with-titanic-dataset
    - 색과 여백을 잘 활용해서 나만의 시각화를 만들었어서 추천
 2) https://www.kaggle.com/subinium/tps-aug-simple-eda
    - 사람들이 진짜로 원하는 EDA 가 뭘까를 고민하면서 대회에 참가했을 때 가장 필요하다고 생각된 시각화라고 생각해서 추천
 
-![]({{site.url}}/assets/images/dc89eecb.png)
+![]({{site.url}}/assets/images/boostcamp/dc89eecb.png)
 
 지금 대학원에서 진행하고 있는 프로젝트를 좋아함  
 지금 하고 있는게 구글이나 유튜브보면 AI 컨텐츠가 너무 많은데 이 컨텐츠만 잘 활용해도 AI 를 잘 할 수 있다라는 생각으로 시작한 프로젝트이고 
@@ -177,7 +177,7 @@ top-down 시각화 강의는 어려운 것이 너무 대회나 데이터에따�
 
 그래서 요새는 카카오프로젝트에 굉장히 집중하고 있음
 
-![]({{site.url}}/assets/images/f924e94f.png)
+![]({{site.url}}/assets/images/boostcamp/f924e94f.png)
 
 포트폴리오보다 이력서, CV 를 작성하는데 overlink 해서 태그로 관리하고 있고 이력서는 git 에서 관리하고 있음 
 [링크](https://github.com/subinium/CV/blob/master/CV.pdf)
@@ -188,7 +188,7 @@ top-down 시각화 강의는 어려운 것이 너무 대회나 데이터에따�
 
 어차피 요새는 경력의미없고 코딩테스트 통과한다음에 면접해보면 이 사람이 얼마나 잘하는지 보임
 
-![]({{site.url}}/assets/images/5214a2e0.png)
+![]({{site.url}}/assets/images/boostcamp/5214a2e0.png)
 
 궁금한점에 대해서 육하원칙으로 다 써봄  
 일단 줄글로쓰고 어떤 부분을 모르겠고 어떤부분이 왜 이해가 안되는거같고 어떤 부분이 다른 사례가 있을 것 같고 이런 정보들을 다 써보고
@@ -203,7 +203,7 @@ top-down 시각화 강의는 어려운 것이 너무 대회나 데이터에따�
 
 보통은 XAI 연구로 진행되고 어떻게 하면 시각화로 보조할 것인가로 연구가 많이 진행되고 있고 그래도 XAI 가 더 위주인 것 같음
 
-![]({{site.url}}/assets/images/341779aa.png)
+![]({{site.url}}/assets/images/boostcamp/341779aa.png)
 
 현업 developer 들은 Matplotlib 을 잘 쓰는 사람은 별로 없다고 보고 오히려 wandb 같은 경우가 이런 상황을 targeting 해서 만든 것인데
 기획단 분들에게는 어떤 것을 줘도 상관이 없음 그 분들은 개발자를 많이 상대하는 분들이라서 matplotlib 을 사용해도 되고 다른 것을 사용해도 되지만

@@ -36,7 +36,7 @@ TACREAD SOTA 인 RECENT 적용
 
 Input Format 에 대해 고민이 많았음
 
-![]({{site.url}}/assets/images/10481ad5.png)
+![]({{site.url}}/assets/images/boostcamp/10481ad5.png)
 
 augmentation 적용
 
@@ -124,7 +124,7 @@ copilot 과 codex 는 무료이지만 api 를 신청해야 사용할 수 있음
 
 # 사전질문
 
-![]({{site.url}}/assets/images/fe4d5242.png)
+![]({{site.url}}/assets/images/boostcamp/fe4d5242.png)
 
 절대로 혼자는 불가능하고 혼자 공부하는건 어렵고 함께 열정이 가득한 사람을 만나야함  
 같이 하는걸 추천  
@@ -145,7 +145,7 @@ copilot 과 codex 는 무료이지만 api 를 신청해야 사용할 수 있음
 
 학습정리 열심히 하는게 도움이 많이 될 듯
 
-![]({{site.url}}/assets/images/845b50f0.png)
+![]({{site.url}}/assets/images/boostcamp/845b50f0.png)
 
 2001년도에 AI 라는 영화가 개봉이 됐는데 그 영화에 어린아이 로봇이 있는데 그 시대가 로봇을 혐오하는 시기였음  
 이 어린아이가 말을 인간같이 너무 잘해서 다른 사람들이 이 로봇을 감싸는 연출이 나옴  
@@ -155,7 +155,7 @@ copilot 과 codex 는 무료이지만 api 를 신청해야 사용할 수 있음
 
 목표는 인간과 인공지능과 구분되지 않는 챗봇을 만드려고 노력하고 있음  
 
-![]({{site.url}}/assets/images/94f248ec.png)
+![]({{site.url}}/assets/images/boostcamp/94f248ec.png)
 
 논문을 보면 자세히 나와있음  
 하이퍼클로바가 GPT-3 임 크게 다르지 않고 구조적으로는 다른게 없고 하이퍼클로바가 좀 더 작음  
@@ -166,7 +166,7 @@ copilot 과 codex 는 무료이지만 api 를 신청해야 사용할 수 있음
 
 논문을 자세히 보면 알 수 있음
 
-![]({{site.url}}/assets/images/3aaeb846.png)
+![]({{site.url}}/assets/images/boostcamp/3aaeb846.png)
 
 문제가 굉장히 많을 것 같은데 가장 영향을 준것 같은것은 데이터 증강에서 사용한 labeling 규칙과 KLUE labeling 
 한 규칙이 다를 수 있음  
@@ -176,7 +176,7 @@ copilot 과 codex 는 무료이지만 api 를 신청해야 사용할 수 있음
 
 증강기법에 따라 성능이 증가한 경우도 있었음
 
-![]({{site.url}}/assets/images/80094c0c.png)
+![]({{site.url}}/assets/images/boostcamp/80094c0c.png)
 
 mecab 자체는 알고리즘이라고 생각하면 됨  
 crf 기반으로 학습이 되어있고 데이터는 다국어 형태소 분석기를 사용했음  
@@ -185,12 +185,12 @@ mecab 은 기계학습 기반으로 적용이 된것이고 사전은 형태소�
 성능이 너무 안좋음  
 토큰을 분류하는 것은 사전기반이 성능이 낮을 수 밖에 없음  
 
-![]({{site.url}}/assets/images/cb0aa94c.png)
+![]({{site.url}}/assets/images/boostcamp/cb0aa94c.png)
 
 아무 이유 없고 글자가 귀여워서 정했음  
 노란색을 좋아함
 
-![]({{site.url}}/assets/images/0fd4f3b3.png)
+![]({{site.url}}/assets/images/boostcamp/0fd4f3b3.png)
 
 RAG 라는 모델이 있는데 읽어보는 것을 추천함  
 논문을 보면 reference 가 다양하게 있는데 https://jeonsworld.github.io/NLP/rag/  
@@ -202,7 +202,7 @@ Blender 2.0 에 대해서도 배웠었는데 이것도 아직 핫한 기술이�
 
 MRC 강의에도 설명이 있어서 도움이 많이 될 듯
 
-![]({{site.url}}/assets/images/6a14f7b4.png)
+![]({{site.url}}/assets/images/boostcamp/6a14f7b4.png)
 
 하나는 AI 분야쪽 사람들과 대화를 통해서 얻음  
 또 하나는 facebook 에서 많이 얻고 있음 tensorflowKR, PyTorchKR, Montrial AI page 이런 곳을
@@ -210,7 +210,7 @@ MRC 강의에도 설명이 있어서 도움이 많이 될 듯
 세번째는 arxiv 에 keyword 로 검색한 다음에 논문들이 나옴  
 최신 논문들이 나오기 때문에 그걸 보면서 많이 update 하고 있음
 
-![]({{site.url}}/assets/images/7030ae83.png)
+![]({{site.url}}/assets/images/boostcamp/7030ae83.png)
 
 입사지원서를 받았다고 가정해서 말해보겠음  
 캐글대회를 참여해서 몇등했는지는 관심 없음  
@@ -221,7 +221,7 @@ RE 대회를 할 때도 RE 대회 나갔을 때 느꼈던 부분과 문제점이
 가설을 설정하고 실제로 테스트해봤을 때 어떤 결과가 있는지 이런 부분을 잘 정리하는 것이 중요  
 연구하는 과정을 보여주는 것이 훨씬 좋은 포트폴리오가 되는 것 같음
 
-![]({{site.url}}/assets/images/1b65a261.png)
+![]({{site.url}}/assets/images/boostcamp/1b65a261.png)
 
 대기업이 커리큘럼과 트레이닝이 잘되어 있다는 생각은 편견임  
 아마 잘 되어 있는 곳은 없을 것  
@@ -255,7 +255,7 @@ RE 대회를 할 때도 RE 대회 나갔을 때 느꼈던 부분과 문제점이
 정확하게 가고자 하는 회사가 있으면 회사에 다니고 있는 분들에게 개별적으로 양해를 구하고 정보를 얻어보는 것도
 정확한 정보일 것 같음
 
-![]({{site.url}}/assets/images/2166cefa.png)
+![]({{site.url}}/assets/images/boostcamp/2166cefa.png)
 
 스톡옵션을 선택  
 상장안하고 이제 막 스타트업인데 발전가능성이 무궁무진하다 이러면 스톡옵션이 몇백배로 뛰니까 인생역전도 가능  

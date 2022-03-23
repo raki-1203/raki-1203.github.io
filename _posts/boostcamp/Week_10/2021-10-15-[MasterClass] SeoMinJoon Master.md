@@ -24,7 +24,7 @@ tags:
 
 인생의 터닝포인트가 4학년 2학기때 하나의 수업을 듣는데 
 
-![]({{site.url}}/assets/images/af74f57c.png)
+![]({{site.url}}/assets/images/boostcamp/af74f57c.png)
 
 강화학습이라기 보다는 AI 의 기본을 가르치는 수업이었음
 
@@ -40,7 +40,7 @@ AI 랑 하기로했던거랑 좀 다른건데 AI 를 해야겠다고 결심이 �
 
 대학원 준비를 하려면 연구경험이 있어야하는데 졸업하고 회사를 다니면서 학교를 와서 연구를 도와줬는데
 
-![]({{site.url}}/assets/images/b28e27e2.png)
+![]({{site.url}}/assets/images/boostcamp/b28e27e2.png)
 
 공간이미징 연구였음
 
@@ -62,7 +62,7 @@ AI 랑 하기로했던거랑 좀 다른건데 AI 를 해야겠다고 결심이 �
 
 당시 지도교수님이 
 
-![]({{site.url}}/assets/images/d162c5e5.png)
+![]({{site.url}}/assets/images/boostcamp/d162c5e5.png)
 
 도형문제를 푸는 문제를 줬음
 
@@ -90,7 +90,7 @@ AI 랑 하기로했던거랑 좀 다른건데 AI 를 해야겠다고 결심이 �
 학습데이터가 너무 적어서 기존 방법론으로 적용해보려했는데 딥러닝이 뜨기 시작하면서 데이터가 많아야 되고
 문제가 좀 적당히 어려워야하는데 문제가 너무 어려웠음
 
-![]({{site.url}}/assets/images/7aaa1deb.png)
+![]({{site.url}}/assets/images/boostcamp/7aaa1deb.png)
 
 SQuAD 라는 데이터셋이 나왔는데 10만 개정도의 데이터 example 이었음
 
@@ -206,7 +206,7 @@ AI 개발자라고 한다면은 engineering tuning 이 굉장히 중요하지만
 
 # 사전질문
 
-![]({{site.url}}/assets/images/b0214d62.png)
+![]({{site.url}}/assets/images/boostcamp/b0214d62.png)
 
 직관이 중요하고 직관은 경험에서 나오는 것 같고 직관이 뭐냐라고 하면
 흔히 얘기하는 insight 라던지 어떻게 어떤 방향으로 가야겠다는 생각인건데 경험상으로는 그 방향을
@@ -221,7 +221,7 @@ AI 라는건 uncertainty 를 항상 가져가는데 모델이 학습이 잘되�
 
 전통적인 software engineering 과 차이가 있다고 생각함
 
-![]({{site.url}}/assets/images/79ae742e.png)
+![]({{site.url}}/assets/images/boostcamp/79ae742e.png)
 
 AI 가 워낙 빨리 바뀌니까 게임의 시즌이 바뀌는거라고 생각함
 
@@ -235,7 +235,7 @@ AI 가 워낙 빨리 바뀌니까 게임의 시즌이 바뀌는거라고 생각�
 전혀 reset 이 없는 level up 하듯이 이런 느낌보다는 좀있으면 또 reset 될거라서 그때되면 다 level1 이라서
 그 때 다시 열심히하면 조급한 마음이 줄어들지 않을까 생각함
 
-![]({{site.url}}/assets/images/249975d2.png)
+![]({{site.url}}/assets/images/boostcamp/249975d2.png)
 
 요즘 관심을 갖는 주제는 화학반응 관련된 연구문제인데 가장 대표적인 예가 삼성전자에서 어떤 물질을 만들고 싶은데
 화학적 notation 을 알고 가장 값이 싼 input 을 알고싶음
@@ -253,14 +253,14 @@ AI 가 워낙 빨리 바뀌니까 게임의 시즌이 바뀌는거라고 생각�
 추론이냐 일상적인 추론이냐에 다를뿐인거지 전반적인 학계는 이런쪽으로 나가려고 하고있고 교수님도 이쪽으로
 관심을 가지고 있음
 
-![]({{site.url}}/assets/images/843d332c.png)
+![]({{site.url}}/assets/images/boostcamp/843d332c.png)
 
 정말 못하신다고 했던 분들이 있었는데 결국 잘하시게 되더라
 
 그래서 자신감을 가지시면 좋겠고 영어가 어려운 부분은 나중가면 스피킹이 어려운거 같고 reading 은 비교적
 오랜시간이 아니고 충분히 노력하면 크게 문제는 없을거라고 생각함
 
-![]({{site.url}}/assets/images/e5410487.png)
+![]({{site.url}}/assets/images/boostcamp/e5410487.png)
 
 대학원생때는 비교적 졸업하고 취업을 잘하고 싶다는 동기가 컸던 것 같고 네이버에 있을때는 개발팀을 맡았었는데
 scope 가 명확하다보니 개발은 잘되었었는데 맞지는 않았음
@@ -291,7 +291,7 @@ AI가 발전하면서 FPGA도 함께 부상하고 있는데 교수님께서는 �
 
 AI 를 연구하고 이쪽에서 일을 하기에 exciting 한 시대라고 생각함
 
-![]({{site.url}}/assets/images/a9f9eb06.png)
+![]({{site.url}}/assets/images/boostcamp/a9f9eb06.png)
 
 seominjoon@gmail.com
 
