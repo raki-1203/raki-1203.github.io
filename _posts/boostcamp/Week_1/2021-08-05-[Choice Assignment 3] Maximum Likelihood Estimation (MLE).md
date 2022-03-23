@@ -11,7 +11,7 @@ tags:
 
 ## TODO 1. 로그의 성질을 가지고 위의 수식을 전개하여 식을 간단히 정리해주세요. 
 
-![]({{site.url}}/assets/images/2021-08-06-00-00-42.png)
+![]({{site.url}}/assets/images/boostcamp/2021-08-06-00-00-42.png)
 
 $$L(\theta|x) = \log P(x|\theta) = \sum_{i=1}^{n}\log\frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{(x_i-\mu)^2}{2\sigma^2}\right) $$
 
@@ -28,7 +28,7 @@ $$\frac{\partial L(\theta|x)}{\partial \mu}
 
 ## TODO 2. 위의 수식을 전개하여 미분계수가 0이 되게 하는 $\mu$ 값을 구해주세요.
 
-![]({{site.url}}/assets/images/2021-08-06-00-00-59.png)
+![]({{site.url}}/assets/images/boostcamp/2021-08-06-00-00-59.png)
 
 $$\frac{\partial L(\theta|x)}{\partial \mu}
 = -\frac{1}{2\sigma^2}\sum_{i=1}^{n}\frac{\partial}{\partial \mu}\left(x_i^2-2x_i\mu+\mu^2\right)$$
@@ -47,7 +47,7 @@ $$=> \mu = \frac{1}{n}\sum_{i=1}^{n}x_i$$
 
 ## TODO 3. 로그가능도 함수 $L$을 $\sigma$로 편미분한 후, 편미분계수가 0이 되게 하는 $\sigma$(또는 $\sigma^2$)를 구하세요.
 
-![]({{site.url}}/assets/images/2021-08-06-00-01-23.png)
+![]({{site.url}}/assets/images/boostcamp/2021-08-06-00-01-23.png)
 
 $$ \frac{\partial L(\theta|x)}{\partial \sigma}  = \frac{\partial}{\partial \mu}\left(-\frac{n}{2}\log2\pi\sigma^2 - \frac{1}{2\sigma^2}\sum_{i=1}^{n}\left(x_i-\mu\right)^2\right)$$ 
 
@@ -87,7 +87,7 @@ print('mu=1: likelihood at x_0=1 is {:.4f}'.format(p3))
 
 ## Extra Work 베르누이분포의 최대가능도 모수 추정
 
-![]({{site.url}}/assets/images/2021-08-06-00-02-22.png)
+![]({{site.url}}/assets/images/boostcamp/2021-08-06-00-02-22.png)
 
 $$\hat\mu_{\text{MLE}} = \arg \max_{\mu} L(\mu) = n_1\log\mu + n_0\log(1-\mu)$$ 
 
