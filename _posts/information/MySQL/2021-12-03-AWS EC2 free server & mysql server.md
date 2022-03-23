@@ -22,7 +22,7 @@ tags:
 
 AWS 에 가입은 했다는 가정하에 진행할게요!
 
-![]({{site.url}}/assets/images/9fc3b9d3.png)
+![]({{site.url}}/assets/images/boostcamp/9fc3b9d3.png)
 
 지역을 서울로 바꿔줍니다.
 
@@ -50,7 +50,7 @@ AWS 에 가입은 했다는 가정하에 진행할게요!
 
 ### 1. 보안 자격 증명 으로 이동
 
-![]({{site.url}}/assets/images/fa769962.png)
+![]({{site.url}}/assets/images/boostcamp/fa769962.png)
 
 빨간 박스로 되어있는 부분은 아이디가 적혀있는 부분인데요
 
@@ -58,19 +58,19 @@ AWS 에 가입은 했다는 가정하에 진행할게요!
 
 ### 2. 멀티 팩터 인증(MFA)
 
-![]({{site.url}}/assets/images/ead37aa6.png)
+![]({{site.url}}/assets/images/boostcamp/ead37aa6.png)
 
 `멀티 팩터 인증(MFA)` 를 클릭해서 위와 같은 화면이 나오면 `MFA 활성화` 버튼을 클릭!
 
-![]({{site.url}}/assets/images/52fca9b1.png)
+![]({{site.url}}/assets/images/boostcamp/52fca9b1.png)
 
 이 화면이 나오면 `계속` 을 눌러줍니다.
 
-![]({{site.url}}/assets/images/93009e64.png)
+![]({{site.url}}/assets/images/boostcamp/93009e64.png)
 
 `비밀 키 표시` 를 눌러주세요
 
-![]({{site.url}}/assets/images/9ce33f48.png)
+![]({{site.url}}/assets/images/boostcamp/9ce33f48.png)
 
 빨간박스 부분에 비밀 키가 생성되었어요
 
@@ -78,27 +78,27 @@ AWS 에 가입은 했다는 가정하에 진행할게요!
 
 없으신분은 https://authy.com/download/ 여기에 들어가서 다운받으시고 설치하면 됩니다.
 
-![]({{site.url}}/assets/images/d98e07e1.png)
+![]({{site.url}}/assets/images/boostcamp/d98e07e1.png)
 
 다운받으신 후 실행하시면 이런 화면이 뜰거에요!
 
 저는 두개정도 추가를 해둬서 좀 가려놨는데 이제부터 새로 AWS 아이디와 Twilio Authy 를 연결할게요
 
-![]({{site.url}}/assets/images/17f72da5.png)
+![]({{site.url}}/assets/images/boostcamp/17f72da5.png)
 
 `+` 버튼을 클릭할게요!
 
-![]({{site.url}}/assets/images/7db21a8e.png)
+![]({{site.url}}/assets/images/boostcamp/7db21a8e.png)
 
 위에서 `비밀 키 표시` 를 클릭해서 나왔던 코드를 복사해서 붙여넣어줍니다.
 
 `Add Account` 버튼을 클릭할게요!
 
-![]({{site.url}}/assets/images/cc50b9cb.png)
+![]({{site.url}}/assets/images/boostcamp/cc50b9cb.png)
 
 이제 Account Name 과 색을 지정하고 Save 하면 끝났습니다!
 
-![]({{site.url}}/assets/images/b37c49e8.png)
+![]({{site.url}}/assets/images/boostcamp/b37c49e8.png)
 
 다시 여기로 돌아와서 3. 아래에 2개의 연속된 MFA 코드 입력 란이 보이죠?
 
@@ -124,11 +124,11 @@ AWS 에서 EC2 페이지로 들어옵니다.
 
 검색창에 EC2 를 검색해도되고 서비스탭에서 EC2 를 찾아서 들어와도 됩니다.
 
-![]({{site.url}}/assets/images/7bfa6e05.png)
+![]({{site.url}}/assets/images/boostcamp/7bfa6e05.png)
 
 저는 이렇게 검색해서 EC2 를 클릭해서 들어갈게요!
 
-![]({{site.url}}/assets/images/286f5176.png)
+![]({{site.url}}/assets/images/boostcamp/286f5176.png)
 
 왼쪽에 인스턴스를 클릭해서 들어오면 처음 가입하신 분들은 아무것도 없을거에요
 
@@ -136,27 +136,27 @@ AWS 에서 EC2 페이지로 들어옵니다.
 
 오른쪽 상단에 `인스턴스 시작` 을 클릭해서 생성을 해봅시다.
 
-![]({{site.url}}/assets/images/6f1162cf.png)
+![]({{site.url}}/assets/images/boostcamp/6f1162cf.png)
 
 스크롤을 좀 내리면 `Ubuntu Server 18.04 LTS (HVM), SSD Volume Type` 이 보일거에요!
 
 프리 티어 사용 가능 적혀있는지 확인하시고 선택을 눌러줍니다.
 
-![]({{site.url}}/assets/images/864c80ee.png)
+![]({{site.url}}/assets/images/boostcamp/864c80ee.png)
 
 t2.micro 라고 되어있는게 프리 티어 사용 가능 이라고 적혀있으니 저걸 선택하고 `검토 및 시작` 을 클릭합니다.
 
-![]({{site.url}}/assets/images/23d69ce7.png)
+![]({{site.url}}/assets/images/boostcamp/23d69ce7.png)
 
 여기서 시작하기를 눌러주세요!
 
-![]({{site.url}}/assets/images/9cff5ca4.png)
+![]({{site.url}}/assets/images/boostcamp/9cff5ca4.png)
 
 그러면 이런 화면이 뜨는데요!
 
 새 키 페어 생성을 클릭합니다.
 
-![]({{site.url}}/assets/images/800260d8.png)
+![]({{site.url}}/assets/images/boostcamp/800260d8.png)
 
 키 페어 이름을 입력해주세요
 
@@ -174,7 +174,7 @@ t2.micro 라고 되어있는게 프리 티어 사용 가능 이라고 적혀있�
 
 인스턴스 상태가 실행 중 으로 바뀌면 인스턴스가 생성이 되고 실행까지 완료되었습니다!
 
-![]({{site.url}}/assets/images/376086c4.png)
+![]({{site.url}}/assets/images/boostcamp/376086c4.png)
 
 여기서 생성한 인스턴스를 클릭하면 밑에 인스턴스의 정보가 나오는데요
 
@@ -291,19 +291,19 @@ mysql> exit
 
 ### 마지막으로 mysql 포트가 3306 이 기본인데 서버에서 3306 포트를 활성화시켜 주도록 할게요!
 
-![]({{site.url}}/assets/images/5a3027ef.png)
+![]({{site.url}}/assets/images/boostcamp/5a3027ef.png)
 
 AWS 페이지에서 아래에 보면 `보안` 탭을 클릭합니다.
 
-![]({{site.url}}/assets/images/a0b327b3.png)
+![]({{site.url}}/assets/images/boostcamp/a0b327b3.png)
 
 보안 그룹 파란색 글씨로 되어있는부분 클릭합니다
 
-![]({{site.url}}/assets/images/fba0efb1.png)
+![]({{site.url}}/assets/images/boostcamp/fba0efb1.png)
 
 여기서 오른쪽 아래부분에 `인바운드 규칙 편집` 을 클릭해주세요
 
-![]({{site.url}}/assets/images/7b1f49bb.png)
+![]({{site.url}}/assets/images/boostcamp/7b1f49bb.png)
 
 `규칙 추가` 를 클릭하고 `포트 범위` 에 3306 을 입력해주고 소스 돋보기 옆에 `0.0.0.0/0` 을 입력하고 `규칙 저장` 을 클릭하면 완료입니다.
 
