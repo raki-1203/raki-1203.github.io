@@ -11,7 +11,7 @@ tags:
 
 ## 사전질문
 
-![]({{site.url}}/assets/imabes/80876100.png)
+![]({{site.url}}/assets/images/boostcamp/80876100.png)
 
 - 조대현 멘토님
 
