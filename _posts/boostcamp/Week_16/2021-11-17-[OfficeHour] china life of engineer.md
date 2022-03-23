@@ -20,7 +20,7 @@ tags:
   - 기숙사, 교실, 연구실만 왔다갔다함
 - 그를 받쳐주는 인프라
 - 활발한 창업
-  ![]({{site.url}}/assets/images/bdfb63d0.png)
+  ![]({{site.url}}/assets/images/boostcamp/bdfb63d0.png)
 - 높은 연봉
   - 화웨이에서 딥러닝 엔지니어들의 연봉이 엄청 높아진다는 뉴스를 접할 수 있음
   - 징동 200만 이면 연봉이 한국돈으로 3억8천만원
@@ -28,14 +28,14 @@ tags:
 사내문화
 
 - 낮잠 문화
-  ![]({{site.url}}/assets/images/3b938a46.png)
+  ![]({{site.url}}/assets/images/boostcamp/3b938a46.png)
 - 수평관계?
   - 호칭
   - 동아리 활동
   - 생일파티
   - Team building 여행
 - 연말 파티
-  ![]({{site.url}}/assets/images/4331fe72.png)
+  ![]({{site.url}}/assets/images/boostcamp/4331fe72.png)
 
 데이터
 
@@ -72,22 +72,22 @@ tags:
 ### 데이터 구축도 '제품 생산'의 과정이다! (그러나 model training 에의 활용을 곁들인...)
 
 - 원시 코퍼스: **원재료**
-  ![]({{site.url}}/assets/images/31809dd1.png)
+  ![]({{site.url}}/assets/images/boostcamp/31809dd1.png)
   - 신문 제목은 데이터로 활용하는데 저작권이 적용되지 않아서 문제없음
   - 댓글도 댓글 작성자가 나의 작품이다라고 주장하지 않으면 사용하는데 지장 없음
 - 연구 진행자: **작업 총괄(구상, 도면, 프로토타입, 파일럿, 대량생산)**
-  ![]({{site.url}}/assets/images/ecfe3776.png)
+  ![]({{site.url}}/assets/images/boostcamp/ecfe3776.png)
   - 크게 3종류의 참가자들이 있음 연구진행자, 중간관리자, 작업자
 - 파일럿: **본 생산에 들어가기 전 proof of concept 를 체크하는 과정**
   - 컨텐츠 구상 및 In/Out 설정: **제품 구상**
   - 구축 가이드라인: **설계 도면**
   - 예시 문장/문서: **제품의 Proof of concept**
-  ![]({{site.url}}/assets/images/ef8274b1.png)
-  ![]({{site.url}}/assets/images/9a4b44de.png)
-  ![]({{site.url}}/assets/images/379ef619.png)
+  ![]({{site.url}}/assets/images/boostcamp/ef8274b1.png)
+  ![]({{site.url}}/assets/images/boostcamp/9a4b44de.png)
+  ![]({{site.url}}/assets/images/boostcamp/379ef619.png)
   - 파일럿 구축과 일치도 측정: **부분 생산 및 퀄리티 체크**
 - 본 구축: **풀스케일 생산 (파일럿의 iteration 은 한 번이 아닐 수 있음!)**
-  ![]({{site.url}}/assets/images/f9663be4.png)
+  ![]({{site.url}}/assets/images/boostcamp/f9663be4.png)
   - 자연어 데이터의 특성상 기계적으로만 하다보면 본질을 잃고 처음 의도와 다른 데이터가 구축될 수 있음
   - 내가 왜 이걸하는지? annotator agreement 를 높이기 위해서 편의를 위해서 한 일들이 데이터의 품질을 떨어뜨리는 방향이 아닌지 환기할 필요 있음
 
