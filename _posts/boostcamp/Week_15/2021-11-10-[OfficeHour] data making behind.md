@@ -2,7 +2,7 @@
 title: "Day_67 [오피스아워] 데이터 제작 Behind: 퀄리티 있는 RE 데이터 제작을 위한 데이터를 제작하는 방법 - 전종섭, 조원익 멘토"
 
 categories:
-  - Boostcamp_AI_Tech/Week_15/Day_67
+  - Boostcamp_AI_Tech/Week_15
 tags:
   - 오피스아워
 ---
