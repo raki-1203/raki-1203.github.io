@@ -145,7 +145,7 @@ pseudo labeling의 가장 큰 장점은 label 되지 않은 데이터를 어떻�
 
 사용하는 기법들의 허와 실을 명확하게 스터디를 하는 편이 나중에 가서 오류를 범하지 않을 수 있는 거라고 생각을 함
 
-> ![]({{site.url}}/assets/images/1630663880501.png)
+> ![]({{site.url}}/assets/images/boostcamp/1630663880501.png)
 
 기업이 원하는 걸 적으면 좋음
 
@@ -161,7 +161,7 @@ pseudo labeling의 가장 큰 장점은 label 되지 않은 데이터를 어떻�
 
 문제 해결이 기업에서 가장 요구하는 것
 
-> ![]({{site.url}}/assets/images/1630662659394.png)
+> ![]({{site.url}}/assets/images/boostcamp/1630662659394.png)
 
 imbalance 를 좁히지 못한 것이 문제
 
@@ -173,7 +173,7 @@ data 도 좋은 quality 가 아니기 때문에 명확한 답을 줄수는 없�
 
 이 문제에서는 모델을 여러개 만드는게 베스트
 
-> ![]({{site.url}}/assets/images/1630662757103.png)
+> ![]({{site.url}}/assets/images/boostcamp/1630662757103.png)
 
 전체적으로 학습률이 낮았기 때문인 것 같다.
 
@@ -181,7 +181,7 @@ data 도 좋은 quality 가 아니기 때문에 명확한 답을 줄수는 없�
 
 여러가지 경우 중 하나인데 코드가 잘 못 되었을 가능성이 있음
 
-> ![]({{site.url}}/assets/images/1630662864989.png)
+> ![]({{site.url}}/assets/images/boostcamp/1630662864989.png)
 
 made in china 라서 그런 경우가 있었을 것 같고
 
@@ -189,7 +189,7 @@ made in china 라서 그런 경우가 있었을 것 같고
 
 다른 데이터를 찾거나 많이 함
 
-> ![]({{site.url}}/assets/images/1630662928846.png)
+> ![]({{site.url}}/assets/images/boostcamp/1630662928846.png)
 
 IDE 는 되게 빠르게 실험이 가능하다라는 장점
 
@@ -201,13 +201,13 @@ IDE 는 되게 빠르게 실험이 가능하다라는 장점
 
 본인만의 template 을 만드는 것을 추천
 
-> ![]({{site.url}}/assets/images/1630663026554.png)
+> ![]({{site.url}}/assets/images/boostcamp/1630663026554.png)
 
 현업에서는 돈을 쓸 수 있기 때문에 돈을 더 많이 써서 고칠 수 있음
 
 데이터 품질이 문제 일수도 있지만 코딩의 문제 일 수 있>
 
-> ![]({{site.url}}/assets/images/1630663149759.png)
+> ![]({{site.url}}/assets/images/boostcamp/1630663149759.png)
 
 개발을 잘하고 못하고의 차이가 시험에 나올 것만 공부하는 사람과 시험에 안나오더라도 내가 궁금하면 사람의 차이가 있다고 생각함
 
