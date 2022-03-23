@@ -2,7 +2,7 @@
 title: "Day_72 [오피스아워] 중국 딥러닝 엔지니어들의 삶 + 중국 기업의 데이터 이야기&다양한 (한국어) 데이터 구축 과정에서의 findings - 김재인, 조원익 멘토"
 
 categories:
-  - Boostcamp_AI_Tech/Week_16/Day_72
+  - Boostcamp_AI_Tech/Week_16
 tags:
   - 오피스아워
 ---

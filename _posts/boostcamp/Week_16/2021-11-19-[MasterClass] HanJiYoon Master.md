@@ -2,7 +2,7 @@
 title: "Day_74 [마스터클래스] 한지윤 마스터"
 
 categories:
-  - Boostcamp_AI_Tech/Week_16/Day_74
+  - Boostcamp_AI_Tech/Week_16
 tags:
   - 마스터클래스
 ---

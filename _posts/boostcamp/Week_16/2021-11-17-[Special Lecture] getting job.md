@@ -2,7 +2,7 @@
 title: "Day_72 [특강] 취업특강 - Upstage HK CTO 김재범님"
 
 categories:
-  - Boostcamp_AI_Tech/Week_16/Day_72
+  - Boostcamp_AI_Tech/Week_16
 tags:
   - 특강
 ---
