@@ -15,7 +15,7 @@ tags:
 
 ### Model Parser 흐름 이해하기
 
-![]({{site.url}}/assets/images/6560b7bc.png)
+![]({{site.url}}/assets/images/boostcamp/6560b7bc.png)
 
 **Model Parser 에서 최종 model 까지**
 
@@ -26,18 +26,18 @@ tags:
    3. CustomModule
 3. return Model
 
-![]({{site.url}}/assets/images/ba3bf1b2.png)
+![]({{site.url}}/assets/images/boostcamp/ba3bf1b2.png)
 
-![]({{site.url}}/assets/images/854d81de.png)
+![]({{site.url}}/assets/images/boostcamp/854d81de.png)
 
 **ModelParser**
 
 - _parse_model : 내부적으로 model_config 를 parsing 해서 nn.Sequential 모듈 리턴
 - yaml 에서 입력받은 repeat, module, args 를 ModuleGenerator 에 입력
 
-![]({{site.url}}/assets/images/5df6a07c.png)
+![]({{site.url}}/assets/images/boostcamp/5df6a07c.png)
 
-![]({{site.url}}/assets/images/31e3f4d0.png)
+![]({{site.url}}/assets/images/boostcamp/31e3f4d0.png)
 
 **ModuleGenerator**
 
@@ -56,9 +56,9 @@ src.modules.init.py 에 존재하는 모듈 중 입력받은 module generator �
    - Torchvision 의 model 사용
    - **forward** : 1x1 expand layer 와 3x3 expand layer 의 out channel concat 하여 출력
 
-   ![]({{site.url}}/assets/images/fa269d22.png)
+   ![]({{site.url}}/assets/images/boostcamp/fa269d22.png)
 
-   ![]({{site.url}}/assets/images/40efd517.png)
+   ![]({{site.url}}/assets/images/boostcamp/40efd517.png)
 
 2. GeneratorAbstract
 
@@ -66,31 +66,31 @@ src.modules.init.py 에 존재하는 모듈 중 입력받은 module generator �
    - abstractmethod : out_channel, `__call__`
    - Custom module generator 의 class 이름은 Custom Module 이름 + Generator 로 작성
 
-   ![]({{site.url}}/assets/images/db76f3f6.png)
+   ![]({{site.url}}/assets/images/boostcamp/db76f3f6.png)
 
-   ![]({{site.url}}/assets/images/b7defb80.png)
+   ![]({{site.url}}/assets/images/boostcamp/b7defb80.png)
 
 3. FireGenerator
    - **out_channel** : expand1x1 channel 과 expand3x3 channel 의 합으로 out_channel 결정
    
-   ![]({{site.url}}/assets/images/403f4578.png)
+   ![]({{site.url}}/assets/images/boostcamp/403f4578.png)
 
-   ![]({{site.url}}/assets/images/43fc512d.png)
+   ![]({{site.url}}/assets/images/boostcamp/43fc512d.png)
 
 4. Fire Module Generator
 
    - `__call__` : Generator 가 불리울 때, base_module 을 호출하여 argument 를 전달하고 repeats 에 맞는 module 생성
    - **base_module** : src.modules.init.py 에 존재하는 모듈 중 Fire 에 해당하는 모듈을 가져오므로 init.py 에도 추가
 
-   ![]({{site.url}}/assets/images/5d7927af.png)
+   ![]({{site.url}}/assets/images/boostcamp/5d7927af.png)
 
-   ![]({{site.url}}/assets/images/df7d6010.png)
+   ![]({{site.url}}/assets/images/boostcamp/df7d6010.png)
 
 ### 결과
 
 squeezenet.yaml
 
-![]({{site.url}}/assets/images/2c6eec7f.png)
+![]({{site.url}}/assets/images/boostcamp/2c6eec7f.png)
 
 ---
 
