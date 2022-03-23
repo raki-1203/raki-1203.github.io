@@ -2,7 +2,7 @@
 title: "Day_84 [마스터클래스] 모델최적화대회 - 김정훈 마스터"
 
 categories:
-  - Boostcamp_AI_Tech/Week_18/Day_84
+  - Boostcamp_AI_Tech/Week_18
 tags:
   - 마스터클래스
 ---

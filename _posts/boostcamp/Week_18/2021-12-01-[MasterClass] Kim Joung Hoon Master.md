@@ -2,7 +2,7 @@
 title: "Day_82 [마스터클래스] 클라이언트 사이드 ML - 김정훈 마스터"
 
 categories:
-  - Boostcamp_AI_Tech/Week_18/Day_82
+  - Boostcamp_AI_Tech/Week_18
 tags:
   - 마스터클래스
 ---

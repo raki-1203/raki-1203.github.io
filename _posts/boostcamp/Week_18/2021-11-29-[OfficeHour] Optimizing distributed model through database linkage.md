@@ -2,7 +2,7 @@
 title: "Day_80 [오피스아워] 데이터베이스 연동을 통한 분산 모델 최적화 하기 - 임종국 멘토"
 
 categories:
-  - Boostcamp_AI_Tech/Week_18/Day_80
+  - Boostcamp_AI_Tech/Week_18
 tags:
   - 오피스아워
 ---
