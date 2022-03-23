@@ -2,7 +2,7 @@
 title: "Day_75 [오피스아워] Baseline 코드에 모듈 작성하기 - 신종선 멘토"
 
 categories:
-  - Boostcamp_AI_Tech/Week_17/Day_75
+  - Boostcamp_AI_Tech/Week_17
 tags:
   - 오피스아워
 ---

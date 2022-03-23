@@ -2,7 +2,7 @@
 title: "Day_77 특강 ART Lab Culture - Terry"
 
 categories:
-  - Boostcamp_AI_Tech/Week_17/Day_77
+  - Boostcamp_AI_Tech/Week_17
 tags:
   - 특강
 ---
