@@ -10,7 +10,7 @@ tags:
 # [특강 - 파이썬 Unit Test] 라이엇 게임즈 유석문 CTO
 
 > TDD Unit Test
-    ![]({{site.url}}/assets/images/2021-08-18-18-24-56.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-18-18-24-56.png)
 
 - Programmer's Tests
 - Unit Test의 장점
