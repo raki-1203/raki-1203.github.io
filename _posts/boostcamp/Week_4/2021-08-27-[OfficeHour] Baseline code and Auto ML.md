@@ -29,14 +29,14 @@ tags:
 
 - Components
 
-    ![]({{site.url}}/assets/images/2021-08-27-18-12-57.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-27-18-12-57.png)
 
 - 기본 사용 방법
   - 다양한 하이퍼 파라미터 세팅으로 학습을 진행해봅니다.
   - 텐서보드를 통해 학습 양상을 실시간으로 확인 및 점검하고, 실험간 결과를 비교합니다.
   - Custom Module 들을 추가하여 성능을 더 끌어 올려봅니다.
 
-    ![]({{site.url}}/assets/images/2021-08-27-18-14-47.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-27-18-14-47.png)
 
 ---
 
@@ -54,7 +54,7 @@ tags:
 
 - Auto ML?
 
-  ![]({{site.url}}/assets/images/2021-08-27-18-56-32.png)
+  ![]({{site.url}}/assets/images/boostcamp/2021-08-27-18-56-32.png)
 
 ### 2.2 Auto ML Tasks
 
@@ -62,18 +62,18 @@ tags:
 - Neural Architecture Search (NAS)
 - Model Compression
   
-    ![]({{site.url}}/assets/images/2021-08-27-18-58-10.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-27-18-58-10.png)
 
 ### 2.3 Auto ML Tasks - NAS
 
-![]({{site.url}}/assets/images/2021-08-27-18-59-34.png)
+![]({{site.url}}/assets/images/boostcamp/2021-08-27-18-59-34.png)
 
-![]({{site.url}}/assets/images/2021-08-27-19-03-57.png)
+![]({{site.url}}/assets/images/boostcamp/2021-08-27-19-03-57.png)
 
 ### 2.4 Auto ML 실습
 
 - Hyperparameter Optimization (HPO)
   - Ray-Tune, Optuna, W&B Sweeps, nni etc..
     
-    ![]({{site.url}}/assets/images/2021-08-27-19-05-30.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-27-19-05-30.png)
 

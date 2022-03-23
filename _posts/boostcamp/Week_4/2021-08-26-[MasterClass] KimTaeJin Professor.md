@@ -24,11 +24,11 @@ tags:
 - 밖에서 본 이상
   - 너도 나도 AI
   
-    ![]({{site.url}}/assets/images/2021-08-26-18-13-05.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-26-18-13-05.png)
 
   - 현실에서 체감하고 있는 요즘
 
-    ![]({{site.url}}/assets/images/2021-08-26-18-13-38.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-26-18-13-38.png)
 
 - 현실
   - 당신은 과거에 무슨 잘못을 저질렀기에 여기까지 오게 되었습니까?
@@ -40,7 +40,7 @@ tags:
 
 - 우리 모두 각자의 시작점이 다릅니다.
 
-    ![]({{site.url}}/assets/images/2021-08-26-18-14-58.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-26-18-14-58.png)
 
 - 방향만 알 수 있다면
   - 제가 입이 마르고 닳도록 얘기한 것이 있었죠
@@ -58,12 +58,12 @@ tags:
 - 이미지 분류 강의라고 해서 찾아왔습니다.
   - 이런걸 기대하셨습니까?
     
-    ![]({{site.url}}/assets/images/2021-08-26-18-20-48.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-26-18-20-48.png)
 
 - U stage 복습 및 확장의 발판
   - 기본과 실전 그 어디 쯤
 
-    ![]({{site.url}}/assets/images/2021-08-26-18-21-20.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-26-18-21-20.png)
 
   - 줄타기를 하는 중
 
@@ -73,11 +73,11 @@ tags:
 - Competition Top 10 = 취업?
   - 나머지는 들러리입니까?
 
-    ![]({{site.url}}/assets/images/2021-08-26-18-24-46.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-26-18-24-46.png)
 
   - 1등 모델이 객관적으로 좋은 모델일까요?
 
-    ![]({{site.url}}/assets/images/2021-08-26-18-25-45.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-26-18-25-45.png)
 
   - 추천 모델을 만들 때도 정말 올바른 추천이 뭘까? 라는 생각을 하게 됨
   - 과거의 클릭을 바탕으로 미래의 클릭을 만들면 성능은 좋겠지만 실제로 비즈니스에서 원하는 건가? 이건 다른 얘기임
@@ -85,7 +85,7 @@ tags:
 - Competition을 잘한다는 것
   - 지금까지의 많은 시행착오와 경험이 있을 확률이 높고, 문제해결의 기댓값이 높다.
 
-    ![]({{site.url}}/assets/images/2021-08-26-18-27-23.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-26-18-27-23.png)
 
   - 스코어가 좋다는 건 
     - 운좋게 잘 되는 경우
