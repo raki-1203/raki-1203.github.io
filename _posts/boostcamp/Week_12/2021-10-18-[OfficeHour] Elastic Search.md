@@ -2,7 +2,7 @@
 title: "Day_50 [오피스아워] Elastic Search"
 
 categories:
-  - Boostcamp_AI_Tech/Week_12/Day_50
+  - Boostcamp_AI_Tech/Week_12
 tags:
   - 오피스아워
 ---
