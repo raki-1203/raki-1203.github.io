@@ -11,7 +11,7 @@ tags:
 
 ## 질의응답
 
-![]({{site.url}}/assets/images/38e99848.png)
+![]({{site.url}}/assets/images/boostcamp/38e99848.png)
 
 - 특별한 계기가 있었던 것은 아니고 분위기가 심상치 않았고 2014~2015년 됐을 때에 CV 로 많은 이미지 문제가 해결되고
 있고해서 음성인식쪽에서 딥러닝을 통해서 성능향상이 일어났다는 얘기를 듣고 공부를 해야겠다고 생각
@@ -19,7 +19,7 @@ tags:
 - 분야 자체가 인공지능과 막 다른 분야가 아니었음
 - 그래서 수월하게 시작했음
 
-![]({{site.url}}/assets/images/c824b537.png)
+![]({{site.url}}/assets/images/boostcamp/c824b537.png)
 
 - 논문 정보를 평소에 어디서 얻느냐가 중요한 것 같음
 - deep mind 에 Sebastian Ruder 의 blog, github 를 보면 여러 task 별로 주요 논문들이 정리되어 있음
@@ -31,7 +31,7 @@ tags:
   - 키워드 등록하면 알람을 받을 수 있음
 - 빨리 쫓아가야할 필요가 있고 비슷한게 먼저 나와버리면 안되니까 그런 용도로 신경써서 체크해야함
 
-![]({{site.url}}/assets/images/558ba0a9.png)
+![]({{site.url}}/assets/images/boostcamp/558ba0a9.png)
 
 - Word Embedding 부터 시작해서 LSTM, GRU 그리고 Attention 모델들 그리고 Transformer, MLM, NSP 등등
 - CNN 의 계보들 VGG-Net, Res-Net, Dense-Net, SE-Net 그런 굵직한 계보들 그리고 mobile-net, efficient-net
@@ -39,7 +39,7 @@ tags:
 - Bias 문제들이 CV 쪽에서 Classification 모델이라던지 의료영상이라던지에서 많이 대두가 되고 있고
 - NLP 쪽에서도 문제가 심각함, 남녀차별 이런 사회적이슈가 되는 부분
 
-![]({{site.url}}/assets/images/ce235f15.png)
+![]({{site.url}}/assets/images/boostcamp/ce235f15.png)
 
 - 실제로 세상을 바꾸고 있음
 - 이론적으로 아주 깊이있는 부분도 있지만 심플하면서도 scalable 한 특성?
@@ -52,14 +52,14 @@ tags:
 - AI 에서는 연구결과가 실제 산업현장에 많이 투입이 되기 때문에 
 - 실제로 네이버나 구글, 페이스북 포함해서 논문도 많이 내고 기술의 진보가 실제 세상을 바꾸는 딜레이가 적어서
 
-![]({{site.url}}/assets/images/8808f832.png)
+![]({{site.url}}/assets/images/boostcamp/8808f832.png)
 
 - 잠이 많았어서 9시 거의 다되서 일어나서 미팅이랑 자잘한 처리할 일들이 많은편이라 6시까지 처리하고 그 사이사이에
 학생들과 연구관련해서 미팅을 주기적으로 계속하고 미팅도 8~9시 11시 넘어서까지 하는 경우도 있고 11시부터 해야하는일
 하고싶은일을 하는 듯 그리고 3~4시에 자는듯
 - 주말에는 좀 푹 잠
 
-![]({{site.url}}/assets/images/f77fc1f4.png)
+![]({{site.url}}/assets/images/boostcamp/f77fc1f4.png)
 
 - 주변의 선후배나 동료인 교수님들을 보면 이 문제를 내가 풀겠다해서 Grand Goal 을 명확하게 잡은 분도 계시고 
 저 같은 경우는 특별하게 없음
@@ -69,7 +69,7 @@ tags:
 - 지기싫어하는 것, 사람이 될 수도 있고 어려운거 있으면 정복하고 만다 이런 자세?를 해서 그때그때 단기적인 목표에
 최선을 다하는 상태로 진행해옴
 
-![]({{site.url}}/assets/images/31ffcbd3.png)
+![]({{site.url}}/assets/images/boostcamp/31ffcbd3.png)
 
 - 공부는 가능하면 일찍하는게 바람직하지 않나 생각이 들고 나이가 들수록 경력이 아까울 수 있음
 - 대학원을 수료했을 때 새로운 가능성은 열리지만 아닐 수도 있음
@@ -78,7 +78,7 @@ tags:
 - 시드머니가 있는 상태에서 하겠다고하면 나쁜 전략은 아닐수도 있음
 - 석사를 하고 취직을 한다하면 그러면 석사 이전에 회사에서의 경력은 쳐주지 않음
 
-![]({{site.url}}/assets/images/5e6b98cc.png)
+![]({{site.url}}/assets/images/boostcamp/5e6b98cc.png)
 
 - 기초가 중요한 것 같음
 - 수학이나 코딩이나 전반적인 Computer Science, 알고리즘, Operation, 컴퓨터 아키텍처 등등 이런 것들
@@ -105,13 +105,13 @@ tags:
 공유하니 같은 주제를 연구하는 연구실 동료 선후배, 교수님이 있을 수 있으니 인간관계를 어떻게 하는게 좋은지에 대해서
 잘 생각하는게 좋음
 
-![]({{site.url}}/assets/images/11ae53e3.png)
+![]({{site.url}}/assets/images/boostcamp/11ae53e3.png)
 
 - 기초를 충실히!
 - 확률통계, 선형대수, 최적화이론, 미적분학, 고등학교 수학, backpropagation 이 어떻게 동작하는가?, chain rule
 합성함수 미분 등
 
-![]({{site.url}}/assets/images/7634413d.png)
+![]({{site.url}}/assets/images/boostcamp/7634413d.png)
 
 - 기업에서는 좋은 데이터가 있을 가능성이 높고 실제 문제를 풀게되면서 그걸 통해서 본인이 한 일이 오늘 당장 만든
 알고리즘이 서비스에 쓰이면서 가족이 쓸수도있고 실제 세상에 어떤 impact 뭔가 가치를 만들어낼 수 있는 기회가
@@ -121,13 +121,13 @@ tags:
 - 노가다가 고통스러웠다고 하더라도 실제 문제를 해결해서 가치를 만들어서 행복하다면 현업이 맞는 것 같음
 - 학위의 측면에서 최종학력이 석사냐, 학사냐, 박사냐에 따라서 본인의 실력과 상관없이 선택의 폭이 넓어짐
 
-![]({{site.url}}/assets/images/7d57034d.png)
+![]({{site.url}}/assets/images/boostcamp/7d57034d.png)
 
 - Pay Attention to MLP
 - Transformer 를 더 심플한 Multi layer Perceptron 으로 바꾸는 시도들이 일어나고 있음
 - MLP Mixer
 
-![]({{site.url}}/assets/images/6b9f4007.png)
+![]({{site.url}}/assets/images/boostcamp/6b9f4007.png)
 
 - MLOps 관련해서도 강의도 나온 것 같음
 - 부족한게 맞아서 엔지니어링의 영역이라서 중요하지 않다는 건 아니지만 research & development 에서 
@@ -139,21 +139,21 @@ development 에 가까운 영역이라서
 - 영어로 작성이 되어 있으면 영어문법, 관사 실수를 하는 경우가 많아서 이런거 보심
 - 여러사람들의 피드백을 얻는게 좋을 것 같음
 
-![]({{site.url}}/assets/images/a2f80530.png)
+![]({{site.url}}/assets/images/boostcamp/a2f80530.png)
 
 - 마음의 고향은 topic modeling 
 - UTOPIAN 이라는 논문
 - 빅데이터 분석
 - 정성적인 것들로부터 재밌는 결과들을 찾았을 때가 재밌었음
 
-![]({{site.url}}/assets/images/6224f78d.png)
+![]({{site.url}}/assets/images/boostcamp/6224f78d.png)
 
 - 주변 사람들한테 밥을 사줘가면서라도 장점은 잘 얘기해주더라도 단점을 얘기해주는건 잘 안해줄 수 있어서
 그런 사람들한테 단점을 듣는게 좋은 듯
 - 본인이 강자인 인간관계에서 상대방한테 단점을 들어보는것이 중요한 것 같음
 - 단점을 서슴없이 얘기해줄 수 있는 그런 연구실을 운영했으면 좋을 것 같음
 
-![]({{site.url}}/assets/images/c5a03ad8.png)
+![]({{site.url}}/assets/images/boostcamp/c5a03ad8.png)
 
 - 이겨내야죠
 - 시간이 지나면 무뎌질 것
