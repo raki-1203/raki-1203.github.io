@@ -11,11 +11,11 @@ tags:
 
 ## 기본 Optuna 의 최적화 구조
 
-![]({{site.url}}/assets/images/ab2b8ce7.png)
+![]({{site.url}}/assets/images/boostcamp/ab2b8ce7.png)
 
 ## 메모리 Stroage 쓰는게 뭐가 문제죠?
 
-![]({{site.url}}/assets/images/e34e86b1.png)
+![]({{site.url}}/assets/images/boostcamp/e34e86b1.png)
 
 굉장히 오래걸리는데 도중에 코드 문제로 멈춘다면 지금까지 한걸 모두 날려버림...
 
@@ -32,9 +32,9 @@ tags:
 5. SQLite
    - Local 에서만 사용 가능
 
-![]({{site.url}}/assets/images/8cf3e3a4.png)
+![]({{site.url}}/assets/images/boostcamp/8cf3e3a4.png)
 
-![]({{site.url}}/assets/images/6897ab4a.png)
+![]({{site.url}}/assets/images/boostcamp/6897ab4a.png)
 
 가장 PostgreSQL 이 세팅하기 쉬웠음 그래서 추천
 
@@ -45,7 +45,7 @@ MySQL 도 사용할 수 있는데 두가지중에 PostgreSQL 이 디렉토리를
 - PostgreSQL: https://www.postgresql.org/
 - 대회 서버(우분투) 기준 설치 방법
 
-![]({{site.url}}/assets/images/15d53f2e.png)
+![]({{site.url}}/assets/images/boostcamp/15d53f2e.png)
 
 - lsb-core : linux 버전 확인
 - wget : 파일 다운로드

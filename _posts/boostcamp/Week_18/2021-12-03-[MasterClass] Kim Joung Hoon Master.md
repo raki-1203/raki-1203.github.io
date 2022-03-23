@@ -110,7 +110,7 @@ NLP 쪽이 경량화 needs 가 더 큼
 
 # Q & A
 
-![]({{site.url}}/assets/images/278ed082.png)
+![]({{site.url}}/assets/images/boostcamp/278ed082.png)
 
 최적화 경량화는 업계 성숙도로 봤을 때 아직이다라는 생각을 많이함
 
@@ -133,7 +133,7 @@ NLP 쪽이 경량화 needs 가 더 큼
 
 같이 공부해나가는 입장에서 서로 배워나갈 수 있는 사람임을 어필하는게 중요함
 
-![]({{site.url}}/assets/images/72eaca53.png)
+![]({{site.url}}/assets/images/boostcamp/72eaca53.png)
 
 너무 케바케라 어려운 부분은 있음
 

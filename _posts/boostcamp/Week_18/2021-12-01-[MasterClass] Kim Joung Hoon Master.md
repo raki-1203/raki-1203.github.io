@@ -25,7 +25,7 @@ tags:
   - 돌릴 수 있다면?
   - 근데 심지어 더 저렴하게?(Fee), 더 싼 device 로?
 
-![]({{site.url}}/assets/images/9678d437.png)
+![]({{site.url}}/assets/images/boostcamp/9678d437.png)
 
 유사한 성능인데 80% 60%의 비용을 줄일수 있다면 왜 안하겠어?
 
@@ -57,7 +57,7 @@ customize 하고 자동화하기 쉽지 않음
 - 좋아지는 컴퓨터(+노트북), 스마트폰 spec
 - 발전되는 기술들: WebGL, Web Assembly, WebGPU
 
-![]({{site.url}}/assets/images/56a58979.png)
+![]({{site.url}}/assets/images/boostcamp/56a58979.png)
 
 **WebGL, WebAssembly, WebGPU?**
 
@@ -65,11 +65,11 @@ customize 하고 자동화하기 쉽지 않음
 - WebAssembly(WASM): CPU backend, SIMD, multi-threading 등으로 가속화
 - WebGL: GPU backend, 다양한 플랫폼에서 활용 가
 
-![]({{site.url}}/assets/images/1c06e748.png)
+![]({{site.url}}/assets/images/boostcamp/1c06e748.png)
 
 **Client-side ML 의 장점**
 
-![]({{site.url}}/assets/images/95ed7763.png)
+![]({{site.url}}/assets/images/boostcamp/95ed7763.png)
 
 프라이버시 보장, 낮은 지연, 접근성 좋음, 서빙 cost 적음
 
@@ -137,7 +137,7 @@ https://www.tensorflow.org/js/demos
 
 **Server-side, Client-side: 예시**
 
-![]({{site.url}}/assets/images/e4a855ee.png)
+![]({{site.url}}/assets/images/boostcamp/e4a855ee.png)
 
 
 
