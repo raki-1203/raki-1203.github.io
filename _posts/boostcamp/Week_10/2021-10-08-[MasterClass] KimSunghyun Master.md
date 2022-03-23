@@ -2,7 +2,7 @@
 title: "Day_45 [마스터클래스] 김성현 마스터"
 
 categories:
-  - Boostcamp_AI_Tech/Week_10/Day_45
+  - Boostcamp_AI_Tech/Week_10
 tags:
   - 마스터클래스
 ---

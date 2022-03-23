@@ -2,7 +2,7 @@
 title: "Day_45 [P-Stage level 2] KLUE Relation Extraction 개인 회고"
 
 categories:
-  - Boostcamp_AI_Tech/Week_10/Day_45
+  - Boostcamp_AI_Tech/Week_10
 tags:
   - P-Stage level2
 ---

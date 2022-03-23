@@ -2,7 +2,7 @@
 title: "Day_43 [오피스아워] Chatbot with NLP"
 
 categories:
-  - Boostcamp_AI_Tech/Week_10/Day_43
+  - Boostcamp_AI_Tech/Week_10
 tags:
   - 오피스아워
 ---
