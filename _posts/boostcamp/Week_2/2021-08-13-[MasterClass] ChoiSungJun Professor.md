@@ -77,20 +77,20 @@ predict에 대한 불확실성
 - 이전 부터 관심 있었다.
 - 계속 로봇을 하고 싶었다.
 
-> ![]({{site.url}}/assets/images/2021-08-13-18-52-45.png)
+> ![]({{site.url}}/assets/images/boostcamp/2021-08-13-18-52-45.png)
 
 - 개인적으로 방법론을 중요하게 생각하지 않음
 - 개선할 부분을 정하는데 리더보드의 점수는 아님
 - 새로운 문제를 만드는데 관심이 있음
 
-> ![]({{site.url}}/assets/images/2021-08-13-18-54-10.png)
+> ![]({{site.url}}/assets/images/boostcamp/2021-08-13-18-54-10.png)
 
 - 구현의 팁은 없고 많이 해볼수록 느는 것 같음
 - 구현하지 않으면 이해할 수 없음
 - 이해하려면 당연히 구현해봐야 함
 - 구현능력은 엔지니어라면 당연히 가져야 하는 능력
 
-> ![]({{site.url}}/assets/images/2021-08-13-18-55-02.png)
+> ![]({{site.url}}/assets/images/boostcamp/2021-08-13-18-55-02.png)
 
 - 작년 기준으론 맞는 말이었는데 지금은 틀린말이다
 - parameter가 늘어나면 성능도 같이 늘어남
@@ -98,7 +98,7 @@ predict에 대한 불확실성
 - 이 논문 꼭 읽어봐라
 - https://arxiv.org/abs/2001.08361
 
-> ![]({{site.url}}/assets/images/2021-08-13-18-56-30.png)
+> ![]({{site.url}}/assets/images/boostcamp/2021-08-13-18-56-30.png)
 
 - 둘다 쓴다
 - 둘다 잘 하고 다 할줄 앎

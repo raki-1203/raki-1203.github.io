@@ -79,17 +79,17 @@ tags:
 
 - git log --oneline
 - git log --oneline --graph --all
-    ![]({{site.url}}/assets/images/2021-08-12-14-11-08.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-12-14-11-08.png)
 - 그래프를 보면 무조건 Head를 찾고 내 저장소는 41721ab를 보고 있구나
 - HEAD가 master를 보고 있구나
 - 원격도 master를 보고 있구나
 
-![]({{site.url}}/assets/images/2021-08-12-14-12-07.png)
+![]({{site.url}}/assets/images/boostcamp/2021-08-12-14-12-07.png)
 
 - master 와 origin/master가 다른 곳에 있으면 push를 안했구나
 - push 하면 같아짐
 
-![]({{site.url}}/assets/images/2021-08-12-14-12-49.png)
+![]({{site.url}}/assets/images/boostcamp/2021-08-12-14-12-49.png)
 
 > 협업
 
@@ -105,7 +105,7 @@ tags:
 ---
 - 같은 줄을 수정하고 먼저 푸시하고 퇴근
 - 두번째 사람은 push 못하니까 pull
-    > ![]({{site.url}}/assets/images/2021-08-12-14-41-15.png)
+    > ![]({{site.url}}/assets/images/boostcamp/2021-08-12-14-41-15.png)
 - 충돌 발생
 - 충돌은 git이 가지고 있는 정점의 기능
 - 자동으로 합치는 것도 기능이고 자동으로 합치면 안되는 걸 합치지 않는것도 기능임

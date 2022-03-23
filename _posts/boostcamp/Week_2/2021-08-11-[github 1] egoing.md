@@ -68,7 +68,7 @@ extension - git graph
     - git이 reject(거절) 함
   - 일단 pull 해서 떙겨와야 함
 
-    ![]({{site.url}}/assets/images/2021-08-11-15-20-38.png)
+    ![]({{site.url}}/assets/images/boostcamp/2021-08-11-15-20-38.png)
   
   - Merge branch git이 자동으로 만든 것임
   - 왼쪽이 작업한 것과 오른쪽이 작업한 커밋을 가지고 만든 커밋임
