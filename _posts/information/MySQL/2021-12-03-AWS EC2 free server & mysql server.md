@@ -2,7 +2,7 @@
 title: "AWS EC2 서버에 MySQL 설치하기"
 
 categories:
-  - Install
+  - MySQL
 tags:
   - AWS
   - EC2
