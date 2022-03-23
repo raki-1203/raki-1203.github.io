@@ -2,7 +2,7 @@
 title: "Day_64 [마스터클래스] 서민준 마스터"
 
 categories:
-  - Boostcamp_AI_Tech/Week_14/Day_64
+  - Boostcamp_AI_Tech/Week_14
 tags:
   - 마스터클래스
 ---
