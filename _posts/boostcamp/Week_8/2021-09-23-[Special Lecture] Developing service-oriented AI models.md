@@ -19,7 +19,7 @@ tags:
 
 - 보통 수업/학교/연구에서는 정해진 데이터셋/평가 방식에서 더 좋은 모델을 찾는 일을 함
 
-    ![]({{site.url}}/assets/images/ba744148.png)
+    ![]({{site.url}}/assets/images/boostcamp/ba744148.png)
 
 - 테스트 데이터셋과 테스트 방법에서 최고로 좋은 성능을 낼 수 있도록 모델 구조를 새롭게 디자인 하는 일을 모델링이라고 부름
 - 그 결과 모델 하나를 확보할 수 있음
@@ -28,35 +28,35 @@ tags:
 
 - 서비스 개발 시에는 학습 데이터셋도 없음
 
-  ![]({{site.url}}/assets/images/6035ff63.png)
+  ![]({{site.url}}/assets/images/boostcamp/6035ff63.png)
 
 - 학습데이터셋이 없는 경우도 많고 테스트 데이터셋이랑 테스트 방법도 없는 경우가 많음
 
 - 서비스 개발 시에는 서비스 요구 사항만이 있음
 
-  ![]({{site.url}}/assets/images/021820d3.png)
+  ![]({{site.url}}/assets/images/boostcamp/021820d3.png)
 
 - 그래서, 첫 번째로 해야 할 일은 **학습 데이터셋**을 준비하는 것임
 
-  ![]({{site.url}}/assets/images/1e9dca36.png)
+  ![]({{site.url}}/assets/images/boostcamp/1e9dca36.png)
 
 - 정확히는 서비스 요구사항으로 부터 학습 데이터셋의 **종류/수량/정답**을 정해야 함
 
-  ![]({{site.url}}/assets/images/21861c70.png)
+  ![]({{site.url}}/assets/images/boostcamp/21861c70.png)
 
 ### 학습 데이터셋 준비 : 종류
 
 - 예시를 들어 보자.
 
-  ![]({{site.url}}/assets/images/bcf324f8.png)
+  ![]({{site.url}}/assets/images/boostcamp/bcf324f8.png)
 
 - 질의 응답을 통해서 서비스를 구체화 시켜야 함
 
-  ![]({{site.url}}/assets/images/986d59a9.png)
+  ![]({{site.url}}/assets/images/boostcamp/986d59a9.png)
 
 - 간단한 수식도 있고 딥러닝의 backpropagation 과정에 나오는 복잡한 수식일수도 있으므로 질문
   
-  ![]({{site.url}}/assets/images/26668e8f.png)
+  ![]({{site.url}}/assets/images/boostcamp/26668e8f.png)
 
 - 질의 응답으로 학습데이터셋의 대한 종류를 뽑아내야 함
 
@@ -64,40 +64,40 @@ tags:
 
 - 질의응답을 통해 데이터셋의 종류/수량/정답 관련 요구사항을 구체화해야 함
 
-  ![]({{site.url}}/assets/images/cac0f078.png)
+  ![]({{site.url}}/assets/images/boostcamp/cac0f078.png)
 
-  ![]({{site.url}}/assets/images/fd66d812.png)
+  ![]({{site.url}}/assets/images/boostcamp/fd66d812.png)
 
-  ![]({{site.url}}/assets/images/18ff49be.png)
+  ![]({{site.url}}/assets/images/boostcamp/18ff49be.png)
 
 ### 학습 데이터셋 준비 : 종류
 
 - 대충 이미지를 찾아보니...
 
-  ![]({{site.url}}/assets/images/b9a05b55.png)
+  ![]({{site.url}}/assets/images/boostcamp/b9a05b55.png)
 
-  ![]({{site.url}}/assets/images/6266e41d.png)
+  ![]({{site.url}}/assets/images/boostcamp/6266e41d.png)
 
 - 더 많은 경우를 찾아보니...
 
-  ![]({{site.url}}/assets/images/0e2eaf1e.png)
+  ![]({{site.url}}/assets/images/boostcamp/0e2eaf1e.png)
 
 - 그림자도 신경써야하고 형관펜도 칠한 경우가 있는데 이런 것도 대응을 해야하는지 혹은 수식을 온전히 다 찍으면 좋겠는데
 이렇게 밑에 부분에 수식이 짤려있는거라던지 이런 것도 인식을 해야하나?
   
-  ![]({{site.url}}/assets/images/4e895ac7.png)
+  ![]({{site.url}}/assets/images/boostcamp/4e895ac7.png)
 
 - 열심히 하다가 화이트로 지워서 그 위에 적은 경우도 대응해야하고
 
-  ![]({{site.url}}/assets/images/a7745615.png)
+  ![]({{site.url}}/assets/images/boostcamp/a7745615.png)
 
 - 종이가 구겨져있거나 휘어져있어도 대응이 되야하는지?
 
-  ![]({{site.url}}/assets/images/d613de5f.png)
+  ![]({{site.url}}/assets/images/boostcamp/d613de5f.png)
 
 - 촬영을 하다보면 회전이 되있을 수도 있음 이런 데이터셋들도 다 대응을 해야하는지?
 
-  ![]({{site.url}}/assets/images/43a4f402.png)
+  ![]({{site.url}}/assets/images/boostcamp/43a4f402.png)
 
 - 보통 기획팀에게 물어보면 모두 다 대응해주세요라는 답변이 오게됨
 
@@ -106,11 +106,11 @@ tags:
 - 결국, '종류'에 대해서도 정의를 해야 함
 - 어디까지 '종류'로 정의해서 각각 몇 장을 수집 할 것인지 정해야 함
 
-  ![]({{site.url}}/assets/images/2c31b51b.png)
+  ![]({{site.url}}/assets/images/boostcamp/2c31b51b.png)
 
 - 꼭 이런 방법으로 모으지 않더라도 됨
 
-  ![]({{site.url}}/assets/images/219d5222.png)
+  ![]({{site.url}}/assets/images/boostcamp/219d5222.png)
 
 - 이런식으로도 구분이 가능
 
@@ -120,19 +120,19 @@ tags:
 
 - 지금까지의 이야기를 종합하면, 다음과 같은 입출력을 갖는 기술 모듈을 개발해 달라는 요청
 
-  ![]({{site.url}}/assets/images/754bd5b3.png)
+  ![]({{site.url}}/assets/images/boostcamp/754bd5b3.png)
 
 - 직접 데이터를 모아보면 미리 생각하지 못한 경우도 많이 발견하게 됨
 
-  ![]({{site.url}}/assets/images/375ca38a.png)
+  ![]({{site.url}}/assets/images/boostcamp/375ca38a.png)
 
 - 이렇게 되면 전체 이미지에서 수식 영역을 검출하는 모듈이 추가 되어야 함
 
-  ![]({{site.url}}/assets/images/b7e70491.png)
+  ![]({{site.url}}/assets/images/boostcamp/b7e70491.png)
 
 - 예시를 보자.
 
-  ![]({{site.url}}/assets/images/cebbd4df.png)
+  ![]({{site.url}}/assets/images/boostcamp/cebbd4df.png)
 
 - 이런 흐름을 보면 자연스러움
 
@@ -141,15 +141,15 @@ tags:
 - 이번에는 학습데이터의 '정답'에 관한 얘기를 해보자.
 - 학습데이터에서 '정답'은 **AI 모델 별**로 입력에 대한 출력 쌍임
 
-  ![]({{site.url}}/assets/images/7739deb2.png)
+  ![]({{site.url}}/assets/images/boostcamp/7739deb2.png)
 
 - **이처럼 AI 모델 하나에 대한 정답은 모델 설계와 맞물려 있음!**
 
-  ![]({{site.url}}/assets/images/076123a3.png)
+  ![]({{site.url}}/assets/images/boostcamp/076123a3.png)
 
 - 그런데 Image To Latex 가 한 모델로 가능할까? 나름 성능이 검증된 4가지 모델 조합은 어떨까?
 
-  ![]({{site.url}}/assets/images/2539831a.png)
+  ![]({{site.url}}/assets/images/boostcamp/2539831a.png)
 
 - **이 경우, 각 모델 (총 4개 모델) 별로 입출력 (정답) 정의가 필요함!**
 
@@ -157,37 +157,37 @@ tags:
 
 - 결국 학습 데이터 준비를 하려면 모델 파이프 라인 설계가 되어 있어야 함
 
-  ![]({{site.url}}/assets/images/55afeb5f.png)
+  ![]({{site.url}}/assets/images/boostcamp/55afeb5f.png)
 
 - 학습데이터셋을 준비할 때에는 모델링쪽에서 모델 설계가 들어와야 함
 
-  ![]({{site.url}}/assets/images/dc38edb4.png)
+  ![]({{site.url}}/assets/images/boostcamp/dc38edb4.png)
 
 - 그런데, 모델 파이프 라인 설계하려면 어느 정도 데이터가 있어야 함
 - 맞나? 틀리나? 를 검증할 수 있어야 함
 
-  ![]({{site.url}}/assets/images/b3bc4137.png)
+  ![]({{site.url}}/assets/images/boostcamp/b3bc4137.png)
 
 - 실제로 일을 할 때는 이 과정이 반복적으로 일어남
 
-  ![]({{site.url}}/assets/images/17cd096c.png)
+  ![]({{site.url}}/assets/images/boostcamp/17cd096c.png)
 
 - 자! 본인이 학습 데이터셋 준비 담당자라고 해보고, 어떤 일을 겪게 되는지 살펴보자.
 
-  ![]({{site.url}}/assets/images/d42dcb48.png)
+  ![]({{site.url}}/assets/images/boostcamp/d42dcb48.png)
 
 - 서비스 기획자와 많은 커뮤니케이션이 있음
 
-  ![]({{site.url}}/assets/images/ca3297f2.png)
+  ![]({{site.url}}/assets/images/boostcamp/ca3297f2.png)
 
 - 모델 설계에 대한 정보를 받아야 함
 
-  ![]({{site.url}}/assets/images/21beca9e.png)
+  ![]({{site.url}}/assets/images/boostcamp/21beca9e.png)
 
 - 요즘은 외주 업체를 많이 씀
 - 요즘 데이터셋 제작 업체들은 작업 툴을 만들 수 있는 능력도 가지고 있음
 
-  ![]({{site.url}}/assets/images/7a91f6f3.png)
+  ![]({{site.url}}/assets/images/boostcamp/7a91f6f3.png)
 
 - 외주업체와 커뮤니케이션을 하면서 제일 중요한게 작업 가이드임
   - 학습데이터셋의 정답을 어떻게 매길것인지에대한 작업 가이드
@@ -197,33 +197,33 @@ tags:
 
 - 다시 한 번 정리해보면...
 
-  ![]({{site.url}}/assets/images/6da01ea4.png)
+  ![]({{site.url}}/assets/images/boostcamp/6da01ea4.png)
 
 ### 테스트 데이터셋 / 테스트 방법 준비
 
 - **테스트 데이터셋은 학습 데이터셋에서 일부 사용한다고 하고,** (사실은 이것도 할 얘기가 많지만..)
 - **서비스 요구사항으로부터 테스트 방법을 도출해야 함**
 
-  ![]({{site.url}}/assets/images/e1575d40.png)
+  ![]({{site.url}}/assets/images/boostcamp/e1575d40.png)
 
-  ![]({{site.url}}/assets/images/c150450b.png)
+  ![]({{site.url}}/assets/images/boostcamp/c150450b.png)
 
 - 어떻게 AI 모델을 평가를 할 것인가? 에 대한 정보를 도출해야 함
 
 - 이것도 이해를 위해서 하나의 예시를 들어 보자!
 - 1 vs 1 대전 게임을 위한 AI 모델을 만든다고 생각해 보자.
 
-  ![]({{site.url}}/assets/images/11e0b228.png)
+  ![]({{site.url}}/assets/images/boostcamp/11e0b228.png)
 
 - 이 때 AI 모델의 입출력은 다음과 같음
 
-  ![]({{site.url}}/assets/images/25b7dfdf.png)
+  ![]({{site.url}}/assets/images/boostcamp/25b7dfdf.png)
 
-  ![]({{site.url}}/assets/images/0aa41906.png)
+  ![]({{site.url}}/assets/images/boostcamp/0aa41906.png)
 
 - 이 AI 를 학습시키기 위해서 프로게이머들의 로그를 받아서 AI를 학습시킴
 
-  ![]({{site.url}}/assets/images/287686ec.png)
+  ![]({{site.url}}/assets/images/boostcamp/287686ec.png)
 
 - 그 결과 모델의 분류 정확도가 무려 99%!!
 - 이 AI 모델을 실제 사용자와 대전을 붙였ㅇ르 경우 결과가 어떻게 되었을까?
@@ -233,7 +233,7 @@ tags:
 - 이 AI 모델은 아무런 스킬도 사용하지 않았음
 - 왜냐하면, 프로게이머의 로그를 살펴보니..
 
-  ![]({{site.url}}/assets/images/23b76dd2.png)
+  ![]({{site.url}}/assets/images/boostcamp/23b76dd2.png)
 
 - 스킬을 사용하는 횟수가 적음
   - 고수일 수록 스킬을 남발하지 않고, 적재적소에서만 사용 $\rightarrow$ 로그 대부분 no_action
@@ -248,7 +248,7 @@ tags:
 
 - 테스트 방법에 대해 다음처럼 정리할 수 있음
 
-  ![]({{site.url}}/assets/images/02853494.png)
+  ![]({{site.url}}/assets/images/boostcamp/02853494.png)
 
 - 개선 포인트를 파악하는일이 굉장히 중요함!!
 
@@ -256,9 +256,9 @@ tags:
 
 - 추가로, 모델에 관련한 요구사항을 도출해야 함
 
-  ![]({{site.url}}/assets/images/5ad728bb.png)
+  ![]({{site.url}}/assets/images/boostcamp/5ad728bb.png)
 
-  ![]({{site.url}}/assets/images/7647690f.png)
+  ![]({{site.url}}/assets/images/boostcamp/7647690f.png)
 
 - 처리 시간 / 목표 정확도
 
@@ -267,7 +267,7 @@ tags:
       - 예) 수식 영역 검출의 경우,
         - OFFLINE TEST : 이미지 입력 후 수식 영역 정보가 출력될 때까지의 시간
         - ONLINE TEST : 이미지 촬영 후 이미지에서 수식 영역 정보가 화면 상에 표현되기까지의 시간
-          ![]({{site.url}}/assets/images/67c61ab1.png)
+          ![]({{site.url}}/assets/images/boostcamp/67c61ab1.png)
 
   - **목표 정확도**
     - 해당 기술 모듈의 정량적인 정확도
@@ -298,7 +298,7 @@ tags:
 
 - AI 모델 개발에는 수업에서 익히는 것 외에 정말 많은 일들이 존재
 
-  ![]({{site.url}}/assets/images/61d4be92.png)
+  ![]({{site.url}}/assets/images/boostcamp/61d4be92.png)
 
 # 서비스 향 AI 모델 개발 기술팀의 조직 구성
 
@@ -308,37 +308,37 @@ tags:
 
 - AI 기술팀에게는 서비스 요구사항이 오고, 이에 맞는 AI 모델을 개발해야 함
 
-  ![]({{site.url}}/assets/images/43bfe23f.png)
+  ![]({{site.url}}/assets/images/boostcamp/43bfe23f.png)
 
 - 당연히, AI 모델을 개발하는 인력이 필요함
 
-  ![]({{site.url}}/assets/images/3e12a879.png)
+  ![]({{site.url}}/assets/images/boostcamp/3e12a879.png)
 
 - 다음으로는, 앞서 설명드린 데이터를 준비하고 품질을 관리하는 인력이 필요함
 
-  ![]({{site.url}}/assets/images/aa235d2d.png)
+  ![]({{site.url}}/assets/images/boostcamp/aa235d2d.png)
 
 - 추가로, 데이터 / 모델과 관련된 업무의 효율성을 위한 툴을 개발하는 인력도 필요함
 
-  ![]({{site.url}}/assets/images/f286789f.png)
+  ![]({{site.url}}/assets/images/boostcamp/f286789f.png)
 
 - 마지막으로 이 전체를 총괄하여 모델의 품질을 관리하는 살마이 필요함
 
-  ![]({{site.url}}/assets/images/437b8f07.png)
+  ![]({{site.url}}/assets/images/boostcamp/437b8f07.png)
 
 ## AI 모델 서빙팀
 
 - 그런데, 기술팀에 AI 모델 Serving 까지 요구되면 필요한 인력은 늘어남
 
-  ![]({{site.url}}/assets/images/c0bdc127.png)
+  ![]({{site.url}}/assets/images/boostcamp/c0bdc127.png)
 
 - 우선 Serving HW 향으로 모델을 최적화하는 인력이 필요함
 
-  ![]({{site.url}}/assets/images/d1f74f87.png)
+  ![]({{site.url}}/assets/images/boostcamp/d1f74f87.png)
 
 - 마지막으로 모델을 실제 서빙하기 위한 추가 작업들이 end device 에 맞춰 더 있음
 
-  ![]({{site.url}}/assets/images/51c9bf6d.png)
+  ![]({{site.url}}/assets/images/boostcamp/51c9bf6d.png)
 
 # 당부의 말씀 몇가지
 
@@ -349,7 +349,7 @@ tags:
 - Model Engineering / Tool / Serving 은 개발력이 많이 필요한 일이고,
 앞으로 점차 니즈가 많아질테니 너무 AI 모델링 쪽으로 한 번에 넘어 가시지 말아라
 
-  ![]({{site.url}}/assets/images/19453b64.png)
+  ![]({{site.url}}/assets/images/boostcamp/19453b64.png)
 
 - FrontEnd 개발자분들은 Tool 만드는 일부터 먼저 해보면 좋음
 - App 개발자는 TensorFlow Lite 를 받아서 app 으로 구동시키는 작업부터 해보는게 좋음
@@ -361,7 +361,7 @@ tags:
 - 한 분야의 모델링에 대한 전문성도 중요하지만, 점점 해당 업무는 자동화되고 (AutoML, 관련 툴)
 관련 인력 수도 늘어나니 주변으로 역량을 확대하라!
 
-  ![]({{site.url}}/assets/images/08b95af1.png)
+  ![]({{site.url}}/assets/images/boostcamp/08b95af1.png)
 
 ## All
 

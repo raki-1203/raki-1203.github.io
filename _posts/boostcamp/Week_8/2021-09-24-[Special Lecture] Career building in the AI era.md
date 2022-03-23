@@ -17,7 +17,7 @@ AI 산업에서 가질 수 있는 다양한 역할을 살펴봅니다.
 
 ### ... where can I pursue it?
 
-![]({{site.url}}/assets/images/29a2e64f.png)
+![]({{site.url}}/assets/images/boostcamp/29a2e64f.png)
 
 ### 학교를 가야하나요? 회사를 가야하나요?
 
@@ -36,7 +36,7 @@ AI 산업에서 가질 수 있는 다양한 역할을 살펴봅니다.
 
 ### AI 를 다루는 회사의 종류
 
-![]({{site.url}}/assets/images/5ac0d56a.png)
+![]({{site.url}}/assets/images/boostcamp/5ac0d56a.png)
 
 - AI 로 기존 비즈니스를 더 잘하려는 회사같은 경우
   - 제품의 불량을 찾아내는 경우에 사람이 직접 했다면 어떻게 하면 사람을 대신해서 자동화시킬 수 있을지 혹은 자동화를 시켰는데
@@ -44,7 +44,7 @@ AI 산업에서 가질 수 있는 다양한 역할을 살펴봅니다.
 
 ### AI 를 다루는 팀의 구성
 
-![]({{site.url}}/assets/images/0af52a52.png)
+![]({{site.url}}/assets/images/boostcamp/0af52a52.png)
 
 ### AI 팀에서 엔지니어가 되면 어떤 일을 할까요?
 
@@ -55,9 +55,9 @@ AI 산업에서 가질 수 있는 다양한 역할을 살펴봅니다.
 **AI/ML** 모델링은 팀 전체 업무의 일부  
 다양한 업무가 있는 만큼 팀 내에는 다양한 역할이 있음
 
-![]({{site.url}}/assets/images/fed966b1.png)
+![]({{site.url}}/assets/images/boostcamp/fed966b1.png)
 
-![]({{site.url}}/assets/images/2958f24d.png)
+![]({{site.url}}/assets/images/boostcamp/2958f24d.png)
 
 ### 현실에서는 정말 다양한 역할이 있고 100% 하나의 포지션의 역할을 수행하는 경우는 드묾
 
@@ -65,51 +65,51 @@ AI 산업에서 가질 수 있는 다양한 역할을 살펴봅니다.
 
 **일반적으로 공지되는 포지션들이 있지만...**
 
-![]({{site.url}}/assets/images/a5df260d.png)
+![]({{site.url}}/assets/images/boostcamp/a5df260d.png)
 
 **...현실에서 각 포지션은 세분화가 되어 있고, 사이사이를 메꾸는 일들이 굉장히 많음**
 
-![]({{site.url}}/assets/images/58ff82eb.png)
+![]({{site.url}}/assets/images/boostcamp/58ff82eb.png)
 
 프로덕션을 위한 모델을 학습하고 개선하는 사람
 
-![]({{site.url}}/assets/images/0863a8d9.png)
+![]({{site.url}}/assets/images/boostcamp/0863a8d9.png)
 
 프로덕션을 위한 모델을 학습하고 평가 방법도 개선하면서 논문도 쓰는 사람
 
-![]({{site.url}}/assets/images/58d3c24b.png)
+![]({{site.url}}/assets/images/boostcamp/58d3c24b.png)
 
 AI 를 잘 하는 사람. 최신 논문 다 꿰고 있고 뭐뭐한 아이디어 논문 뭐더라 하면 "AAAI 2013년 논문이야" 라고 말해줄 수 있는 사람
 
-![]({{site.url}}/assets/images/987087dc.png)
+![]({{site.url}}/assets/images/boostcamp/987087dc.png)
 
 ---
 ### Example
 
 - A living livrary (MIRI, 2017)
   
-  ![]({{site.url}}/assets/images/edb0acc3.png)
+  ![]({{site.url}}/assets/images/boostcamp/edb0acc3.png)
 ---
 프로덕션 레벨 코드를 작성하지는 못하지만 경쟁사에서 논문이 출판되거나 제품이 출시되면 그 다음날까지 quick-and-dirty 로
 재현/벤치마크 결과물을 가져오는 사람
 
-![]({{site.url}}/assets/images/cc3a237e.png)
+![]({{site.url}}/assets/images/boostcamp/cc3a237e.png)
 
 Data/model 의 배관공. Scalable 하고 reproducible 한 학습/배포 시스템에 대해 고민하는 사람
 
-![]({{site.url}}/assets/images/5922c30d.png)
+![]({{site.url}}/assets/images/boostcamp/5922c30d.png)
 
 얕지만 이 모든것에 대해 어느 정도는 아는 사람. AI 모델링도 하지만 웹개발도 하고 비즈니스도 앎
 
-![]({{site.url}}/assets/images/975ab413.png)
+![]({{site.url}}/assets/images/boostcamp/975ab413.png)
 
 모델 경량화, 최적화를 위해 low level 의 프로그래밍을 잘 하는 사람
 
-![]({{site.url}}/assets/images/5941e406.png)
+![]({{site.url}}/assets/images/boostcamp/5941e406.png)
 
 회사들은, 보통 비어있거나 보강하고 싶은 곳이 생기면 공고를 내거나 추천을 받아 사람을 뽑는다
 
-![]({{site.url}}/assets/images/7cf30006.png)
+![]({{site.url}}/assets/images/boostcamp/7cf30006.png)
 
 ### Trends in AI engineering positions
 
@@ -121,7 +121,7 @@ Data/model 의 배관공. Scalable 하고 reproducible 한 학습/배포 시스�
   - AI + Research
   - ...
 
-  ![]({{site.url}}/assets/images/f42a1ac3.png)
+  ![]({{site.url}}/assets/images/boostcamp/f42a1ac3.png)
 
 ## 2. How to start my AI engineering career
 
@@ -209,7 +209,7 @@ Master of Science in Data Science.
 
 - **Grit**: 어려운 문제를 많이 풀어야하기 때문에 끈기 있는 자세를 가지는 것이 가장 중요
 
-  ![]({{site.url}}/assets/images/2c7ad3a2.png)
+  ![]({{site.url}}/assets/images/boostcamp/2c7ad3a2.png)
 
 - **Humility**: 스스로의 능력에 만족하지 않고 끊임없이 공부를 해야함
 - **Passion**: 엄청나게 빠른 속도로 발전하는 기술을 즐길 수 있는 열정이 있었야 함

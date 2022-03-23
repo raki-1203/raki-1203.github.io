@@ -22,7 +22,7 @@ tags:
 
 - 학계에서도 점점 저작권과 라이센스에 대해 주목하고 있음
 
-  ![]({{site.url}}/assets/images/df2214d5.png)
+  ![]({{site.url}}/assets/images/boostcamp/df2214d5.png)
 
 - 아직 저작권법은 AI 모델 개발을 고려하지 않은 부분이 많음
   - 저작권법 제1조 (목적)
@@ -83,7 +83,7 @@ A. 이제부터 알아봅시다
 - 저작권자를 아는 경우, 그 사람과 교섭해서 이용 방식에 대해 협의
 - 크게 저작물 이용의 허락을 받는 것, 저작재산권을 양수받는 것 등의 방법이 있음
 
-  ![]({{site.url}}/assets/images/545b780b.png)
+  ![]({{site.url}}/assets/images/boostcamp/545b780b.png)
 
 **저작재산권 독점적/비독점적 이용허락**
 
@@ -121,7 +121,7 @@ A. 있습니다. "라이센스"가 그 역할을 하죠
 - CC-BY-NC-NC
 - CC-BY-NC-SA
 
-  ![]({{site.url}}/assets/images/570417f8.png)
+  ![]({{site.url}}/assets/images/boostcamp/570417f8.png)
 
 **BY: Attribution**
 - 저작자 표시
@@ -146,12 +146,12 @@ A. 있습니다. "라이센스"가 그 역할을 하죠
   - NC: 비영리
   - SA: 동일조건 변경허락
 
-    ![]({{site.url}}/assets/images/295843a5.png)
+    ![]({{site.url}}/assets/images/boostcamp/295843a5.png)
 
 - 예시
   - 나무위키
 
-    ![]({{site.url}}/assets/images/d3b2983a.png)
+    ![]({{site.url}}/assets/images/boostcamp/d3b2983a.png)
 
 ### Q. 나무위키 데이터를 크롤링해서 MRC 데이터셋 제작을 한 이후에 제 깃헙을 통해 배포하는 것이 가능한가요?
 
@@ -163,12 +163,12 @@ A. 학교 소속이라면 비영리목적으로 간주되므로 가능합니다.
   - BY: 저작자 표시
   - ND: 변경 금지
 
-    ![]({{site.url}}/assets/images/04967d7a.png)
+    ![]({{site.url}}/assets/images/boostcamp/04967d7a.png)
 
 - 예시
   - KorQuAD
 
-    ![]({{site.url}}/assets/images/e365199b.png)
+    ![]({{site.url}}/assets/images/boostcamp/e365199b.png)
 
 ### Q. KorQuAD 의 질문만 바꿔서 새롭게 MRC 데이터셋을 제작한 이후에 제 깃헙에 배포해도 될까요?
 
@@ -180,11 +180,11 @@ A. 변경금지 조건이 걸려있기 때문에 KorQuAD 의 지문, 질문, 정
 
 **뉴스 기사의 저작권은 언론사에 있음**
 
-![]({{site.url}}/assets/images/226d69de.png)
+![]({{site.url}}/assets/images/boostcamp/226d69de.png)
 
 - 한국언론진흥재단에서 대부분 언론사의 저작권을 위탁해서 관리
 
-  ![]({{site.url}}/assets/images/1237fdb8.png)
+  ![]({{site.url}}/assets/images/boostcamp/1237fdb8.png)
 
 **따라서 뉴스 기사를 합법적으로 사용하기 위해서는,**
 
@@ -192,23 +192,23 @@ A. 변경금지 조건이 걸려있기 때문에 KorQuAD 의 지문, 질문, 정
 - 아니라면 직접 언론사에 컨텐츠 사용 범위와 계약 조건에 대해 문의
 - 혹은 아--주 드물게 CCL 이 적용된 언론사의 뉴스 기사를 사용
 
-  ![]({{site.url}}/assets/images/0f807e05.png)
+  ![]({{site.url}}/assets/images/boostcamp/0f807e05.png)
 
 **한국데이터거래소에서 0원에 구매한 데이터는 내 마음대로 이용할 수 있을까?**
 
-  ![]({{site.url}}/assets/images/74894b45.png)
+  ![]({{site.url}}/assets/images/boostcamp/74894b45.png)
 
 - 데이터 판매회원이 정한 이용약관에 따라 다름
 - KDX 의 경우 기본적으로 아래의 가., 나., 다. 조항의 공통 이용범위 내에서만 사용 가능
 - 판매회원이 추가 조건을 더 걸었다면 공통 이용범위 외의 다른 이용도 불가능할 수 있음
 
-  ![]({{site.url}}/assets/images/0224b80b.png)
+  ![]({{site.url}}/assets/images/boostcamp/0224b80b.png)
 
 **뉴스 기사의 제목**
 
 - 저작물로서의 가치를 인정받지 못해 저작권법의 보호를 받지 못함
 
-  ![]({{site.url}}/assets/images/e3887c4b.png)
+  ![]({{site.url}}/assets/images/boostcamp/e3887c4b.png)
 
 ### 공정 이용 (Fair-use)
 

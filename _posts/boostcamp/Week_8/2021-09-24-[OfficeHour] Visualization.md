@@ -15,7 +15,7 @@ tags:
 
 #### 1.1 시각화의 방향
 
-![]({{site.url}}/assets/images/c703fd01.png)
+![]({{site.url}}/assets/images/boostcamp/c703fd01.png)
 
 **연구와 활용 측면에서의 시각화의 구체적인 사례**
 
@@ -32,11 +32,11 @@ tags:
 
 Q. 다음 그림에서 발생한 시각화의 오류는?
 
-![]({{site.url}}/assets/images/c31b4163.png)
+![]({{site.url}}/assets/images/boostcamp/c31b4163.png)
 
 A. 잉크비례의 법칙을 지키지 않음
 
-![]({{site.url}}/assets/images/c9accc2a.png)
+![]({{site.url}}/assets/images/boostcamp/c9accc2a.png)
 
 Principle of Proportion Ink 잉크 비례의 법칙
 
@@ -44,14 +44,14 @@ Principle of Proportion Ink 잉크 비례의 법칙
 
 Q. 다음 그림에서 발생한 시각화의 오류는?
 
-![]({{site.url}}/assets/images/975863bb.png)
+![]({{site.url}}/assets/images/boostcamp/975863bb.png)
 
 A. 
 1. 나라별 차트의 Y 축 간격이 단위에 비례하지 않음
 2. Y 축이 시작할 때 0에서 시작하지 않음
 3. 한국의 실업률이 3.7% 위쪽에 작성되어 있는데 미국의 실업률 4.0이 더 낮은 곳에 그려짐
 
-![]({{site.url}}/assets/images/5a905edc.png)
+![]({{site.url}}/assets/images/boostcamp/5a905edc.png)
 
 **시각화를 할 때 지켜야 할 원칙**
 
@@ -66,11 +66,11 @@ A.
 
 **With Python, R, and d3.js**
 
-![]({{site.url}}/assets/images/4384360b.png)
+![]({{site.url}}/assets/images/boostcamp/4384360b.png)
 
 **With Tableau and Power BI**
 
-![]({{site.url}}/assets/images/c10132f5.png)
+![]({{site.url}}/assets/images/boostcamp/c10132f5.png)
 
 장점은 편의성 단점은 한계성을 가지고 있음
 
@@ -82,7 +82,7 @@ A.
 
 **시각화 대시보드 프로젝트의 과정**
 
-![]({{site.url}}/assets/images/7ae5b2ce.png)
+![]({{site.url}}/assets/images/boostcamp/7ae5b2ce.png)
 
 1. DISCOVERY SESSION
 - 시각화 대상자?
@@ -101,7 +101,7 @@ A.
 
 과정의 필요성: 데이터 관계 확인, 업무의 오류 방지
 
-![]({{site.url}}/assets/images/9480a252.png)
+![]({{site.url}}/assets/images/boostcamp/9480a252.png)
 
 3. WIREFRAME / RESEARCH
 
@@ -111,7 +111,7 @@ A.
 
 과정의 필요성: 비즈니스 상황에 맞게 요구조건을 확인하고 스토리라인 생성, 사용자 편의를 고려한 디자인
 
-![]({{site.url}}/assets/images/003488b5.png)
+![]({{site.url}}/assets/images/boostcamp/003488b5.png)
 
 4. DASHBOARD BUILD
 
@@ -121,7 +121,7 @@ A.
 
 대시보드 초안을 최종사용자에게 승인 받고 최종본 완성
 
-![]({{site.url}}/assets/images/edff6263.png)
+![]({{site.url}}/assets/images/boostcamp/edff6263.png)
 
 5. QA TESTING
 
@@ -130,7 +130,7 @@ A.
 - 대시보드에 출력된 데이터가 raw 데이터에서의 출력된 결과와 맞는지
 - 없어도 되는 조건을 걸어서 데이터를 필터링 할 수 있어서 정확한 데이터를 출력하는지 확인
 
-![]({{site.url}}/assets/images/df206424.png)
+![]({{site.url}}/assets/images/boostcamp/df206424.png)
 
 6. DELEVERY & RUN THROUGH
 
@@ -160,11 +160,11 @@ A.
 - The Data Visualisation Catalogue
 - ... 그리고 구글링!
 
-![]({{site.url}}/assets/images/1ff1afd9.png)
+![]({{site.url}}/assets/images/boostcamp/1ff1afd9.png)
 
 #### 2.3 프로젝트 사례
 
-![]({{site.url}}/assets/images/1ba5fe2f.png)
+![]({{site.url}}/assets/images/boostcamp/1ba5fe2f.png)
 
 ## 대시보드 프로젝트에서는 언제나 최종 사용자를 생각해야 한다.
 
@@ -303,7 +303,7 @@ Power BI 의 고급 기능을 최대한 활용하려면 **DAX
 
 **우리는 지금까지 Data Visualization 을 위주로 학습을 진행**
 
-![]({{site.url}}/assets/images/f3023ef2.png)
+![]({{site.url}}/assets/images/boostcamp/f3023ef2.png)
 
 **Data Visualization**
 
@@ -311,7 +311,7 @@ Communicatate data or information by encoding it as visual **objects**
 
 텍스트로부터 발견할 수 없는 **Trend, Pattern** 등을 발견
 
-![]({{site.url}}/assets/images/a611dfae.png)
+![]({{site.url}}/assets/images/boostcamp/a611dfae.png)
 
 **Visualization + Research?**
 
@@ -320,8 +320,8 @@ IEEE VIS
 - SciVis
 - Visual Analytics
 
-![]({{site.url}}/assets/images/3c4408c3.png)
-![]({{site.url}}/assets/images/de1c1564.png)
+![]({{site.url}}/assets/images/boostcamp/3c4408c3.png)
+![]({{site.url}}/assets/images/boostcamp/de1c1564.png)
 
 올해부터 하나로 합쳐짐
 
@@ -329,14 +329,14 @@ IEEE VIS
 
 **Abstract** Data to Reinforce human cognition
 
-![]({{site.url}}/assets/images/4b25172b.png)
+![]({{site.url}}/assets/images/boostcamp/4b25172b.png)
 
 **Scientific Visualization(SciVis)**
 
 - **Spatial** Data
 - Concerned on graphically illustrate scientific data
 
-![]({{site.url}}/assets/images/244a3782.png)
+![]({{site.url}}/assets/images/boostcamp/244a3782.png)
 
 태풍의 이동 반경 시각화 등
 
@@ -347,7 +347,7 @@ The science of analycial reasoning supported by the **interactive** visual inter
 데이터마이닝, 기계학습론 등 다양한 기술 사용  
 $\rightarrow$ Human-centered Data Exploration 구현!
 
-![]({{site.url}}/assets/images/b62cc116.png)
+![]({{site.url}}/assets/images/boostcamp/b62cc116.png)
 
 데이터를 csv 나 table 로 받게 되면 눈이 아픔 한눈에 파악하기 힘듦  
 그런것들을 쉽게 하나로 표현
@@ -361,24 +361,24 @@ Interactive Data Viz는 빙산의 일각
 
 **Scope of Visualization Analytics**
 
-![]({{site.url}}/assets/images/33ae72dd.png)
+![]({{site.url}}/assets/images/boostcamp/33ae72dd.png)
 
 여러분야를 아우르는 굉장히 융합적인 분야
 
 **Visualization in 1990s**
 
-![]({{site.url}}/assets/images/66b62e57.png)
+![]({{site.url}}/assets/images/boostcamp/66b62e57.png)
 
 **Visualization in 2000s**
 
-![]({{site.url}}/assets/images/f7416a1e.png)
+![]({{site.url}}/assets/images/boostcamp/f7416a1e.png)
 
 - Data Mining 이 추가됨
 - Interaction 이 늘어남
 
 **Visualization in 2010s**
 
-![]({{site.url}}/assets/images/352d9a88.png)
+![]({{site.url}}/assets/images/boostcamp/352d9a88.png)
 
 - 딥러닝이 나오니까 Visualization 을 딥러닝 분야에 활용해보자라는 Agenda 가 나옴
   - 블랙박스 적인 부분을 시각적으로 활용할 수 있지 않을까하는 생각
@@ -394,7 +394,7 @@ IEEE VIS VAST 2020 에 소개된 Visual Analytics 를 활용한 예시를 살펴
 
 #### 2.0 VATLD?
 
-![]({{site.url}}/assets/images/82553617.png)
+![]({{site.url}}/assets/images/boostcamp/82553617.png)
 
 대시보드를 활용해서 Traffic Light Detection 문제를 어떻게 이해하고 성능을 Improve 시킬지에 대한 논문
 

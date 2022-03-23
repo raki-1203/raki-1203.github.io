@@ -19,7 +19,7 @@ tags:
 
 ## 트레이딩은 뭐하는 일인가?
     
-![]({{site.url}}/assets/images/d28bd4ef.png)
+![]({{site.url}}/assets/images/boostcamp/d28bd4ef.png)
 
 - 투자(investment) 와 트레이딩(trading): 트레이딩은 상대적으로 단기간
   - 트레이딩은 단기적인 가격 변화에서 이득을 봄
@@ -27,7 +27,7 @@ tags:
 
 ## 퀀트 트레이딩이 뭐하는 일인가?
 
-![]({{site.url}}/assets/images/52623296.png)
+![]({{site.url}}/assets/images/boostcamp/52623296.png)
 
 - Quantitative (계량적) 트레이딩
 - 모델 기반 (가격이 특정 수학적 성질을 가진다고 가정) 혹은 데이터 기반 (시장의 과거 데이터에서 분포를 추정) 접근
@@ -62,7 +62,7 @@ tags:
 - "눈치"를 잘 보면서 가격이 한 쪽으로 크게 움직일 것 같으면 어서 주문을 취소
 - 50% 속도, 50% 알파 경쟁
 
-  ![]({{site.url}}/assets/images/f31375ad.png)
+  ![]({{site.url}}/assets/images/boostcamp/f31375ad.png)
 
 ## 퀀트 트레이딩의 예 3: statistical arbitrage
 
@@ -88,11 +88,11 @@ tags:
 
 ## 판타지 세계의 Stat Arb 전략
 
-![]({{site.url}}/assets/images/543e615d.png)
+![]({{site.url}}/assets/images/boostcamp/543e615d.png)
 
 ## 현실 세계의 (아마도) 흔한 Stat Arb 전략
 
-![]({{site.url}}/assets/images/6e4efb97.png)
+![]({{site.url}}/assets/images/boostcamp/6e4efb97.png)
 
 ## 떠오르는 질문들
 
@@ -123,12 +123,12 @@ tags:
 
 #### 성공 기준이 우리의 직관과 다름
 
-![]({{site.url}}/assets/images/b54719e9.png)
+![]({{site.url}}/assets/images/boostcamp/b54719e9.png)
 
 - 5분 후 가격 변화를 예측하는 6개의 forecast 가 있음.
 - 어느 정도가 되면 돈을 벌 수 있고, 어느 정도가 현실적으로 가능할까?
 
-![]({{site.url}}/assets/images/0c3c648b.png)
+![]({{site.url}}/assets/images/boostcamp/0c3c648b.png)
 
 - 모든 forecast 가 돈을 벌 수 있음
 - 실현 가능성있고 현실성 있는 것은 위에 3개임
@@ -186,7 +186,7 @@ tags:
 
 ## 그럼 무슨 리서치를 하나요?
 
-![]({{site.url}}/assets/images/3896662d.png)
+![]({{site.url}}/assets/images/boostcamp/3896662d.png)
 
 - 오렌지: 새로운 정보
 - 쥬서기: 새로운 정보에서 어떻게 요점만 뽑아낼 것인가?

@@ -20,11 +20,11 @@ tags:
 - 194개국 600만명 이상의 회원 보유
 - 캐글을 즐겨하는 사람을 **Kaggler** 라 함
 
-    ![]({{site.url}}/assets/images/afbd5a4d.png)
+    ![]({{site.url}}/assets/images/boostcamp/afbd5a4d.png)
 
 ### 국내 유명 경진대회 플랫폼
 
-![]({{site.url}}/assets/images/c2b341f4.png)
+![]({{site.url}}/assets/images/boostcamp/c2b341f4.png)
 
 ### 캐글을 왜 해야 할까요?
 
@@ -45,7 +45,7 @@ tags:
   - 경진대회에서 메달을 따게 되면 개수에 따라서 티어가 결정됨
   - 총 4개 종목 중 가장 인기있고 어려운 티어인 **컴피티션 그랜드 마스터** 획득!
 
-  ![]({{site.url}}/assets/images/aa9a1d54.png)
+  ![]({{site.url}}/assets/images/boostcamp/aa9a1d54.png)
 
 - 상위 랭커가 되려면?
   - 혼자 경진대회에서 높은 등수를 획득
@@ -64,11 +64,11 @@ tags:
 
 1) 회원 가입
    
-    ![]({{site.url}}/assets/images/ee1df753.png)
+    ![]({{site.url}}/assets/images/boostcamp/ee1df753.png)
 
 2) 참여할 대회 선택
 
-    ![]({{site.url}}/assets/images/caf56043.png)
+    ![]({{site.url}}/assets/images/boostcamp/caf56043.png)
 
 ---
 ### 참고 - 대회 개최 목적
@@ -97,46 +97,46 @@ tags:
 
 2) 참여할 대회 선택 - 진행중 대회
 
-    ![]({{site.url}}/assets/images/04648508.png)
+    ![]({{site.url}}/assets/images/boostcamp/04648508.png)
 
-    ![]({{site.url}}/assets/images/b9d386df.png)
+    ![]({{site.url}}/assets/images/boostcamp/b9d386df.png)
 
-    ![]({{site.url}}/assets/images/f95137c8.png)
+    ![]({{site.url}}/assets/images/boostcamp/f95137c8.png)
 
-    ![]({{site.url}}/assets/images/b6588e28.png)
+    ![]({{site.url}}/assets/images/boostcamp/b6588e28.png)
 
 3) 대회 데이터 다운로드
 
-    ![]({{site.url}}/assets/images/8506e301.png)
+    ![]({{site.url}}/assets/images/boostcamp/8506e301.png)
 
-    ![]({{site.url}}/assets/images/b26ec096.png)
+    ![]({{site.url}}/assets/images/boostcamp/b26ec096.png)
 
 4) 대회를 위한 파이프라인 구축
 
-    ![]({{site.url}}/assets/images/fb064179.png)
+    ![]({{site.url}}/assets/images/boostcamp/fb064179.png)
 
 5) 캐글로 파이프라인을 빠르게 경험해보기
 
-    ![]({{site.url}}/assets/images/6b9094d0.png)
+    ![]({{site.url}}/assets/images/boostcamp/6b9094d0.png)
 
-    ![]({{site.url}}/assets/images/531cc27c.png)
+    ![]({{site.url}}/assets/images/boostcamp/531cc27c.png)
 
 5) 캐글로 파이프라인을 빠르게 경험해보기 - 제출 준비
 
-    ![]({{site.url}}/assets/images/28bb25bf.png)
+    ![]({{site.url}}/assets/images/boostcamp/28bb25bf.png)
 
-    ![]({{site.url}}/assets/images/9a584485.png)
+    ![]({{site.url}}/assets/images/boostcamp/9a584485.png)
 
 - Save Version 을 클릭하고 좀 지나면 0 -> 1 로 바뀌는데 1 을 클릭하면
  
-  ![]({{site.url}}/assets/images/1340dc93.png)
+  ![]({{site.url}}/assets/images/boostcamp/1340dc93.png)
 
 5) 캐글로 파이프라인을 빠르게 경험해보기 - 리더보드 제출
 
 - 이 페이지로 오게 됨
 - 내 계정으로 완전히 복사하게 됨
 
-    ![]({{site.url}}/assets/images/98e36a87.png)
+    ![]({{site.url}}/assets/images/boostcamp/98e36a87.png)
 
 - Submit 버튼을 클릭하면 리더보드 제출까지 가능
 
@@ -157,7 +157,7 @@ tags:
        - SSD : 1TB 이상
        - GPU : RTX2080Ti x 2대 (블로워 타입 중고로 구입)
      
-         ![]({{site.url}}/assets/images/a23ae47c.png)
+         ![]({{site.url}}/assets/images/boostcamp/a23ae47c.png)
      
      - 추천 장비 2 (300~400만원)
        - CPU : AMD 라이젠 3세대 3700 이상(8코어)
@@ -170,7 +170,7 @@ tags:
        - SSD : 1TB 이상
        - GPU : RTX 3090 2대 (or RTX 3080 2대 or RTX 2080Ti 4대)
      
-         ![]({{site.url}}/assets/images/37f7998d.png)
+         ![]({{site.url}}/assets/images/boostcamp/37f7998d.png)
      
    - 시간 투자
      - 수천팀이 참여하여 2 ~ 3 달 동안 많은 시간을 투자
@@ -179,7 +179,7 @@ tags:
      - 평일 하루 평균 4시간 이상 투자
      - 주말 하루 평균 8시간 이상 투자
        
-       ![]({{site.url}}/assets/images/1282cc00.png)
+       ![]({{site.url}}/assets/images/boostcamp/1282cc00.png)
    
    - 본인만의 기본 코드
      - 어떤 데이터를 다루는 대회든 기본 코드에서 일부만 수정하면 됨
@@ -188,20 +188,20 @@ tags:
      - 참고: https://github.com/lime-robot/categories-prediction
      - 이 코드를 바탕으로 최근 3개월 동안 3개의 금메달 획득!
        
-       ![]({{site.url}}/assets/images/6b9c3246.png)
+       ![]({{site.url}}/assets/images/boostcamp/6b9c3246.png)
      
 2) 점수 개선 아이디어
    - 캐글 Notebooks
      - 다양한 아이디어나 얻을 수 있음. Best Score, Most Votes 정렬 기능 사용 추천
      - 예: 어떤 딥러닝 아키텍처를 사용하면 좋을지, 이미지 오그멘테이션은 무엇이 좋을지 등
        
-       ![]({{site.url}}/assets/images/db705bfe.png)
+       ![]({{site.url}}/assets/images/boostcamp/db705bfe.png)
    
    - Discussion 탭 참고
      - 다양한 아이디어나 얻을 수 있음. Most Votes, Hotness 정렬 기능 사용 추천
      - 비슷하거나 동일한 이전 대회, 참고할 논문, 현재 대회 Overview 등등
        
-       ![]({{site.url}}/assets/images/868e4efb.png)
+       ![]({{site.url}}/assets/images/boostcamp/868e4efb.png)
      
    - 다른 경쟁자들의 글을 참고하며, 대회 마지막 제출 때까지 점수 개선 아이디어 고민
      - 추신: 마지막까지 방심하시면 안 됨
@@ -211,13 +211,13 @@ tags:
      - 최종 순위 하락을 피하기 위해: Public LB 1등 $\rightarrow$ Private LB 70
      - 리더보드 제출 횟수 제한이 있음: 보통 하루에 5회 제공
        
-       ![]({{site.url}}/assets/images/d4495022.png)
+       ![]({{site.url}}/assets/images/boostcamp/d4495022.png)
      
      - Public LB 에 Overfitting 되는 경우가 있어서 필요함
    - 좋은 모델 (일반화; Generalization 성능이 높은 모델)
      - Training set 에서 얻은 점수가 Test set 에서도 비슷하게 나오는 모델
      
-       ![]({{site.url}}/assets/images/c28ef75e.png)
+       ![]({{site.url}}/assets/images/boostcamp/c28ef75e.png)
 
    - 검증 전략 (Validation Strategy) 이란?
      - Test set 에서 얻은 점수와 Training set 에서 얻어진 점수 갭 0.03 을 줄이는 평가 방법
@@ -225,23 +225,23 @@ tags:
    - 검증 전략 구축하기
      - 캐글 데이터 구성
      
-       ![]({{site.url}}/assets/images/ef8eb549.png)
+       ![]({{site.url}}/assets/images/boostcamp/ef8eb549.png)
 
      - Training set 나누기 및 평가
 
-       ![]({{site.url}}/assets/images/78ac3050.png)
+       ![]({{site.url}}/assets/images/boostcamp/78ac3050.png)
 
      - Training set 나누기 및 평가 (이상적)
 
-       ![]({{site.url}}/assets/images/77f5cb58.png)
+       ![]({{site.url}}/assets/images/boostcamp/77f5cb58.png)
 
    - 점수 갭을 줄이기 위한 k-fold 검증 전략 구축하기
      
-     ![]({{site.url}}/assets/images/6bf2cfcb.png)
+     ![]({{site.url}}/assets/images/boostcamp/6bf2cfcb.png)
 
      - 참고 - Stratified k-fold
      
-       ![]({{site.url}}/assets/images/035503de.png)
+       ![]({{site.url}}/assets/images/boostcamp/035503de.png)
 
    - 아무리 검증 전략을 잘 세워도 오버 피팅의 위험은 존재
      - local CV 와 Public LB 가 함께 올라가는 방법을 선택
@@ -257,7 +257,7 @@ tags:
        - 이미지 데이터 : resnet, efficientnet, resnext 등
        - 텍스트 데이터 : LSTM, BERT, GPT2, RoBert
      
-     ![]({{site.url}}/assets/images/8b3a90d0.png)
+     ![]({{site.url}}/assets/images/boostcamp/8b3a90d0.png)
 
    - 대회에서 좋은 성적을 내려면 높은 점수의 싱글 모델이 필요
      - 앙상블해도 싱글 모델의 점수에서 약간 개선이 있을 뿐임
@@ -265,7 +265,7 @@ tags:
    - 근데 싱글 모델 점수를 몇 점까지 / 언제까지 개선해야 할까?
      - 상위 랭커들이 discussion 에 언급한 자신의 싱글모델 점수 참고
        
-       ![]({{site.url}}/assets/images/4455a414.png)
+       ![]({{site.url}}/assets/images/boostcamp/4455a414.png)
      
      - 대회 종료가 1 ~ 2주 정도 남았을 때 싱글 모델 점수로만 50등 내에 들면 좋음 
 
@@ -284,7 +284,7 @@ tags:
 
    - 주피터에서 터미널을 열 수 있음
 
-     ![]({{site.url}}/assets/images/8841d54a.png)
+     ![]({{site.url}}/assets/images/boostcamp/8841d54a.png)
 
    - 이 터미널은 크롬 창을 닫아도 살아있으므로 원격 학습 가능!
   

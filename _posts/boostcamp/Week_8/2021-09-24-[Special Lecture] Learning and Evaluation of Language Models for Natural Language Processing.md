@@ -15,7 +15,7 @@ tags:
 
 주어진 문맥을 활욯해 다음에 나타날 단어 예측하기
 
-![]({{site.url}}/assets/images/d6509485.png)
+![]({{site.url}}/assets/images/boostcamp/d6509485.png)
 
 $$P(w_1w_2...w_n) = \prod_{i} P(w_i|w_1w_2...w_{i-1})$$
 
@@ -26,20 +26,20 @@ $$P(w_1w_2...w_n) = \prod_{i} P(w_i|w_1w_2...w_{i-1})$$
 
 간단한 모델인 RNN 모델을 통해서 예시를 들면
 
-![]({{site.url}}/assets/images/db4765bc.png)
-![]({{site.url}}/assets/images/7fb4b8cf.png)
-![]({{site.url}}/assets/images/0346fbeb.png)
+![]({{site.url}}/assets/images/boostcamp/db4765bc.png)
+![]({{site.url}}/assets/images/boostcamp/7fb4b8cf.png)
+![]({{site.url}}/assets/images/boostcamp/0346fbeb.png)
 
 **양방향 언어 모델링(Bidirectional Language Modeling)**
 
 Deep contextualized word representations (NAACL 2018)
 
-![]({{site.url}}/assets/images/bec94fd4.png)
+![]({{site.url}}/assets/images/boostcamp/bec94fd4.png)
 
 ELMO 의 기본적인 아이디어는 언어모델에서 Text 에 해당하는 언어 Embedding 을 뽑아서 그 Embedding 을 재료로 사용해서
 특정한 Task 를 수행을 했을 때 다양한 Task 에서 모두 효과적임을 보여준 Paper
 
-![]({{site.url}}/assets/images/a857ed01.png)
+![]({{site.url}}/assets/images/boostcamp/a857ed01.png)
 
 - SQuAD(질의응답)
 - SNLI(두개의 문장의 모순이 있는지 없는지)
@@ -53,21 +53,21 @@ ELMO 부터는 언어모델의 힘을 빌리면 이 모든 Task 들을 한번에
 
 BERT: Bidirectional Encoder Representations from Transformers (NAACL 2019)
 
-![]({{site.url}}/assets/images/16019780.png)
+![]({{site.url}}/assets/images/boostcamp/16019780.png)
 
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
-![]({{site.url}}/assets/images/854d2439.png)
+![]({{site.url}}/assets/images/boostcamp/854d2439.png)
 
 거대한 corpus 에서 Language Modeling Task 로 사전학습된 BERT 라는 구조를 활용해서 그 모든 Task 를 다 잘 할 수 있다가
 결과고 대량의 Text 에서 BERT 라는 Transforemr Encoder 구조를 사전학습을 열심히 수행한다음에 각각의 Task 에 대해서
 이 모델을 fine-tuning 만 하면 이 모든 Task 를 전부다 잘한다라는 것을 보여줌
 
-![]({{site.url}}/assets/images/c6926cdc.png)
+![]({{site.url}}/assets/images/boostcamp/c6926cdc.png)
 
 BERT 이후로 자연어 이해 Task 는 이렇게 진행해야한다 라는게 일반적인 상식처럼 굳어짐
 
-![]({{site.url}}/assets/images/405549f8.png)
+![]({{site.url}}/assets/images/boostcamp/405549f8.png)
 
 생각해보면 언어모델이 보여주고자 하는것은 사전학습된 언어모델이 살짝 튜닝만 하면 자연어이해 자체를 잘 한다
 사람이 하는 말을 기계가 잘 이해할 수 있게 만들 수 있다라는 일반적인 주장을 하려고 하다보니 그러면 기존에 여러분야에서
@@ -101,12 +101,12 @@ BERT 이후로 자연어 이해 Task 는 이렇게 진행해야한다 라는게 
 
 성능이 BERT 보다 뛰어난 자연어 이해 모델 등장의 계기가 됨
 
-![]({{site.url}}/assets/images/6b411e4e.png)
+![]({{site.url}}/assets/images/boostcamp/6b411e4e.png)
 
 자연어 생성 모델의 평가에 활용됨
 
-![]({{site.url}}/assets/images/47207c70.png)
-![]({{site.url}}/assets/images/ecb1dfe3.png)
+![]({{site.url}}/assets/images/boostcamp/47207c70.png)
+![]({{site.url}}/assets/images/boostcamp/ecb1dfe3.png)
 
 **다국어 벤치마크의 등장**
 
