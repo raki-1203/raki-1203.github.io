@@ -2,7 +2,7 @@
 title: "Day_47 [마스터클래스] 안수빈 마스터"
 
 categories:
-  - Boostcamp_AI_Tech/Week_11/Day_47
+  - Boostcamp_AI_Tech/Week_11
 tags:
   - 마스터클래스
 ---

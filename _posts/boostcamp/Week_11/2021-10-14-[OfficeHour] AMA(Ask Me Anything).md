@@ -2,7 +2,7 @@
 title: "Day_48 [오피스아워] 강의 설계 의도 및 AMA(Ask Me Anything)"
 
 categories:
-  - Boostcamp_AI_Tech/Week_11/Day_48
+  - Boostcamp_AI_Tech/Week_11
 tags:
   - 오피스아워
 ---

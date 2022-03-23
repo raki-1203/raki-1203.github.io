@@ -2,7 +2,7 @@
 title: "Day_49 [마스터클래스] 서민준 마스터"
 
 categories:
-  - Boostcamp_AI_Tech/Week_11/Day_49
+  - Boostcamp_AI_Tech/Week_11
 tags:
   - 마스터클래스
 ---
