@@ -11,107 +11,107 @@ tags:
 
 ## Relation Extraction Competition
 
-![]({{site.url}}/assets/images/c9cdd37b.png)
+![]({{site.url}}/assets/images/boostcamp/c9cdd37b.png)
 
-![]({{site.url}}/assets/images/91728508.png)
+![]({{site.url}}/assets/images/boostcamp/91728508.png)
 
 ### Relation extraction 이란?
 
-![]({{site.url}}/assets/images/1d969ae0.png)
+![]({{site.url}}/assets/images/boostcamp/1d969ae0.png)
 
 ## Competition Idea & Tips
 
 ### Language Models for Korean!
 
-![]({{site.url}}/assets/images/96c1d5ef.png)
+![]({{site.url}}/assets/images/boostcamp/96c1d5ef.png)
 
 ### Using Special Token
 
-![]({{site.url}}/assets/images/9d6e66b3.png)
+![]({{site.url}}/assets/images/boostcamp/9d6e66b3.png)
 
-![]({{site.url}}/assets/images/18a50e3f.png)
+![]({{site.url}}/assets/images/boostcamp/18a50e3f.png)
 
 ### Additional Embedding Layer
 
-![]({{site.url}}/assets/images/b673cc5b.png)
+![]({{site.url}}/assets/images/boostcamp/b673cc5b.png)
 
 ### Additional Output Layer
 
-![]({{site.url}}/assets/images/f6d75ed9.png)
+![]({{site.url}}/assets/images/boostcamp/f6d75ed9.png)
 
 ### Language Model Domain Adaptation
 
-![]({{site.url}}/assets/images/dcc63011.png)
+![]({{site.url}}/assets/images/boostcamp/dcc63011.png)
 
 ### Data Augmentation
 
-![]({{site.url}}/assets/images/d7250afe.png)
+![]({{site.url}}/assets/images/boostcamp/d7250afe.png)
 
-![]({{site.url}}/assets/images/f09ef5e4.png)
+![]({{site.url}}/assets/images/boostcamp/f09ef5e4.png)
 
 #### EDA 
 
-![]({{site.url}}/assets/images/dc2642f2.png)
+![]({{site.url}}/assets/images/boostcamp/dc2642f2.png)
 
-![]({{site.url}}/assets/images/821dc80c.png)
+![]({{site.url}}/assets/images/boostcamp/821dc80c.png)
 
-![]({{site.url}}/assets/images/ea422bee.png)
+![]({{site.url}}/assets/images/boostcamp/ea422bee.png)
 
 #### EDA 구현해보기 
 
-![]({{site.url}}/assets/images/ebf893ed.png)
+![]({{site.url}}/assets/images/boostcamp/ebf893ed.png)
 
-![]({{site.url}}/assets/images/0f7d1d1e.png)
+![]({{site.url}}/assets/images/boostcamp/0f7d1d1e.png)
 
 #### EDA 실험 결과
 
-![]({{site.url}}/assets/images/d9143519.png)
+![]({{site.url}}/assets/images/boostcamp/d9143519.png)
 
-![]({{site.url}}/assets/images/f2d4f488.png)
+![]({{site.url}}/assets/images/boostcamp/f2d4f488.png)
 
 #### 혹시 EDA 를 시도해 볼 시간이 없다면?
 
-![]({{site.url}}/assets/images/59f61a92.png)
+![]({{site.url}}/assets/images/boostcamp/59f61a92.png)
 
 #### Round-trip translation (a.k.a. Back-translation)
 
-![]({{site.url}}/assets/images/abf565aa.png)
+![]({{site.url}}/assets/images/boostcamp/abf565aa.png)
 
-![]({{site.url}}/assets/images/b7859655.png)
+![]({{site.url}}/assets/images/boostcamp/b7859655.png)
 
 예시를 보면 좀 의미가 달라지는 경우가 있음
 
 ### Single or Multi ?
 
-![]({{site.url}}/assets/images/9bf91ac8.png)
+![]({{site.url}}/assets/images/boostcamp/9bf91ac8.png)
 
-![]({{site.url}}/assets/images/ddeae2ab.png)
+![]({{site.url}}/assets/images/boostcamp/ddeae2ab.png)
 
-![]({{site.url}}/assets/images/0c77f8f1.png)
+![]({{site.url}}/assets/images/boostcamp/0c77f8f1.png)
 
-![]({{site.url}}/assets/images/1f3aa87d.png)
+![]({{site.url}}/assets/images/boostcamp/1f3aa87d.png)
 
 ## Recent Studies for Relation Extraction
 
 ### Relation Extraction on Special Domain
 
-![]({{site.url}}/assets/images/d8a876b4.png)
+![]({{site.url}}/assets/images/boostcamp/d8a876b4.png)
 
 ### Document-level Relation Extraction
 
-![]({{site.url}}/assets/images/98c193c4.png)
+![]({{site.url}}/assets/images/boostcamp/98c193c4.png)
 
 ### Graph-based Relation Extraction
 
-![]({{site.url}}/assets/images/d25fcf41.png)
+![]({{site.url}}/assets/images/boostcamp/d25fcf41.png)
 
 ---
 
 # Q & A
 
-![]({{site.url}}/assets/images/90044a80.png)
+![]({{site.url}}/assets/images/boostcamp/90044a80.png)
 
-![]({{site.url}}/assets/images/6d43a83c.png)
+![]({{site.url}}/assets/images/boostcamp/6d43a83c.png)
 
 전처리 할 때 tokenization 이 전처리 처음 단계에서 무조건 사용되는데 tokenizer 를
 뭘쓸지 생각을 많이 안해보는 듯

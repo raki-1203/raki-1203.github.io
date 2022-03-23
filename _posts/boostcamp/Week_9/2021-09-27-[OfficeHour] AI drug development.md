@@ -13,11 +13,11 @@ tags:
 
 ## 1.1 신약개발이란?
 
-![]({{site.url}}/assets/images/b5ecfcf7.png)
+![]({{site.url}}/assets/images/boostcamp/b5ecfcf7.png)
 
 한국에서는 신약개발 하는 회사가 별로 없음  
 
-![]({{site.url}}/assets/images/8f870d14.png)
+![]({{site.url}}/assets/images/boostcamp/8f870d14.png)
 
 후보물질을 발견했으면 가볍게 무시하면 됨
 
@@ -27,29 +27,29 @@ tags:
 
 1상까지는 대부분 통과하고 2, 3상에서 실패가 많이 나옴
 
-![]({{site.url}}/assets/images/90f15d8a.png)
+![]({{site.url}}/assets/images/boostcamp/90f15d8a.png)
 
 효능이 있는 물질(Hit)이 다른 단백질에도 영향을 미치면 안되므로 최적화 과정에서 돈이 많이들고 시간도 많이 듦
 
 ## 인공지능과 신약개발
 
-![]({{site.url}}/assets/images/e74fcede.png)
+![]({{site.url}}/assets/images/boostcamp/e74fcede.png)
 
-![]({{site.url}}/assets/images/654665cb.png)
+![]({{site.url}}/assets/images/boostcamp/654665cb.png)
 
 ## 2 화학 데이터
 
-![]({{site.url}}/assets/images/9b6c4e7b.png)
+![]({{site.url}}/assets/images/boostcamp/9b6c4e7b.png)
 
 이 데이터를 표현하는 방법도 다 다름
 
-![]({{site.url}}/assets/images/3d6f68e8.png)
+![]({{site.url}}/assets/images/boostcamp/3d6f68e8.png)
 
 print 가 아니라 fingerprint 
 
 딥러닝이 뜨면서 분자구조를 Graph 로 처리하는 방법을 많이 사용함
 
-![]({{site.url}}/assets/images/8306d44a.png)
+![]({{site.url}}/assets/images/boostcamp/8306d44a.png)
 
 `rdkit` 이라는 라이브러리를 쓰면 SMILES 로 주어주면 분자구조를 쉽게 얻을 수 있음
 
@@ -57,17 +57,17 @@ print 가 아니라 fingerprint
 
 ## 3 적용분야
 
-![]({{site.url}}/assets/images/a0be6415.png)
+![]({{site.url}}/assets/images/boostcamp/a0be6415.png)
 
 Properties : 물성 (물질의 특성)
 
-![]({{site.url}}/assets/images/930cf656.png)
+![]({{site.url}}/assets/images/boostcamp/930cf656.png)
 
 데이터셋들이 많지만 개수가 굉장히 적음
 
 딥러닝이나 RandomForest 나 차이가 안나는 경우가 많음
 
-![]({{site.url}}/assets/images/7e113d70.png)
+![]({{site.url}}/assets/images/boostcamp/7e113d70.png)
 
 단백질이 어떠한 질병이 있다라는 것을 알고 이 단백질에 어떠한 구조가 활성도가 높은지를 알아야함
 
@@ -78,7 +78,7 @@ Task 가 Multimodal task 와 비슷함
 
 어떤 모델을 사용할 것인지, 2개의 정보를 어떻게 조합할것인지에 대한 연구가 많이 진행되고 있음
 
-![]({{site.url}}/assets/images/6f2adb04.png)
+![]({{site.url}}/assets/images/boostcamp/6f2adb04.png)
 
 올해 Alphafold2 가 굉장히 떴는데 단백질 3D 구조 예측에서 뛰어난 성능을 보임
 
@@ -86,7 +86,7 @@ DeepMind 가 다 차이나게 SOTA 찍어버림
 
 가장 돈이 되는 영역이 신약개발쪽이라서 DeepMind 가 이런일을 하지 않을까 싶음
 
-![]({{site.url}}/assets/images/366f0392.png)
+![]({{site.url}}/assets/images/boostcamp/366f0392.png)
 
 Screening Library : 이미 만들어진 1억개 이상의 분자구조가 있는데 어느 단백질에서 활성이 일어나는지 알 수 없음
 그래서 1억개 중에 단어를 뽑아내서 예측을 해봄
@@ -95,7 +95,7 @@ Screening Library : 이미 만들어진 1억개 이상의 분자구조가 있는
 
 이건 꿈의 얘기고 실제로는 이렇게 되지 않음
 
-![]({{site.url}}/assets/images/3ca69474.png)
+![]({{site.url}}/assets/images/boostcamp/3ca69474.png)
 
 예측만 했을때 문제점이 뭐냐면 비슷한것만 예측을 잘 함
 
@@ -103,13 +103,13 @@ Screening Library : 이미 만들어진 1억개 이상의 분자구조가 있는
 
 효능이 좋은 상태로 구조가 다른 물질을 생성하자라고 해서 Molecule Generation 을 하고 있음
 
-![]({{site.url}}/assets/images/9787cfff.png)
+![]({{site.url}}/assets/images/boostcamp/9787cfff.png)
 
 Hit 물질이 부작용을 일으킬 수 있으므로 최적화를 통해서 찾아낸 것이 Lead 물질임
 
 Generation 모델을 통해 만들면 비슷한걸 만들 수 밖에 없어서 차이점을 만들어내는게 비즈니스 모델이 될 듯
 
-![]({{site.url}}/assets/images/fcd7f4de.png)
+![]({{site.url}}/assets/images/boostcamp/fcd7f4de.png)
 
 딥러닝이 무언가를 할 때마다 신약개발하는 사람들은 끝났다라고 얘기하지만 실제로는 임상에서 탈락
 
@@ -117,13 +117,13 @@ Generation 모델을 통해 만들면 비슷한걸 만들 수 밖에 없어서 �
 
 몇백억을 아낄 수 있는 가능성
 
-![]({{site.url}}/assets/images/c1ff455d.png)
+![]({{site.url}}/assets/images/boostcamp/c1ff455d.png)
 
 코로나의 분자구조를 만들려면 엄청 작은거부터 시작해서 합성을 하면서 만들어야 함
 
 합성도 돈이 굉장히 많이 드는 영역임
 
-![]({{site.url}}/assets/images/88587790.png)
+![]({{site.url}}/assets/images/boostcamp/88587790.png)
 
 역합성의 대한 연구도 많이 진행되고 있음
 
@@ -131,7 +131,7 @@ Generation 모델을 통해 만들면 비슷한걸 만들 수 밖에 없어서 �
 
 합성 난이도 + 평소에 사용하지 않는 시약 사용 $\rightarrow$ 비용이 증가 (시장성 감소)
 
-![]({{site.url}}/assets/images/e2779056.png)
+![]({{site.url}}/assets/images/boostcamp/e2779056.png)
 
 G2G 모델을 이용해서 연구 진행 중
 
@@ -141,23 +141,23 @@ G2G 모델을 이용해서 연구 진행 중
 
 ## 4 왜 신약개발로?
 
-![]({{site.url}}/assets/images/7de14535.png)
+![]({{site.url}}/assets/images/boostcamp/7de14535.png)
 
-![]({{site.url}}/assets/images/30b4424e.png)
+![]({{site.url}}/assets/images/boostcamp/30b4424e.png)
 
 CV 과 NLP 너무 재밌지만 이 2가지로 할 수 있는게 굉장히 많은데 이 2가지를 가지고 비즈니스 모델을 만들기 굉장히 어려웠음
 
 명확한 비즈니스를 찾기가 힘듦
 
-![]({{site.url}}/assets/images/c85d9600.png)
+![]({{site.url}}/assets/images/boostcamp/c85d9600.png)
 
 신약개발은 겹침 연구자체가 비즈니스임
 
-![]({{site.url}}/assets/images/dde3dfd2.png)
+![]({{site.url}}/assets/images/boostcamp/dde3dfd2.png)
 
 굉장히 큰 사이즈의 market size 에서 조금만 먹어도 많이 먹을 수 있음
 
-![]({{site.url}}/assets/images/edcd9752.png)
+![]({{site.url}}/assets/images/boostcamp/edcd9752.png)
 
 신약개발이 AI 를 도입하기 굉장히 좋은 영역임
 
@@ -167,11 +167,11 @@ CV 과 NLP 너무 재밌지만 이 2가지로 할 수 있는게 굉장히 많은
 
 <U>AI 를 이용하여</U> 라는점이 중요
 
-![]({{site.url}}/assets/images/4c95c223.png)
+![]({{site.url}}/assets/images/boostcamp/4c95c223.png)
 
 돈의 영역은 10년 이상의 과정 프로세스와 1조~3조가 들어가는 비용을 몇%라도 줄일 수 있으면 굉장히 효율적인 도구가 됨
 
-![]({{site.url}}/assets/images/11fa0ed9.png)
+![]({{site.url}}/assets/images/boostcamp/11fa0ed9.png)
 
 사회적 문제를 해결할 수 있음
 
