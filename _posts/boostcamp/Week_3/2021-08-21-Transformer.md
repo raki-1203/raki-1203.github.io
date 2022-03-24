@@ -2,7 +2,7 @@
 title: "[복습] Transformer"
 
 categories:
-  - Boostcamp_AI_Tech
+  - Paper
 tags:
   - DL Basic
   - Transformer
