@@ -303,7 +303,7 @@ Transformer를 하나의 `Black Box` 라고 생각해보자.
 
 이 벡터들은 이제 각 `decoder` 의 `encoder-decoder attention layer` 에서 `decoder` 가 입력 시퀀스에서 적절한 장소에 집중할 수 있도록 도와준다.
 
-> ![]({{site.url}}/assets/images/boostcamp/Aug-21-2021-22-03-00.gif)
+> ![]({{site.url}}/assets/images/boostcamp/transformer_decoding_1.gif)
 
 `encoding` 단계가 끝나면 이제 `decoding` 단계가 시작된다.
 
@@ -317,7 +317,7 @@ Transformer를 하나의 `Black Box` 라고 생각해보자.
 
 `encoder` 의 입력에 했던 것과 동일하게 `embed` 를 한 후 `positional encoding` 을 추가하여 `decoder` 에게 각 단어의 위치 정보를 더해준다.
 
-> ![]({{site.url}}/assets/images/boostcamp/Aug-21-2021-23-44-33.gif)
+> ![]({{site.url}}/assets/images/boostcamp/transformer_decoding_2.gif)
 
 `decoder` 내에 있는 `self-attention layer` 들은 `encoder` 와는 조금 다르게 작동한다.
 
