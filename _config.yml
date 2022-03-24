@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "ko-KR"
 title                    : "딥린이의 작업노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -24,9 +24,9 @@ description              : "더 잘하기 위해 늘 공부하는 딥린이의 �
 url                      : "https://raki-1203.github.io"
 baseurl                  : ""
 repository               : "raki-1203/raki-1203.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/logo.PNG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.PNG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : #"/assets/images/logo.PNG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : #"/assets/images/logo.PNG" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "딥린이의 작업노트" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -290,7 +290,7 @@ defaults:
 
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
