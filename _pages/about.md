@@ -3,7 +3,7 @@ permalink: /about/
 title: "딥린이의 작업노트"
 toc: true
 toc_sticky: true
-toc_label: "On This Page"
+toc_label: "Index"
 ---
 
 ## 늘 공부하는 딥린이의 블로그
