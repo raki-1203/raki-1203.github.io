@@ -1,9 +1,9 @@
 ---
 permalink: /about/
 title: "딥린이의 작업노트"
-tok: true
+toc: true
 toc_sticky: true
-toc_label: "MYSELF"
+toc_label: "On This Page"
 ---
 
 ## 늘 공부하는 딥린이의 블로그
