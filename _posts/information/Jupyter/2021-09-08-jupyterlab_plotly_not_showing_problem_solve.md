@@ -14,13 +14,13 @@ tags:
 
 서버의 주피터랩상에서 Plotly 실습을 진행하던 도중 분명히 셀이 정상적으로 실행되었는데 아무것도 나오지 않는 현상이 나타남.....
 
-![]({{site.url}}/assets/images/1631099768010.png)
+![]({{site.url}}/assets/images/boostcamp/1631099768010.png)
 
 원인을 구글링한 결과 `jupyter labextension install jupyterlab-plotly` extension 을 설치해야 한다고 함
 
 하지만 docker server 에서 실핸한 결과...
 
-![]({{site.url}}/assets/images/1631099983592.png)
+![]({{site.url}}/assets/images/boostcamp/1631099983592.png)
 
 에러발생....
 
@@ -49,7 +49,7 @@ $ n lts  # nodejs의 LTS 버전 (v14.17.6) 설치, n stable, n latest 명령어�
 
 이제 잘 나온다.
 
-![]({{site.url}}/assets/images/1631101255240.png)
+![]({{site.url}}/assets/images/boostcamp/1631101255240.png)
 
 편안
 
