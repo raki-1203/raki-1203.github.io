@@ -30,8 +30,8 @@
 
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Algorithm" %}
-                       <li><a href="/categories/Algorithm" class="">Python({{category[1].size}})</a></li>
+                    {% if category[0] == "Python" %}
+                       <li><a href="/categories/Algorithm/Python" class="">Python({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -79,7 +79,7 @@
         <span class="nav__sub-title">Paper</span><!--큰 카테고리-->
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Paper" %}
+                    {% if category[0] == "Transformer" %}
                         <li><a href="/categories/Paper/Transformer" class="">Transformer({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
