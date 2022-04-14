@@ -2,7 +2,7 @@
 title: "Python Algorithm"
 layout: archive
 classes: wide <!-- 본문 늘리기!!!-->
-permalink: categories/Algorithm/Python
+permalink: categories/Python
 author_profile: true
 sidebar_main: true
 ---
