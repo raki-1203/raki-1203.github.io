@@ -25,6 +25,142 @@
         -->
 
         <!--------------------------------------분류 시작-------------------------------------------->
+        <span class="nav__sub-title"><a href="/Boostcamp_AI_Tech/" class="">Boostcamp AI Tech 2th</a></span><!--큰 카테고리-->
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_1" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_1/" class="">Week 1({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_2" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_2/" class="">Week 2({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_3" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_3/" class="">Week 3({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_4" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_4/" class="">Week 4({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_5" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_5/" class="">Week 5({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_6" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_6/" class="">Week 6({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_7" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_7/" class="">Week 7({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_8" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_8/" class="">Week 8({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_9" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_9/" class="">Week 9({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_10" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_10/" class="">Week 10({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_11" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_11/" class="">Week 11({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_12" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_12/" class="">Week 12({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_13" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_13/" class="">Week 13({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_14" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_14/" class="">Week 14({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_15" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_15/" class="">Week 15({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_16" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_16/" class="">Week 16({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_17" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_17/" class="">Week 17({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_18" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_18/" class="">Week 18({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Boostcamp_AI_Tech/Week_19" %}
+                        <li><a href="/Boostcamp_AI_Tech/Week_19/" class="">Week 19({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <!--------------------------------------분류 끝-------------------------------------------->
+        <!--------------------------------------분류 시작-------------------------------------------->
         <span class="nav__sub-title">Information</span><!--큰 카테고리-->
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
 

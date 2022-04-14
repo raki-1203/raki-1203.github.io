@@ -9,28 +9,28 @@ sidebar:
 
 ### [Day37] KLUE 1 ~ 2강
 
-- [01. 인공지능과 자연어 처리]({{site.url}}/boostcamp_ai_tech/week_9/day_37/01.-AI-and-NLP/)
-- [02. 자연어의 전처리]({{site.url}}/boostcamp_ai_tech/week_9/day_37/02.-Preprocessing-of-Natural-Language/)
-- [오피스아워 AI 신약 개발]({{site.url}}/boostcamp_ai_tech/week_9/day_37/OfficeHour-AI-drug-development/)
+- [01. 인공지능과 자연어 처리]({{site.url}}/boostcamp_ai_tech/week_9/01.-AI-and-NLP/)
+- [02. 자연어의 전처리]({{site.url}}/boostcamp_ai_tech/week_9/02.-Preprocessing-of-Natural-Language/)
+- [오피스아워 AI 신약 개발]({{site.url}}/boostcamp_ai_tech/week_9/OfficeHour-AI-drug-development/)
 
 ### [Day38] KLUE 3 ~ 5강
 
-- [01. BERT 언어모델 소개]({{site.url}}/boostcamp_ai_tech/week_9/day_38/01.-Introduce-BERT-Language-Model/)
-- [02. 한국어 BERT 언어모델 학습]({{site.url}}/boostcamp_ai_tech/week_9/day_38/02.-Train-Korean-BERT-Language-Model/)
-- [03. BERT 기반 단일 문장 분류 모델 학습]({{site.url}}/boostcamp_ai_tech/week_9/day_38/03.-single-sentence-classification-based-BERT-train/)
+- [01. BERT 언어모델 소개]({{site.url}}/boostcamp_ai_tech/week_9/01.-Introduce-BERT-Language-Model/)
+- [02. 한국어 BERT 언어모델 학습]({{site.url}}/boostcamp_ai_tech/week_9/02.-Train-Korean-BERT-Language-Model/)
+- [03. BERT 기반 단일 문장 분류 모델 학습]({{site.url}}/boostcamp_ai_tech/week_9/03.-single-sentence-classification-based-BERT-train/)
 
 ### [Day39] KLUE 6 ~ 7강
 
-- [01. BERT 기반 두 문장 관계 분류 모델 학습]({{site.url}}/boostcamp_ai_tech/week_9/day_39/01.-BERT-based-two-sentence-relationship-classification-model-training/)
-- [02. BERT 언어모델 기반의 문장 토큰 분류]({{site.url}}/boostcamp_ai_tech/week_9/day_39/02.-Classification-of-sentence-tokens-based-on-the-BERT-language-model/)
+- [01. BERT 기반 두 문장 관계 분류 모델 학습]({{site.url}}/boostcamp_ai_tech/week_9/01.-BERT-based-two-sentence-relationship-classification-model-training/)
+- [02. BERT 언어모델 기반의 문장 토큰 분류]({{site.url}}/boostcamp_ai_tech/week_9/02.-Classification-of-sentence-tokens-based-on-the-BERT-language-model/)
 
 ### [Day40] KLUE RE task 대회
 
-- [[오피스아워] Relation Extraction]({{site.url}}/boostcamp_ai_tech/week_9/day_40/OfficeHour-Relation-Extraction/)
+- [[오피스아워] Relation Extraction]({{site.url}}/boostcamp_ai_tech/week_9/OfficeHour-Relation-Extraction/)
 
 ### [Day41] KLUE RE task 대회
 
-- [01. Huggingface hub 에 모델 공유하기]({{site.url}}/boostcamp_ai_tech/week_9/day_41/01.-Share-Model-on-Huggingface-hub/)
+- [01. Huggingface hub 에 모델 공유하기]({{site.url}}/boostcamp_ai_tech/week_9/01.-Share-Model-on-Huggingface-hub/)
 
 ### [Week9 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%201)
 

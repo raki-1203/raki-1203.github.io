@@ -7,11 +7,11 @@ sidebar:
     nav: "docs"
 ---
 
-### [[Day21] 8/25일자 Special Mission](https://github.com/raki-1203/boostcamp_note/tree/main/Week_5/Day_21)
+### [[Day21] 8/25일자 Special Mission](https://github.com/raki-1203/boostcamp_note/tree/main/Week_5/)
 
 - Darknet-53 모델 PyTorch 로 구현하기
 
-### [[Day22] train data set 에서 잘 못 labeling 된 데이터 수정한 csv 파일 만들기](https://github.com/raki-1203/boostcamp_note/tree/main/Week_5/Day_22)
+### [[Day22] train data set 에서 잘 못 labeling 된 데이터 수정한 csv 파일 만들기](https://github.com/raki-1203/boostcamp_note/tree/main/Week_5/)
 
 - LabelCorrection_raki.ipynb
 
@@ -65,7 +65,7 @@ Optimizer 중 Adam, AdamW, MadGrad 를 이용해 3 epochs 씩 돌려서 비교�
     구현해보고, K수 조절해보기
 6. Mutually Exclusive : 상준, 별이
 
-> [Day_21]
+> []
 
 상민캠퍼님의 점수가 가장 높아서 그 코드를 기준으로 테스트 하기로 함
 
@@ -91,7 +91,7 @@ EfficientNet_B4, EfficientNet_B3_prune, EfficientNet_B2_prune, EfficientNet_B1_p
 
 이 중 EffientNet_B2_prune 의 F1_Score 기준 성능이 가장 좋게 나타났다.
 
-> [Day_22]
+> []
 
 parser.argument 의 인자를 nargs 를 받을 수 있는데 정규표현식을 사용해서 몇개를 받을 수 있을지 정할 수 있는 것 같다.
 
@@ -109,7 +109,7 @@ criterion focalloss 였다.
 각자 좋았던 부분을 git 을 통해 합치고 다시 각자 나눠서 테스트를 진행하니 확실히 혼자할 때보다 더 좋은 영향력을 얻는 듯 하다.
 
 
-> [Day_23]
+> []
  
 오늘은 대회 마지막 날이다.
 
@@ -137,6 +137,6 @@ age, gender, mask 를 분리해서 예측한다고 하면 외부이미지도 추
 
 Tensorboard event 파일을 dataframe 으로 바꿔주는 코드를 알아냈다.
 
-[jupyter 파일](https://github.com/raki-1203/boostcamp_note/blob/main/Week_5/Day_23/Tensorboard_Visualization.ipynb) 로 정리를 해놨다. 
+[jupyter 파일](https://github.com/raki-1203/boostcamp_note/blob/main/Week_5/Tensorboard_Visualization.ipynb) 로 정리를 해놨다. 
 
 wrap-up report 또는 나중에 결과를 시각화할 때 사용하면 좋을 것 같다.

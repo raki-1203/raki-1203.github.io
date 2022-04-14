@@ -9,13 +9,13 @@ sidebar:
 
 ### [Day42] KLUE 8 ~ 9강
 
-- [01. GPT 언어 모델]({{site.url}}/boostcamp_ai_tech/week_10/day_42/01.-GPT-Language-Model/)
-- [02. GPT 언어모델 기반의 자연어 생성]({{site.url}}/boostcamp_ai_tech/week_10/day_42/02.-NLG-based-GPT-Language-Model/)
+- [01. GPT 언어 모델]({{site.url}}/boostcamp_ai_tech/week_10/01.-GPT-Language-Model/)
+- [02. GPT 언어모델 기반의 자연어 생성]({{site.url}}/boostcamp_ai_tech/week_10/02.-NLG-based-GPT-Language-Model/)
 
 ### [Day43] KLUE 10강
 
-- [01. 최신 자연어처리 연구]({{site.url}}/boostcamp_ai_tech/week_10/day_43/01.-Recent-NLP-Study/)
-- [오피스아워 Chatbot with NLP]({{site.url}}/boostcamp_ai_tech/week_10/day_43/OfficeHour-Chatbot-With-NLP/)
+- [01. 최신 자연어처리 연구]({{site.url}}/boostcamp_ai_tech/week_10/01.-Recent-NLP-Study/)
+- [오피스아워 Chatbot with NLP]({{site.url}}/boostcamp_ai_tech/week_10/OfficeHour-Chatbot-With-NLP/)
 
 ### [Week10 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%202)
 
@@ -23,9 +23,12 @@ sidebar:
 
 ### [Day45] KLUE RE 대회 마무리
 
-- [마스터클래스]({{site.url}}/boostcamp_ai_tech/week_10/day_45/MasterClass-KimSunghyun-Master/)
-- [KLUE RE 대회 개인 회고]({{site.url}}/boostcamp_ai_tech/week_10/day_45/P-Stage-level-2-KLUE-Relation-Extraction/)
+- [마스터클래스]({{site.url}}/boostcamp_ai_tech/week_10/MasterClass-KimSunghyun-Master/)
+- [KLUE RE 대회 개인 회고]({{site.url}}/boostcamp_ai_tech/week_10/P-Stage-level-2-KLUE-Relation-Extraction/)
  
+
+### [Week10 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week%202)
+
 ---
 ### 학습회고
 

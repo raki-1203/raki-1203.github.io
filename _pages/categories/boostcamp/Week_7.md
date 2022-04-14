@@ -9,27 +9,27 @@ sidebar:
 
 ### [Day30] NLP 7 ~ 8강
 
-- [Transformer (1)]({{site.url}}/boostcamp_ai_tech/week_7/day_30/01.-Transformer-(1)/)
-- [Transformer (2)]({{site.url}}/boostcamp_ai_tech/week_7/day_30/02.-Transformer-(2)/)
+- [Transformer (1)]({{site.url}}/boostcamp_ai_tech/week_7/01.-Transformer-(1)/)
+- [Transformer (2)]({{site.url}}/boostcamp_ai_tech/week_7/02.-Transformer-(2)/)
 
 ### [Day31] NLP 9 ~ 10강
 
-- [Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/day_31/01.-Self-supervised-Pre-training-Models/)
-- [Advanced Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/day_31/02.-Advanced-Self-supervised-Pre-training-Models/)
+- [Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/01.-Self-supervised-Pre-training-Models/)
+- [Advanced Self-supervised Pre-training Models]({{site.url}}/boostcamp_ai_tech/week_7/02.-Advanced-Self-supervised-Pre-training-Models/)
 
 ### [Day32] Transformer 논문 Review
 
-- [Attention Is All You Need Review (1)]({{site.url}}/boostcamp_ai_tech/week_7/day_32/01.-Attention-Is-All-You-Need-paper-reveiw-(1)/)
+- [Attention Is All You Need Review (1)]({{site.url}}/boostcamp_ai_tech/week_7/01.-Attention-Is-All-You-Need-paper-reveiw-(1)/)
 
 ### [Day33] Transformer 논문 Review
 
-- [Attention Is All You Need Review (2)]({{site.url}}/boostcamp_ai_tech/week_7/day_33/01.-Attention-Is-All-You-Need-paper-reveiw-(2)/)
-- [오피스아워 - 과제해설]({{site.url}}/boostcamp_ai_tech/week_7/day_33/OfficeHour-Assignment-Solution/)
+- [Attention Is All You Need Review (2)]({{site.url}}/boostcamp_ai_tech/week_7/01.-Attention-Is-All-You-Need-paper-reveiw-(2)/)
+- [오피스아워 - 과제해설]({{site.url}}/boostcamp_ai_tech/week_7/OfficeHour-Assignment-Solution/)
 
 ### [Day34] Transformer 논문 Review
 
-- [Attention Is All You Need Review (3)]({{site.url}}/boostcamp_ai_tech/week_7/day_34/01.-Attention-Is-All-You-Need-paper-reveiw-(3)/)
-- [마스터클래스 - 주재걸교수님]({{site.url}}/boostcamp_ai_tech/week_7/day_34/MasterClass-JooJaeGul-Professor-(2)/)
+- [Attention Is All You Need Review (3)]({{site.url}}/boostcamp_ai_tech/week_7/01.-Attention-Is-All-You-Need-paper-reveiw-(3)/)
+- [마스터클래스 - 주재걸교수님]({{site.url}}/boostcamp_ai_tech/week_7/MasterClass-JooJaeGul-Professor-(2)/)
 
 ### [Week7 피어세션 정리](https://www.notion.so/7-586d644c8af1401db30d193f3525acf1)
 
