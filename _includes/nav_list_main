@@ -25,6 +25,70 @@
         -->
 
         <!--------------------------------------분류 시작-------------------------------------------->
+        <span class="nav__sub-title">Information</span><!--큰 카테고리-->
+            <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
+
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Python" %}
+                       <li><a href="/categories/Python" class="">Python({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "GitHubBlog" %}
+                        <li><a href="/categories/GitHubBlog" class="">GitHubBlog({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Docker" %}
+                        <li><a href="/categories/Docker" class="">Docker({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Jupyter" %}
+                       <li><a href="/categories/Jupyter" class="">Jupyter Notebook({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "MySQL" %}
+                        <li><a href="/categories/AWS/MySQL" class="">MySQL({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "PyTorch" %}
+                        <li><a href="/categories/PyTorch" class="">PyTorch({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Ubuntu" %}
+                        <li><a href="/categories/Ubuntu" class="">Ubuntu({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <!--------------------------------------분류 시작-------------------------------------------->
+        <span class="nav__sub-title">Paper</span><!--큰 카테고리-->
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Transformer" %}
+                        <li><a href="/categories/Paper/Transformer" class="">Transformer({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <!--------------------------------------분류 끝-------------------------------------------->
+        <!--------------------------------------분류 시작-------------------------------------------->
         <span class="nav__sub-title"><a href="/Boostcamp_AI_Tech/" class="">Boostcamp AI Tech 2th</a></span><!--큰 카테고리-->
             <ul>
                 {% for category in site.categories %}
@@ -156,70 +220,6 @@
                 {% for category in site.categories %}
                     {% if category[0] == "Boostcamp_AI_Tech/Week_19" %}
                         <li><a href="/Boostcamp_AI_Tech/Week_19/" class="">Week 19({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        <!--------------------------------------분류 끝-------------------------------------------->
-        <!--------------------------------------분류 시작-------------------------------------------->
-        <span class="nav__sub-title">Information</span><!--큰 카테고리-->
-            <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
-
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Python" %}
-                       <li><a href="/categories/Python" class="">Python({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "GitHubBlog" %}
-                        <li><a href="/categories/GitHubBlog" class="">GitHubBlog({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Docker" %}
-                        <li><a href="/categories/Docker" class="">Docker({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Jupyter" %}
-                       <li><a href="/categories/Jupyter" class="">Jupyter Notebook({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "MySQL" %}
-                        <li><a href="/categories/AWS/MySQL" class="">MySQL({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "PyTorch" %}
-                        <li><a href="/categories/PyTorch" class="">PyTorch({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Ubuntu" %}
-                        <li><a href="/categories/Ubuntu" class="">Ubuntu({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        <!--------------------------------------분류 시작-------------------------------------------->
-        <span class="nav__sub-title">Paper</span><!--큰 카테고리-->
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "Transformer" %}
-                        <li><a href="/categories/Paper/Transformer" class="">Transformer({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
