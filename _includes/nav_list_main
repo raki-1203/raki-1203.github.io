@@ -87,6 +87,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Adversarial" %}
+                        <li><a href="/categories/Paper/Adversarial" class="">Adversarial Training for NLP({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <!--------------------------------------분류 끝-------------------------------------------->
         <!--------------------------------------분류 시작-------------------------------------------->
         <span class="nav__sub-title"><a href="/Boostcamp_AI_Tech/" class="">Boostcamp AI Tech 2th</a></span><!--큰 카테고리-->
