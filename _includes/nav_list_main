@@ -44,6 +44,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "M1Macbook" %}
+                        <li><a href="/categories/M1Macbook" class="">M1 Macbook Air({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Docker" %}
                         <li><a href="/categories/Docker" class="">Docker({{category[1].size}})</a></li>
                     {% endif %}
