@@ -1,5 +1,5 @@
 ---
-title: "Day_34 01. Attention Is All You Need paper review (3)"
+title: "Attention Is All You Need paper review (3)"
 
 categories:
   - Transformer
