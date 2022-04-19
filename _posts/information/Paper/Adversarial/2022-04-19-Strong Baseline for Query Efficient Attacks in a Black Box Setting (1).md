@@ -1,5 +1,5 @@
 ---
-title: "Gradient-based Adversarial Attacks against Text Transformers (1)"
+title: "Strong Baseline for Query Efficient Attacks in a Black Box Setting (1)"
 
 categories:
   - Adversarial
@@ -10,7 +10,7 @@ tags:
   - Adversarial Example
 ---
   
-# Gradient-based Adversarial Attacks against Text Transformers (1)
+# Strong Baseline for Query Efficient Attacks in a Black Box Setting (1)
 
 영어실력의 부족으로 번역에 문제가 좀 있을 수 있으니 오역의 부분이 있다면 댓글을 달아주시면 좋을듯 함
 
