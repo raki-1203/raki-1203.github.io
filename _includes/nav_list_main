@@ -97,7 +97,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Adversarial" %}
-                        <li><a href="/categories/Paper/Adversarial" class="">Adversarial Training for NLP({{category[1].size}})</a></li>
+                        <li><a href="/categories/Adversarial" class="">Adversarial Training for NLP({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
