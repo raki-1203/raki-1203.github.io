@@ -170,9 +170,9 @@ trigger sequence 들은 머신러닝 모델을 속이기 위해 누구에게나 
 
 ### 2.2 Attack Model and Objective
 
-![](../../../../assets/images/paper/adversarial/c5bc51d4.png)
+> ![](../../../../assets/images/paper/adversarial/c5bc51d4.png)
 
-non-universal targeted acctack 에서, 우리는 model $f$, 토큰(단어, 서브워드, 문자)의 텍스트 input $t$ 그리고
+non-universal targeted attack 에서, 우리는 model $f$, 토큰(단어, 서브워드, 문자)의 텍스트 input $t$ 그리고
 target label 인 $\tilde{y}$ 가 주어진다.
 
 공격자는 trigger token $t_{adv}$ 을 텍스트 input $t$ 의 앞 또는 뒤에 연결하는 것을 목적으로 하고 
@@ -182,12 +182,99 @@ $$f(t_{adv};t) = \tilde{y}$$
 
 ; 는 concatenate 라고 생각할 수 있다.
 
----
+> ![](../../../../assets/images/paper/adversarial/d7ed3a77.png)
 
-아직 작업중이다.
+**Universal Setting**
+
+universal targeted attack 에서, 공격자는 데이터셋으로부터 모든 input 들에 대한 target class $\tilde{y}$ 에 대한
+loss 를 최소화하는 $t_{adv}$ 를 최적화한다.
+
+이것은 다음의 objective 로 번역한다.
+
+$$ \underset{\mathbf{t}_{adv}}{\operatorname{argmin}}\mathbb{E}_{\mathbf{t} \sim \mathcal{T}} 
+\left [ \mathcal{L}(\tilde{y}, f(\mathbf{t}_{adv};\mathbf{t})) \right ] \qquad (1)$$
+
+$\mathcal{T}$ 는 data 분포로부터의 input 예 들이고 $\mathcal{L}$ 은 task 의 loss function 이다.
+
+우리의 attack 을 생성하기위해, 우리는 $f$ 에 white-box 접근을 가정한다.
+
+### 2.3 Trigger Search Algorithm
+
+> ![](../../../../assets/images/paper/adversarial/d85c0a95.png)
+
+우리는 첫번째로 trigger 의 길이를 선택한다.
+
+짧은 trigger 들은 좀 더 은밀한 반면 더 긴 trigger 들은 좀 더 효과적이다.
+
+다음으로 단어로는 "the", 서브워드로는 "a", 문자로는 "a" 를 반복함으로써 우리는 trigger sequence 를 초기화한다.
+
+그리고 모든 input 들의 앞 또는 뒤에 trigger 를 연결한다.
+
+그런 다음 반복적으로 예제 배치들의 대한 target prediction 에 대한 loss 를 최소화하기 위해 trigger 에서 토큰들을 대체한다.
+
+현재의 token 들을 어떻게 대체할지 결정하기 위해, token 들은 이산적이기 때문에 computer vision 에서의 Adversarial
+attack 방법들을 그대로 적용할 수 없다.
+
+대신에 그레디언트를 사용하여 토큰을 대체하는 것의 효과를 근사화하는 방법인 **HotFlip** (Ebrahimi et al., 2018b) 를 
+기반으로 한다.
+
+이 방법을 적용하기 위해, one-hot 벡터로 표현된 trigger token 인 $t_{adv}$ 는 $e_{adv}$ 형태로 임베딩 된다.
+
+> ![](../../../../assets/images/paper/adversarial/883d86a5.png)
+
+> ![](../../../../assets/images/paper/adversarial/fb6e3e07.png)
+
+**Token Replacement Strategy**
+
+우리의 HotFlip 에서 영감을 받은 토큰 대체 전략은 task loss 의 선형 근사이다.
+
+우리는 모든 trigger 토큰 $e_{adv_i}$ 에 대한 임베딩을 현재 토큰 주변의 loss 의 1차 테일러 근사를 최소화하기 
+위해 업데이트한다.
+
+$$ \underset{\mathbf{e}_i^\prime \in \mathcal{V}}{\operatorname{argmin}} \left 
+[ e_i^\prime - e_{adv_i} \right ]^T \nabla_{e_{adv_i}} \mathcal{L} \qquad (2) $$
+
+$\mathcal{V}$ 는 모델의 단어에서의 모든 토큰 임베딩들의 집합이고 $\nabla_{e_{adv_i}} \mathcal{L}$ 은
+batch 에 대한 task loss 의 평균 gradient 를 의미한다.
+
+최적의 $e_i^\prime$ 을 계산하는 것은 brute-force 로 $\mathcal{V}$ 크기 $d$-차원의 내적으로 효율적으로 계산할 수 있다.
+
+여기서 $d$ 는 토큰 임베딩의 차원수다.
+
+이 brute-force 방법은 사소하게 병렬화가 가능하고 우리가 고려하는 모든 모델들에 대해 forward pass 를 실행하는 것보다
+비용이 덜 든다.
+
+마지막으로 각각의 $e_{adv_i}$ 를 찾은 후에, 우리는 임베딩을 토큰으로 다시 변환한다.
+
+Figure 1 은 trigger 검색 알고리즘의 그림을 제공한다.
+
+> ![](../../../../assets/images/paper/adversarial/3b11fac5.png)
+
+> ![](../../../../assets/images/paper/adversarial/7a84a966.png)
+
+> ![](../../../../assets/images/paper/adversarial/d7676526.png)
+
+우리는 빔서치를 통해 토큰 대체 전략을 늘린다.
+
+우리는 trigger 에서 각각의 토큰 위치에 대한 방정식 (2) 로부터 top-k 토큰 후보들을 고려한다.
+
+우리는 위치를 왼쪽에서 오른쪽으로 검색하고 현재 배치에서 loss 를 사용하여 각각의 빔을 점수매긴다.
+
+우리는 계산적 제약 때문에 작은 빔 사이즈(k)를 사용했다. (Appendix A)
+
+빔 사이즈를 증가시키는 것은 우리의 결과를 향상시킬 수 있다.
+
+우리는 문맥화된 ELMo 임베딩과 BPE(Byte Pair Encoding) 을 사용한 서브워드 모델을 공격한다.
+
+이것은 이전의 논문에서 다루지 않은 어려움을 보여준다.
+
+예: ELMo 임베딩은 문맥에 따라 변화한다.
+
+우리는 Appendix A 에서 이러한 attack 을 다루기 위한 방법론을 설명했다.
+
+#### Appendix A
 
 
 
-
-
+ 
 
