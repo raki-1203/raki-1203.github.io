@@ -73,15 +73,15 @@ perturbed example $x'$ 은 $x$ 와 유사해 보이고 input example 들의 도�
 ### 3.1 General Architecture
 
 generator $\mathcal{G}$ (updated) 와 pre-trained target 분류기의 두개의 복사본(고정된 분류기 $C$ 와 
-update 되고 증강된 분류기 $C^*$)으로 구성된 grey-box attack 과 defence 프레임워크를 제안한다.
+update 되고 증강된 분류기 $C^\*$)으로 구성된 grey-box attack 과 defence 프레임워크를 제안한다.
 
-학습 단계에서 $\mathcal{G}$ 의 output 은 직접 결합된 구조 형태로 $C$ 와 $C^*$ 에 입력으로 주어진다.
+학습 단계에서 $\mathcal{G}$ 의 output 은 직접 결합된 구조 형태로 $C$ 와 $C^\*$ 에 입력으로 주어진다.
 
 학습 후에, generator $\mathcal{G}$ 는 Adversarial example 들을 만들기(Adversarial attack) 위해 독립적으로 사용된다. 
 
-반면에 증강된 분류기 $C^*$ 는 robustness 가 증가한 향상된 분류기다. (Adversarial defence)
+반면에 증강된 분류기 $C^\*$ 는 robustness 가 증가한 향상된 분류기다. (Adversarial defence)
 
-$C$ 와 $C^*$ 는 같은 pre-trained weight 들에서 시작한다. 오직 $C^*$ 만 학습 중에 업데이트된다.
+$C$ 와 $C^\*$ 는 같은 pre-trained weight 들에서 시작한다. 오직 $C^\*$ 만 학습 중에 업데이트된다.
 
 > ![](../../../../assets/images/paper/adversarial/a2457eb3.png)
 
@@ -91,7 +91,7 @@ attacking step 은 오직 generator $\mathcal{G}$ 만 업데이트하고 input �
 최대화함으로써 약간의 perturbation 을 도입하도록 배운다.
 
 defending step 은 원본 example 들과 $\mathcal{G}$ 에 의해 생성된 Adversarial example 들을 input 으로 줌으로써 
-$C^*$ 와 $\mathcal{G}$ 를 업데이트한다.
+$C^\*$ 와 $\mathcal{G}$ 를 업데이트한다.
 
 여기서, Adversarial example 들은 원본 example 들과 같은 label 을 공유한다고 가정된다.
 
@@ -101,12 +101,12 @@ $C^*$ 와 $\mathcal{G}$ 를 업데이트한다.
 제안한다.
 
 각각의 생성 step $i$ 에 대해, vocabulary 로부터 단어를 샘플링하는것 대신에, vocabulary 안에 단어들에 대한 완전한
-확률 분포를 갖는 Gumbel-softmax 샘플 $x_i^*$ 를 뽑는다.
+확률 분포를 갖는 Gumbel-softmax 샘플 $x_i^\*$ 를 뽑는다.
 
-$\rightarrow$ 생성된 단어의 확률은 1.0에 가깝고 다른 단어들은 0에 가깝다.
+$\arrow$ 생성된 단어의 확률은 1.0에 가깝고 다른 단어들은 0에 가깝다.
 
-우리는 샘플 $x_i^*$ 와 target 모델 $C$ 의 단어 임베딩 행렬 $M_C$ 를 곱함으로써 $C$ 와 $C^*$ 에 대한 input 임베딩
-($x_i^* \cdot M_C$)을 얻는다.
+우리는 샘플 $x_i^\*$ 와 target 모델 $C$ 의 단어 임베딩 행렬 $M_C$ 를 곱함으로써 $C$ 와 $C^\*$ 에 대한 input 임베딩
+($x_i^\* \cdot M_C$)을 얻는다.
 
 generator $\mathcal{G}$ 는 데이터 조건에 의해 본질적으로 구별되는 auto-encoder 또는 paraphrase generator 로 
 구현될 수 있다.
@@ -128,7 +128,7 @@ auto-encoder 는 input example 을 재구성하려고 시도하지만 재구성�
 
 - $L_{adv}$ 는 본질적으로 $C$ 의 negative cross-entropy loss
 - $L_{s2s}$ 는 input 재구성에 대한 sequence-to-sequence loss
-- $L_{sem}$ 는 $x$ 와 $x^*$ 의 averaged 임베딩들 사이의 코사인 유사도
+- $L_{sem}$ 는 $x$ 와 $x^\*$ 의 averaged 임베딩들 사이의 코사인 유사도
 - $n$ 은 단어의 수
 
 여기서 $L_{s2s}$ 는 $x'$ (test 시 생성되는) 에게 어휘적으로 $x$ 와 유사하게 되도록 장려하고 논리적인 문장들을 생성하는 
@@ -143,8 +143,8 @@ $$ L = \lambda_1 (\lambda_2 L_{s2s} + (1 - \lambda_2) L_{sem} ) + (1 - \lambda_1
 우리는 이러한 objective 로 훈련된 auto-encoder 기반 generator 를 **AE** 로 나타낸다.
 
 우리의 서두의 실험들로부터 얻어진 정보는 generator 는 다른 class 들 사이에 불균형된 attacking 을 수행하는 경향이 
-있다는 것이다. (예: AE 는 완전히 한 방향 attacking 에 집중해 학습한다. positive $\rightarrow$ negative or 
-negative $\rightarrow$ positive attack)
+있다는 것이다. (예: AE 는 완전히 한 방향 attacking 에 집중해 학습한다. positive $\arrow$ negative or 
+negative $\arrow$ positive attack)
 
 우리는 FGSM 과 DeepFool 같은 white-box attack 방법들에서 유사한 문제를 발견했다.
 
@@ -161,14 +161,14 @@ $$ L_{adv} = max^{\vert C \vert}_{t=1} ( L_{adv}^t ) $$
 
 Adversarial defence 에 대해, 다음의 예외를 가지고 같은 objective 함수를 사용한다.
 
-방정식 (1) $ L_{adv] = log p_C(y \vert x, \theta_C, \theta_{\mathcal{G}}) $ 을 분류기 $C^*$ 의 objective 함수로 바꾼다.
+방정식 (1) $ L_{adv] = log p_C(y \vert x, \theta_C, \theta_{\mathcal{G}}) $ 을 분류기 $C^\*$ 의 objective 함수로 바꾼다.
 
 즉,
 
-$$ L_{def} = - log p_{C^*} ( left [ y, y right ] \vert left [ x, x^* right ], \theta_C, \theta_{\mathcal{G}} ) $$
+$$ L_{def} = - log p_{C^{*}} (  [ y, y  ] \vert  [ x, x^{*}  ], \theta_C, \theta_{\mathcal{G}} ) $$
 
-우리는 원본과 Adversarial example 들($x$ 와 $x^*$)과 모델 $C^*$ 가 Adversarial example 들에게 오버피팅되는 것을 
-막아주는 원본 label($y$) 을 사용하여 모델 $C^*$ 를 학습한다.
+우리는 원본과 Adversarial example 들($x$ 와 $x^\*$)과 모델 $C^\*$ 가 Adversarial example 들에게 오버피팅되는 것을 
+막아주는 원본 label($y$) 을 사용하여 모델 $C^\*$ 를 학습한다.
 
 ### 3.3 Label Preservation
 
@@ -237,8 +237,8 @@ grey-box 방법들보다 쉽다.
 
 예: 
 
-input 문장 $x = left [ w_0, w_1, w_2 right ]$, target $x^* = left [ w_0, w_1, w_2 right ]$, 
-mask $m = left [ 1, 0, 1 right ]$ 가 주어지면 test 시점에 decoder 는 $w_0$ 와 $w_2$ 를 만들기 위해 
+input 문장 $x =  [ w_0, w_1, w_2  ]$, target $x^\* =  [ w_0, w_1, w_2  ]$, 
+mask $m =  [ 1, 0, 1  ]$ 가 주어지면 test 시점에 decoder 는 $w_0$ 와 $w_2$ 를 만들기 위해 
 첫번째 input ($w_0$) 과 3번째 input ($w_2$)에 대한 target 으로부터 "copy" 할 것이다.
 
 하지만, 2번째 input ($w_1$) 을 위해 vocabulary 로부터 decode 될 것이다.
@@ -279,7 +279,7 @@ positive class 를 negative class 와 같도록 다운샘플링했다.
 
 ### 4.2 Implementation Details
 
-target 분류기($C$ 와 $C^*$) 에 대해서, `yelp50` 을 사용하여 3개의 감성 분류 모델들을 사전학습했다.
+target 분류기($C$ 와 $C^\*$) 에 대해서, `yelp50` 을 사용하여 3개의 감성 분류 모델들을 사전학습했다.
 
 - **C-LSTM** (Wang et al., 2016)
   - 하나의 embedding layer, 하나의 2-layer 양방향 **LSTM**, 하나의 self-attention layer, 하나의 output layer 로 
@@ -290,8 +290,8 @@ target 분류기($C$ 와 $C^*$) 에 대해서, `yelp50` 을 사용하여 3개의
 - **C-BERT**
   - 감성 분류를 위한 **BERT-Base** 모델 파인튜닝 함으로써 얻어진다.
   
-우리는 learning rate, batch size, layer 의 수, 모든 분류기들에 대한 hidden unit 들(특별히 **C-LSTM 을 위한 
-**attention unit 들의 수와 컨볼루션 필터 크기와 **C-CNN** 을 위한 dropout rate)의 수를 튜닝했다.
+우리는 learning rate, batch size, layer 의 수, 모든 분류기들에 대한 hidden unit 들(특별히 **C-LSTM** 을 위한 
+attention unit 들의 수와 컨볼루션 필터 크기와 **C-CNN** 을 위한 dropout rate)의 수를 튜닝했다.
 
 auto-encoder 에 대해, 우리는 `yelp50` 에서 문장들을 재구성하기 위해 사전학습했다.
 
@@ -314,7 +314,7 @@ Adversarial attacking 의 학습하는 동안 우리는 $\lambda_1$ 과 $\lambda
 비교했다.
 
 Adversarial attack 데 대한 결과들은 $\mathcal{G} + C$ 결합 구조를 사용하여 얻어진 반면에 Adversarial defence 에 대한 
-결과들은 $\mathcal{G} + C + C^*$ 결합 구조에 의해 얻어진 것을 주목(주의)하자
+결과들은 $\mathcal{G} + C + C^\*$ 결합 구조에 의해 얻어진 것을 주목(주의)하자
 
 #### 4.3.1 Evaluationo Metrics
 
@@ -467,11 +467,11 @@ Adversarial example 을 25개씩 샘플링했다.
 크라우드 워커들에게 다음의 질문들을 물어본다.
 
 1. snippet(작은 정보, 한 토막) B 가 snippet A 의 좋은 표현인가요?
-   - Yes | Somewhat yes | No
+   - Yes \| Somewhat yes \| No
 2. 텍스트는 얼마나 자연스럽게 읽히나요?
-   - Very unnatural | Somewhat natural | Natural
+   - Very unnatural \| Somewhat natural \| Natural
 3. 텍스트의 감정은 무엇인가?
-   - Positive | Negative | Cannot tell
+   - Positive \| Negative \| Cannot tell
 
 Figure 2 에서 인간 평가 결과를 제시한다.
 
@@ -493,7 +493,7 @@ HOTFLIP 은 여기서 가장 덜 인상적인 방법이고 이러한 관찰은 T
 
 ### 4.4 Defending Performance
 
-attacking 성능 실험과는 달리, 여기서 우리는 augmented 분류기($C^*$) 를 grey-box 학습의 부분으로 포함한다.
+attacking 성능 실험과는 달리, 여기서 우리는 augmented 분류기($C^\*$) 를 grey-box 학습의 부분으로 포함한다.
 
 Adversarial defence 의 성능을 평가하기 위해, 여러가지의 attacking 방법들에 대항하는 augmented 분류기들의 정확도를
 평가했다.
@@ -501,11 +501,11 @@ Adversarial defence 의 성능을 평가하기 위해, 여러가지의 attacking
 HOTFLIP 과 TEXTFOOLER 로부터 생성된 Adversarial example 들로 adversarially 학습된 augmented 분류기와 
 우리의 augmented 분류기를 비교했다.
 
-사전 결과가 copy 메카니즘 없이 학습한 $C^*$ 가 더 나은 defending 성능을 제공하는 것을 보여준다.
+사전 결과가 copy 메카니즘 없이 학습한 $C^\*$ 가 더 나은 defending 성능을 제공하는 것을 보여준다.
 
-그래서 $C^*$ 를 얻기 위해 **AE+LS+CF** 구조를 사용한다.
+그래서 $C^\*$ 를 얻기 위해 **AE+LS+CF** 구조를 사용한다.
 
-공정한 비교를 위해, 우리의 augmented 분류기($C^*$)는 고정된 분류기($C$)에서 T2 정확도(70%)의 attacking 성능을 생산하는
+공정한 비교를 위해, 우리의 augmented 분류기($C^\*$)는 고정된 분류기($C$)에서 T2 정확도(70%)의 attacking 성능을 생산하는
 generator($\mathcal{G}$)을 학습함으로써 얻어진다.
 
 다른 두가지 방법들을 위해, 우리는 원본 학습 데이터와 같은 T2 attacking 성능을 가지는 HOTFLIP 과 TEXTFOOLER 에 의해 
@@ -524,7 +524,7 @@ generator($\mathcal{G}$)을 학습함으로써 얻어진다.
 
 여기서 높은 정확도를 볼 수 있는데 이것은 augmented 분류기가 여전히 원본 데이터에 대해 잘 수행된다는 것을 나타낸다.
 
-여러가지의 분류기들과 비교하며, 우리의 augmented 분류기 $C^*$ 는 다양한 Adversarial attacking 방법들에 대항해
+여러가지의 분류기들과 비교하며, 우리의 augmented 분류기 $C^\*$ 는 다양한 Adversarial attacking 방법들에 대항해
 방어함에 있어 다른 2개의 분류기보다($C_{HOTFLIP}$, $C_{TEXTFOOLER}$) 뛰어나다. (특별히 HOTFLIP 에 대해서 좋다.)
 
 원본 분류기 $C$ 와 비교해 TYC 는 0.7, HOTFLIP 은 21.8, TEXTFOOLER 는 2.9 그리고 **AE+LS+CF** 는 16.0 포인트의 
