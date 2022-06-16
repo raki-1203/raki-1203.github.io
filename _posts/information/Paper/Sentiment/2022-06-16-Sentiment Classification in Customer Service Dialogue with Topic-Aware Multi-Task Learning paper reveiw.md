@@ -65,7 +65,7 @@ $\mu(d)$ 와 $\sigma(d)$ 는 Multilayer Perceptron(MLP)에 의해 구현됨
 
 그 다음 $q(z \vert d)$ 분포에서의 sample $\hat{z} = \mu(d) + \epsilon \cdot \sigma(d)$ 만듦
 
-이때, $\epsilon$ 은 $N(**0**, **I^2**)$ 로부터 샘플링 됨
+이때, $\epsilon$ 은 $N(0, I^2)$ 로부터 샘플링 됨
 
 마지막으로 Topic Distribution $\theta = softmax(W_{\theta}\hat{z} + b_{\theta})$ 를 구함
 
@@ -90,7 +90,7 @@ topic model 을 위한 loss function 은 이렇게 정의됨
 
 $L = KL \left q(z \vert d) \parallel p(z) \right - \mathbb{E}_{q(z \vert d)} \left \log p(d \vert \theta, \beta) \right$
 
-$p(z)$ 는 표준정규분포 $N(**0**, **I^2**) 임
+$p(z)$ 는 표준정규분포 $N(0, I^2) 임
 
 첫번째 term 은 학습된 분포인 $q(z \vert d)$ 가 실제 사전 분포인 $p(z)$ 와 유사함을 보장하는 KL divergence 값임 
 
