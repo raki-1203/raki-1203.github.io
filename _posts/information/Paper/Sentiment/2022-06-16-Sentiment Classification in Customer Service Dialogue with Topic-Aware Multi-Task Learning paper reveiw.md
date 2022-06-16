@@ -82,13 +82,13 @@ Topic Embedding $\Phi$ 는 $K \times M$ 차원의 행렬임
 
 이 때, $K$ 는 토픽의 수를 의미
 
-$beta_k = softmax(\frac{W \cdots /phi}{/sqrt{M}})$
+$beta_k = softmax(\frac{W \cdot \phi}{\sqrt{M}})$
 
-이 때, $/phi_k$ 는 $\Phi$ 에서 $k$ 번째 topic embedding 임
+이 때, $\phi_k$ 는 $\Phi$ 에서 $k$ 번째 topic embedding 임
 
 topic model 을 위한 loss function 은 이렇게 정의됨
 
-$L = KL \left q(z \vert d) \parallel p(z) \right - \mathbb{E}_{q(z \vert d)} \left \log p(d \vert \theta, \beta) \right$
+$L = KL \[ q(z \vert d) \parallel p(z) \] - \mathbb{E}_{q(z \vert d)} \[ \log p(d \vert \theta, \beta) \]$
 
 $p(z)$ 는 표준정규분포 $N(0, I^2) 임
 
@@ -108,7 +108,7 @@ Topic Representation 을 구성하기 위해 사용될 것임
 각각의 대화는 BOG Representation $d_{overall}$ 로 표현되고 Topic Distribution $\theta_{overall}$ 을 얻기 위해
 Overall Topic Model 에 입력으로 주어짐
 
-$ v_{overall} = \Phi_{overall}^{\Top} \cdots \theta_{overall} $ 
+$ v_{overall} = \Phi_{overall}^{\top} \cdot \theta_{overall} $ 
 
 **Auxiliary Task 2: Customer-Role Topic Inference**
 
@@ -117,14 +117,14 @@ Customer Service 대화에서 발화들은 고객의 발화와 상담사의 발�
 모든 고객의 발화들은 BOG Representation $d_{customer}$ 로 표현되고 Topic Distribution $\theta_{customer}$ 를 얻기 위해
 Customer-Role Topic Model 에 입력으로 주어짐
 
-$ v_{customer} = \Phi_{customer}^{\Top} \cdots \theta_{customer} $
+$ v_{customer} = \Phi_{customer}^{\top} \cdot \theta_{customer} $
 
 **Auxiliary Task 3: Agent-Role Topic Inference**
 
 모든 상담사의 발화들은 BOG Representation $d_{customer}$ 로 표현되고 Topic Distribution $\theta_{agent}$ 를 얻기 위해
 Agent-Role Topic Model 에 입력으로 주어짐
 
-$ v_{agent} = \Phi_{agent}^{\Top} \cdots \theta_{agent} $
+$ v_{agent} = \Phi_{agent}^{\top} \cdot \theta_{agent} $
 
 마지막으로 Auxiliary Task 3 개의 output 인 vector 를 합쳐서 이렇게 나타낼 수 있음
 
@@ -178,7 +178,8 @@ Overall, Customer-Role, Agent-Role 마다 가장 확률이 높은 10개의 단�
 
 ![](../../../../assets/images/paper/sentiment/6bbe5fce.png)
 
-실제로 발화자체는 크게 부정적인 표현이 아니지만 TML 구조는 문맥정보를 잘 파악하여 부정일 확률이 높은 것을 볼 수 있음  
+실제로 발화자체는 크게 부정적인 표현이 아니지만 TML 구조는 BERT 와 DialogueRNN 과 비교해서 문맥정보를 잘 파악하여 
+부정일 확률이 높은 것을 볼 수 있음  
 
 
 
