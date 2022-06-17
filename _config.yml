@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "늘 공부하는 딥린이"
   avatar           : "/assets/images/logo.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "더 잘하기 위해 **늘 공부하는 딥린이**"
-  location         : "South Korea"
+  bio              : "NLP Researcher"
+  location         : "Anyang, South Korea"
   email            :
   links:
     - label: "Email"
