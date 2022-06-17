@@ -98,7 +98,7 @@ dataset 들을 사용하여 baseline 과 비교하기 위해 수행하고 의미
 TARS 는 상대적으로 빠르게 target task 에 적응할 수 있고 모든 모델이 클래스당 매우 적은 수의 예제를 볼 때 훨씬 더 높은
 accuracy 를 얻을 수 있음
 
-하지만 $text{BERT}_{text{BASE}}$ 와 $text{BERT}_{text{BASE}}$(ft) 은 더 많은 훈련 데이터를 볼 수 있다면 성능이 더 좋음
+하지만 $\text{BERT}\_{\text{BASE}}$ 와 $\text{BERT}_{\text{BASE}}$(ft) 은 더 많은 훈련 데이터를 볼 수 있다면 성능이 더 좋음
 
 TARS 는 매우 적은 양의 데이터를 가진 영역에서 유용함
 
@@ -110,8 +110,8 @@ TARS 는 매우 적은 양의 데이터를 가진 영역에서 유용함
 
 DBPEDIA 에서 TREC-6 으로의 전이는 k <= 10 일 때, 두개의 task 사이의 의미적 거리가 있음에도 불구하고 상당한 성능을 
 보여줬지만 AMAZON-FULL 에서 AGNEWS 로의 전이(상당히 다른 언어와 도메인)에서 직접 target task 데이터로 학습된
-$text{BERT}_{text{BASE}}$ 모델이 모든 전이 학습 approach 들 보다 성능이 뛰어남
+$\text{BERT}_{\text{BASE}}$ 모델이 모든 전이 학습 approach 들 보다 성능이 뛰어남
 
-여기에서도 TARS 가 여전히 $text{BERT}_{text{BASE}}$(ft) 를 능가한다는 점은 흥미로움
+여기에서도 TARS 가 여전히 $\text{BERT}_{\text{BASE}}$(ft) 를 능가한다는 점은 흥미로움
 
 의미적으로 거리가 있는 task 들에 대해서도 전이학습에서 TARS 의 Robustness 함을 볼 수 있음
