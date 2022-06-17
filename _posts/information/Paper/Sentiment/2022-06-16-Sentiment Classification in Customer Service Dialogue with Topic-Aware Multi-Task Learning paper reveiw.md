@@ -1,5 +1,5 @@
 ---
-title: "Sentiment Classification in Customer Service Dialogue with Topic-Aware Multi-Task Learning paper review"
+title: "Sentiment Classification in Customer Service Dialogue with Topic-Aware Multi-Task Learning"
 
 categories:
   - Sentiment
