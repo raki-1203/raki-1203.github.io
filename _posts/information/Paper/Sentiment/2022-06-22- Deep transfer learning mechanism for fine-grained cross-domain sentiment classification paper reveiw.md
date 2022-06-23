@@ -176,5 +176,7 @@ DTLM 모델의 학습알고리즘은 다음과 같음
 
 ![](../../../../assets/images/paper/sentiment/6cf2be35.png)
 
+aspect 를 추출하는 방법에 관한 논문을 읽을 필요가 있어보임
 
+label 되지 않은 데이터의 정보도 활용하겠다는 점에 대해서는 나쁘지 않음
 
