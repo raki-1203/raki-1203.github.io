@@ -143,8 +143,8 @@ $$ L = \lambda_1 (\lambda_2 L_{s2s} + (1 - \lambda_2) L_{sem} ) + (1 - \lambda_1
 우리는 이러한 objective 로 훈련된 auto-encoder 기반 generator 를 **AE** 로 나타낸다.
 
 우리의 서두의 실험들로부터 얻어진 정보는 generator 는 다른 class 들 사이에 불균형된 attacking 을 수행하는 경향이 
-있다는 것이다. (예: AE 는 완전히 한 방향 attacking 에 집중해 학습한다. positive $\arrow$ negative or 
-negative $\arrow$ positive attack)
+있다는 것이다. (예: AE 는 완전히 한 방향 attacking 에 집중해 학습한다. positive $\rightarrow$ negative or 
+negative $\rightarrow$ positive attack)
 
 우리는 FGSM 과 DeepFool 같은 white-box attack 방법들에서 유사한 문제를 발견했다.
 
