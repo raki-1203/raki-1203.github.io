@@ -161,7 +161,7 @@ $$ L_{adv} = max^{\vert C \vert}_{t=1} ( L_{adv}^t ) $$
 
 Adversarial defence 에 대해, 다음의 예외를 가지고 같은 objective 함수를 사용한다.
 
-방정식 (1) $ L_{adv] = log p_C(y \vert x, \theta_C, \theta_{\mathcal{G}}) $ 을 분류기 $C^\*$ 의 objective 함수로 바꾼다.
+방정식 (1) $ L_{adv} = \log p_C(y \vert x, \theta_C, \theta_{\mathcal{G}}) $ 을 분류기 $C^\*$ 의 objective 함수로 바꾼다.
 
 즉,
 
