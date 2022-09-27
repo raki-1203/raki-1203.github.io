@@ -21,7 +21,7 @@ sidebar:
 
 - [찢은 모델 꾸겨 넣기: Quantization 이론]({{site.url}}/boostcamp_ai_tech/week_18/01.-Packing-Ripped-Models-The-Quantization-Theory/)
 - [찢은 모델 꾸겨 넣기: Quantization 실습]({{site.url}}/boostcamp_ai_tech/week_18/02.-Packing-Ripped-Models-The-Quantization-Exercises/)
-- [[마스터클래스] 클라이언트 사이드 ML - 김정훈 마스터]({{site.url}}/boostcamp_ai_tech/week_18/MasterClass-Kim-Joung-Hoon-Master/)
+- [[마스터클래스] 클라이언트 사이드 ML - 김정훈 마스터]({{site.url}}/boostcamp_ai_tech/week_18/MasterClass-Kim-Joung-Hoon-Master1/)
 
 ### [Day83] 모델최적화 10강
 
@@ -29,7 +29,7 @@ sidebar:
 
 ### [Day84] 마스터클래스
 
-- [[마스터클래스] 모델최적화대회 - 김정훈 마스터]({{site.url}}/boostcamp_ai_tech/week_18/MasterClass-Kim-Joung-Hoon-Master/)
+- [[마스터클래스] 모델최적화대회 - 김정훈 마스터]({{site.url}}/boostcamp_ai_tech/week_18/MasterClass-Kim-Joung-Hoon-Master2/)
 
 
 ### [Week18 피어세션 정리](https://github.com/sangmandu/SangSangPlus/tree/main/Meet-up%20log/Week10)
