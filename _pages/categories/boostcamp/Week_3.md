@@ -7,20 +7,20 @@ sidebar:
     nav: "docs"
 ---
 
-### [[Day11] PyTorch 기본 1 ~ 3강 & 필수과제 Custom Model 개발하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/README/)
+### [[Day11] PyTorch 기본 1 ~ 3강 & 필수과제 Custom Model 개발하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/README11/)
 
 - [Introduction to PyTorch](https://raki-1203.github.io/boostcamp_ai_tech/week_3/01.-Introduction-to-PyTorch/)
 - [PyTorch Basics](https://raki-1203.github.io/boostcamp_ai_tech/week_3/02.-PyTorch-Basics/)
 - [PyTorch 프로젝트 구조 이해하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/03.-PyTorch-Project-Structure/)
 - [필수과제] Custom Model 개발하기
 
-### [[Day12] PyTorch 기본 4 ~ 5강 & 필수과제 Custom Dataset 과제](https://raki-1203.github.io/boostcamp_ai_tech/week_3/README/)
+### [[Day12] PyTorch 기본 4 ~ 5강 & 필수과제 Custom Dataset 과제](https://raki-1203.github.io/boostcamp_ai_tech/week_3/README12/)
 
 - [AutoGrad & Optimizer](https://raki-1203.github.io/boostcamp_ai_tech/week_3/01.-AutoGrad-&-Optimizer/)
 - [Dataset & Dataloader](https://raki-1203.github.io/boostcamp_ai_tech/week_3/02.-Dataset-&-Dataloader/)
 - [필수과제] Custom Dataset 과제
 
-### [[Day13] PyTorch 기본 6 ~ 7강 & 시각화 3-1 ~ 3-2강 & 선택과제 Transfer Learning + Parameter Tuning](https://raki-1203.github.io/boostcamp_ai_tech/week_3/README/)
+### [[Day13] PyTorch 기본 6 ~ 7강 & 시각화 3-1 ~ 3-2강 & 선택과제 Transfer Learning + Parameter Tuning](https://raki-1203.github.io/boostcamp_ai_tech/week_3/README13/)
 
 - [모델 불러오기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/01.-Load-Model/)
 - [Monitoring tools for PyTorch](https://raki-1203.github.io/boostcamp_ai_tech/week_3/02.-Monitoroing-tools-for-PyTorch/)
@@ -28,7 +28,7 @@ sidebar:
 - [Color 사용하기](https://raki-1203.github.io/boostcamp_ai_tech/week_3/04.-Color/)
 - [선택과제] Transfer Learning + Parameter Tuning
 
-### [[Day14] PyTorch 기본 8 ~ 10강 & 시각화 3-3 ~ 3-4강](https://raki-1203.github.io/boostcamp_ai_tech/week_3/README/)
+### [[Day14] PyTorch 기본 8 ~ 10강 & 시각화 3-3 ~ 3-4강](https://raki-1203.github.io/boostcamp_ai_tech/week_3/README14/)
 
 - [Multi-GPU 학습](https://raki-1203.github.io/boostcamp_ai_tech/week_3/01.-Multi-GPU/)
 - [Hyperparameter Tuning](https://raki-1203.github.io/boostcamp_ai_tech/week_3/02.-Hyperparameter-Tuning/)

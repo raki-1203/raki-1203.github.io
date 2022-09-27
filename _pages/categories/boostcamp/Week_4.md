@@ -7,31 +7,31 @@ sidebar:
     nav: "docs"
 ---
 
-### [[Day15] 이미지 분류 1 ~ 2강 & 시각화 4-1 ~ 4-2강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README/)
+### [[Day15] 이미지 분류 1 ~ 2강 & 시각화 4-1 ~ 4-2강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README15/)
 
 - [Competition with AI Stages!](https://raki-1203.github.io/boostcamp_ai_tech/week_4/01.-Competition-with-AI-Stages!/)
 - [Image Classification & EDA](https://raki-1203.github.io/boostcamp_ai_tech/week_4/02.-Image-Classification-&-EDA/)
 - [Seaborn 소개](https://raki-1203.github.io/boostcamp_ai_tech/week_4/03.-Seaborn-Intro/)
 - [Seaborn 기초](https://raki-1203.github.io/boostcamp_ai_tech/week_4/04.-Seaborn-Basic/)
 
-### [[Day16] 이미지 분류 3 ~ 4강 & 시각화 4-3강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README/)
+### [[Day16] 이미지 분류 3 ~ 4강 & 시각화 4-3강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README16/)
 
 - [Dataset](https://raki-1203.github.io/boostcamp_ai_tech/week_4/01.-Dataset/)
 - [Data Generation](https://raki-1203.github.io/boostcamp_ai_tech/week_4/02.-Data-Generation/)
 - [Seaborn 심화](https://raki-1203.github.io/boostcamp_ai_tech/week_4/03.-Seaborn-deep/)
 
-### [[Day17] 이미지 분류 5 ~ 6강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README/)
+### [[Day17] 이미지 분류 5 ~ 6강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README17/)
 
 - [Model 1](https://raki-1203.github.io/boostcamp_ai_tech/week_4/01.-Model-1/)
 - [Model 2](https://raki-1203.github.io/boostcamp_ai_tech/week_4/02.-Model-2/)
 
-### [[Day18] 이미지 분류 7 ~ 8강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README/)
+### [[Day18] 이미지 분류 7 ~ 8강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README18/)
 
 - [Training & Inference 1](https://raki-1203.github.io/boostcamp_ai_tech/week_4/01.-Training-&-Inference-1/)
 - [Training & Inference 2](https://raki-1203.github.io/boostcamp_ai_tech/week_4/02.-Training-&-Inference-2/)
 - [[마스터클래스] 김태진 마스터](https://raki-1203.github.io/boostcamp_ai_tech/week_4/MasterClass-KimTaeJin-Professor/)
 
-### [[Day19] 이미지 분류 9 ~ 10강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README/)
+### [[Day19] 이미지 분류 9 ~ 10강](https://raki-1203.github.io/boostcamp_ai_tech/week_4/README19/)
 
 - [Ensemble](https://raki-1203.github.io/boostcamp_ai_tech/week_4/01.-Ensemble/)
 - [Experiment Toolkits & Tips](https://raki-1203.github.io/boostcamp_ai_tech/week_4/02.-Experiment-Toolkits-&-Tips/)
