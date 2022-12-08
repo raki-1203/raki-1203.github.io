@@ -7,10 +7,10 @@ tags:
   - Paper
 ---
   
-- 1편 [Attention Is All You Need Review (1)]({{site.url}}/boostcamp_ai_tech/week_7/day_32/01.-Attention-Is-All-You-Need-paper-reveiw-(1)/)
-- 2편 [Attention Is All You Need Review (2)]({{site.url}}/boostcamp_ai_tech/week_7/day_33/01.-Attention-Is-All-You-Need-paper-reveiw-(2)/)
-- 3편 [Attention Is All You Need Review (3)]({{site.url}}/boostcamp_ai_tech/week_7/day_34/01.-Attention-Is-All-You-Need-paper-reveiw-(3)/)
-- 4편 [Attention Is All You Need Review (4)]({{site.url}}/boostcamp_ai_tech/week_8/day_36/01.-Attention-Is-All-You-Need-paper-reveiw-(4)/)
+- 1편 [Attention Is All You Need Review (1)]({{site.url}}/transformer/Attention-Is-All-You-Need-paper-reveiw-(1)/)
+- 2편 [Attention Is All You Need Review (2)]({{site.url}}/transformer/Attention-Is-All-You-Need-paper-reveiw-(2)/)
+- 3편 [Attention Is All You Need Review (3)]({{site.url}}/transformer/Attention-Is-All-You-Need-paper-reveiw-(3)/)
+- 4편 [Attention Is All You Need Review (4)]({{site.url}}/transformer/Attention-Is-All-You-Need-paper-reveiw-(4)/)
 
 # Attention Is All You Need paper review (1)
 
