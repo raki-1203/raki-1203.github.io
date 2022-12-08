@@ -1,5 +1,5 @@
 ---
-title: "Dual Contrastive Learning Paper Review (1)"
+title: "Dual Contrastive Learning Paper Review (3)"
 
 categories:
   - ContrastiveLearning
