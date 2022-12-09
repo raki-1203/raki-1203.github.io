@@ -73,7 +73,7 @@ Classification 알고리즘을 개발해야 한다는 사실로 나타남
 우리는 이 Classifier 를 Example $x$ 에 대한 "one-example" Classifier 로 부를 것임
 
 이러한 관점에서, 각각의 Example $x$ 의 두가지 양(Quantities), 즉 적절한 Feature Space 차원 $d$ 에 대한 벡터
-$z \in \mathbb{R}^d$ 과 $x$ 에 대한 Linear Classifier 를 정의하는 행렬 $\theta \in \mathbb{R}^{d \times K}
+$z \in \mathbb{R}^d$ 과 $x$ 에 대한 Linear Classifier 를 정의하는 행렬 $\theta \in \mathbb{R}^{d \times K}$
 (K 개의 Class 를 가지는 Classification 문제라고 가정하였을 때) 에 연관되는 것은 당연함
 
 Supervised Setting 에서 Representation Learning 문제는 Input Example $x$ 에 대한 쌍(pair) $(z, \theta)$ 를 생성하기 위한
