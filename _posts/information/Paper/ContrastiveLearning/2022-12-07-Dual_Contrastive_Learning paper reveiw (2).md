@@ -158,7 +158,7 @@ $$ \mathcal{L}_z = \frac{1}{N} \sum_{i \in I} \frac{1}{\vert P_i \vert} \sum_{p 
 의 인덱스(Index) 의 집합이고 $P_i := \lbrace p \in A_i : y_p = y_i \rbrace$ 는 Positive Sample 의 인덱스(Index)의 집합
 이고 $\vert P_i \vert$ 는 $P_i$ 의 원소의 개수임
 
-유사하게, Anchor $\theta_i^*$ 가 주어지면, 우리는 Positive Sample 로 $\lbrace z_j \rbrace_{j \in P_i$ 를 취하고
+유사하게, Anchor $\theta_i^*$ 가 주어지면, 우리는 Positive Sample 로 $\lbrace z_j \rbrace_{j \in P_i}$ 를 취하고
 Negative Sample 로 $\lbrace z_j \rbrace_{j \in A_i \backslash P_i}$ 를 취하고 또 다른 Contrastive Loss 를 정의함
 
 $$ \mathcal{L}_{\theta} = \frac{1}{N} \sum_{i \in I} \frac{1}{\vert P_i \vert} \sum_{p \in P_i} - \log \frac{\exp(\theta_i^* \cdot z_p / \tau)}{\sum_{a \in A_i} \exp(\theta_i^* \cdot z_a / \tau)} \quad (4)$$
