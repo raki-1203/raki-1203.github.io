@@ -112,7 +112,7 @@ Dual Contrastive Learning 이 어떻게 Representation 의 질(Quality)을 향�
 그림 2 에서 DualCL 은 Input Sample 과 각 Sample 과 연관된 Classifier 모두에 대한 Representation 을 학습한다는 것을
 알 수 있음
 
-그림 2 (b) 와 (c) 를 비교하면, Dual Contrastive Loss 는 Training Sample 사이의 관계를 활욤하고 모델에게 추가적인
+그림 2 (b) 와 (c) 를 비교하면, Dual Contrastive Loss 는 Training Sample 사이의 관계를 활용하고 모델에게 추가적인
 제약을 부과함으로써 모델이 Input Feature 와 Classifier 에 대한 Representation 을 보다 차별적이고 강건하게 학습하는 데
 도움이 되는 것을 발견함
 
