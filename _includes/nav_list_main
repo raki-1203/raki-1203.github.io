@@ -51,6 +51,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "ErrorSolution" %}
+                        <li><a href="/categories/ErrorSolution" class="">Error Solution({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Docker" %}
                         <li><a href="/categories/Docker" class="">Docker({{category[1].size}})</a></li>
                     {% endif %}
